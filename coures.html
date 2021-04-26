@@ -1,0 +1,88 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Home Jumbotron
+================================================== -->
+<section class="intro full-width">
+    <div class="wrapintro">
+        <h1>Irvine Coding Club</h1>
+        <h2 class="lead">A Non Profit Orgnization Serving K-12 Students in Orange County</h2>
+        <a href="/discord" class="btn">Meet Us Now!</a>
+    </div>
+</section>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>EVENTS</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.course == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %}
+
+<section class="recent-posts row">
+
+    <div class="col-sm-8">
+
+        <div class="section-title">
+            <h2><span>COURSES</span></h2>
+        </div>
+
+        <div class="masonrygrid row listrecent">
+
+            {% for post in paginator.posts %}
+
+            {% if post.course == true %}
+
+                {% include postbox.html %}
+
+            {% endif %}
+
+            {% endfor %}
+
+        </div>
+
+        <!-- Pagination -->
+        <div class="bottompagination">
+
+            <span class="navigation" role="navigation">
+
+                {% include pagination.html %}
+
+            </span>
+
+        </div>
+
+    </div>
+
+        <div class="col-sm-4">
+            {% include sidebar.html %}
+        </div>
+
+</section>
