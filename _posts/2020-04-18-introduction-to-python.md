@@ -2,7 +2,7 @@
 layout: post
 title:  "Python and Math Problems"
 image: assets/images/icc1.jpg
-image2: assets/images/python_class.jpg
+image2: https://projecteuler.net/images/clipart/euler_portrait.png
 course: true
 comments: false
 excerpt: "An intermediate level course solving Project Euler problems."
