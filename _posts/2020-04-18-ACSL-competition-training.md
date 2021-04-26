@@ -4,6 +4,7 @@ title:  "American Computer Science League (ACSL)"
 image: assets/images/icc1.jpg
 image2: assets/images/EmbeddedImage.png
 permalink: /acsl
+course: true
 comments: false
 excerpt: "Train and Preparing for 2021-2022 ACSL Competition."
 ---
