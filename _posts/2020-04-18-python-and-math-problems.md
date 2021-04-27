@@ -42,11 +42,11 @@ In this course, we will use Python program to solve mathematical problems. We wi
 
 # Lesson 3  Prime number
 
-## How to check if a number is a Prime ?
+#### How to check if a number is a Prime ?
 
 ###### Problem 3: Largest prime factor
 
-## Sieve of Eratosthenes Algorithm
+#### Sieve of Eratosthenes Algorithm
 
 # Lesson 4 Counting
 
