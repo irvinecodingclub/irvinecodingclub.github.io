@@ -28,8 +28,6 @@ In this course, we will use Python program to solve mathematical problems. We wi
 ### Project Euler
 [Project Euler](https://projecteuler.net/) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-## Python Data Structure Review: List, Set, Dict
-
 ###### Problem 1: Multiples of 3 and 5
 
 ###### Problem 2: Even Fibonacci numbers
