@@ -47,6 +47,8 @@ In this course, we will use Python program to solve mathematical problems. We wi
 
 #### Sieve of Eratosthenes Algorithm
 
+###### Problem 10: Summation of primes
+
 # Lesson 4 Counting
 
 ###### Problem 114 Count the ways a row measuring fifty units in length could be filled with blocks three units long
@@ -58,5 +60,3 @@ In this course, we will use Python program to solve mathematical problems. We wi
 ###### Problem 12 Highly divisible triangular numbers
 ###### Problem 16 Power digit sumPermalink
 ###### Problem 9 Special Pythagorean triplet
-
- 
