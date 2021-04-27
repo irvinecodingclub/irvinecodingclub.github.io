@@ -5,7 +5,7 @@ image: assets/images/icc1.jpg
 image2: assets/images/euler_portrait.png
 course: true
 comments: false
-excerpt: "Learn algorithms to solve math problems using Python. "
+excerpt: "Learn algorithms to solve math problems using Python.  "
 ---
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
@@ -58,3 +58,7 @@ In this course, we will use Python program to solve mathematical problems. We wi
 ###### Problem 12 Highly divisible triangular numbers
 ###### Problem 16 Power digit sumPermalink
 ###### Problem 9 Special Pythagorean triplet
+
+# Lesson 6  Cryptography
+
+###### Cesear
