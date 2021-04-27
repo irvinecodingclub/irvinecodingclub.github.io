@@ -34,6 +34,10 @@ In this course, we will use Python program to solve mathematical problems. We wi
 
 ###### Problem 4 Largest palindrome product
 
+###### Problem 76: Number of ways a number can be written as a sum of at least two positive integers
+
+###### Problem 12: Highly divisible triangular number
+
 # Lesson 2 Prime number
 
 #### How to check if a number is a Prime ?
