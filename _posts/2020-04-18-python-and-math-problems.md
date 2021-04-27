@@ -36,7 +36,8 @@ In this course, we will use Python program to solve mathematical problems. We wi
 
 # Lesson 2  LCM and GCD: the Euclidean Algorithm
 
-###### Problem 350 Constraining the least greatest and the greatest least
+###### Problem 5: Smallest multiple
+###### Problem 350: Constraining the least greatest and the greatest least
 
 # Lesson 3  Prime number
 
