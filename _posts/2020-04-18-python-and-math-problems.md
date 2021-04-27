@@ -59,8 +59,4 @@ In this course, we will use Python program to solve mathematical problems. We wi
 ###### Problem 16 Power digit sumPermalink
 ###### Problem 9 Special Pythagorean triplet
 
-# Lesson 6  Cryptography
-
-###### CesearCipher
-###### Enigma Machine in Python
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg/1024px-Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg)
+ 
