@@ -34,12 +34,7 @@ In this course, we will use Python program to solve mathematical problems. We wi
 
 ###### Problem 4 Largest palindrome product
 
-# Lesson 2  LCM and GCD: the Euclidean Algorithm
-
-###### Problem 5: Smallest multiple
-###### Problem 350: Constraining the least greatest and the greatest least
-
-# Lesson 3  Prime number
+# Lesson 2 Prime number
 
 #### How to check if a number is a Prime ?
 
@@ -48,6 +43,12 @@ In this course, we will use Python program to solve mathematical problems. We wi
 #### Sieve of Eratosthenes Algorithm
 
 ###### Problem 10: Summation of primes
+
+# Lesson 3  LCM and GCD: the Euclidean Algorithm
+
+###### Problem 5: Smallest multiple
+###### Problem 350: Constraining the least greatest and the greatest least
+
 
 # Lesson 4 Counting
 
