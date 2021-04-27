@@ -43,6 +43,8 @@ In this course, we will use Python program to solve mathematical problems. We wi
 #### Sieve of Eratosthenes Algorithm
 
 ###### Problem 10: Summation of primes
+###### Problem 7:  10001st prime
+###### Problem 87: Prime power triplets
 
 # Lesson 3  LCM and GCD: the Euclidean Algorithm
 
