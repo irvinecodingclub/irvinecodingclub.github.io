@@ -13,7 +13,7 @@ Irvine Coding Club is a non profit orgnization run by students and serving servi
 
       <div class="pe">
         <img src="/assets/images/melodyimg.png" alt="rafeh">
-        <div class="p-name">Melod Yu</div>
+        <div class="p-name">Melody Yu</div>
         <div class="p-des">President, Co-Founder</div>
       </div>
 
