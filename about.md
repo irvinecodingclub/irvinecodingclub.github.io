@@ -4,7 +4,7 @@ title: About
 comments: false
 ---
 
-Irvine Coding Club is a non profit orgnization run by students and serving serving K-12 students in Orange County.
+Irvine Coding Club is a non profit orgnization run by students and serving K-12 students in Orange County.
 
 <div class="team-section">
   <div class="inner-width">
