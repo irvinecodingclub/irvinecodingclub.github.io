@@ -1,7 +1,7 @@
 # Site
 name: "Irvine Coding Club"
 title: "Irvine Coding Club"
-description: "A Coding Club Serving Students in Orange County"
+description: "Serving Students in Orange County"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
