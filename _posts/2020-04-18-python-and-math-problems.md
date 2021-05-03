@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python and Math Problems"
+title:  "Python in Projects"
 image: assets/images/icc1.jpg
 image2: assets/images/euler_portrait.png
 course: true
