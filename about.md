@@ -12,14 +12,14 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
     <div class="pers">
 
       <div class="pe">
-        <img src="/assets/images/melodyimg.png" alt="rafeh">
-        <div class="p-name">Melody Yu</div>
+              <img src="/assets/images/agtiger.jpg" alt="rafeh">
+        <div class="p-name">Agam Randhawa</div>
         <div class="p-des">President, Co-Founder</div>
       </div>
 
       <div class="pe">
-              <img src="/assets/images/agtiger.jpg" alt="rafeh">
-        <div class="p-name">Agam Randhawa</div>
+        <img src="/assets/images/melodyimg.png" alt="rafeh">
+        <div class="p-name">Melody Yu</div>
         <div class="p-des">President, Co-Founder</div>
       </div>
 
@@ -48,6 +48,12 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
             </div>
 
             <div class="pe">
+              <img src="/assets/images/sarahchen.jpg" alt="rafeh">
+              <div class="p-name">Sarah Chen</div>
+              <div class="p-des">Teacher</div>
+            </div>
+
+            <div class="pe">
               <img src="/assets/images/noimage.png" alt="rafeh">
               <div class="p-name">Katelyn Gan</div>
               <div class="p-des">Teacher</div>
@@ -56,6 +62,12 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
             <div class="pe">
               <img src="/assets/images/cameron.jpeg" alt="rafeh">
               <div class="p-name">Cameron Weng</div>
+              <div class="p-des">Teacher</div>
+            </div>
+
+            <div class="pe">
+              <img src="/assets/images/allison.jpg" alt="rafeh">
+              <div class="p-name">Allison Hung</div>
               <div class="p-des">Teacher</div>
             </div>
 
@@ -77,11 +89,6 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
               <div class="p-des">Teacher</div>
             </div>
 
-            <div class="pe">
-              <img src="/assets/images/noimage.png" alt="rafeh">
-              <div class="p-name">Allison Hung</div>
-              <div class="p-des">Teacher</div>
-            </div>
 
             <div class="pe">
               <img src="/assets/images/noimage.png" alt="rafeh">
