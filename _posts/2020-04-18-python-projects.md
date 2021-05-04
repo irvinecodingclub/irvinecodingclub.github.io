@@ -2,7 +2,9 @@
 layout: post
 title:  "Python Hands-On Projects"
 image: assets/images/icc1.jpg
+image2: assets/images/pythonprojects.png
 course: true
+permalink: /python102
 comments: false
 excerpt: "Challenge yourself with hands-on Python Projects."
 ---

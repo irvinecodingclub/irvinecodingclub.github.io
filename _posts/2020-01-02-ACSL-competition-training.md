@@ -34,7 +34,7 @@ An unlimited number of students from a school may compete in a division. At regi
 * **CLASSROOM DIVISION** : Open to students in all grades. Ideally suited for students taking AP Computer Science Principles, and other computer science classes without a major programming component.
 
 ## ICC training for ACSL competition
-ICC helps Orange County students compete in the coming ACSL 2021 - 2022 season.
+
 Please fill [this survey form](https://forms.gle/G7gAhVgqa3RVUQZ98)  if you are interested in attending ACSL competition 2021 - 2022 season.
 
 
