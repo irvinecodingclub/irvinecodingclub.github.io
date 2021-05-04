@@ -2,7 +2,8 @@
 layout: post
 title:  "Coding Music"
 image: assets/images/music.png
-image2: assets/images/sonic_pi.png
+image2: assets/images/music2.png
+permalink: /codingmusic
 course: true
 comments: false
 excerpt: "Coding with a language that leads to music coming out."

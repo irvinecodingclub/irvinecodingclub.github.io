@@ -3,6 +3,7 @@ layout: post
 title:  "Programming with Arduino"
 image: assets/images/arduino.jpeg
 image2: assets/images/arduino.png
+permalink: /arduino
 excerpt: "In this course we will teach how to programm Arduino."
 course: true
 ---
