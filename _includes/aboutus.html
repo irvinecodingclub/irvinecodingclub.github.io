@@ -1,0 +1,20 @@
+<section className="bg-blue-800 dark:bg-gray-900 overflow-hidden">
+     <div className="py-6 sm:py-12 text-center border-b-2 border-blue-900 dark:border-gray-700">
+       <h2 className="text-3xl sm:text-5xl font-extrabold text-white px-4">
+         Authors you can trust.
+       </h2>
+     </div>
+     <div className="lg:grid lg:grid-cols-2 -m-px">
+       {Authors.map(author => (
+         <AuthorCard
+           author={author}
+           key={author.name}
+           gatsbyImage={
+             (data as any).allFile.edges.find(
+               x => x.node.name === author.photo
+             ).node.childImageSharp
+           }
+         />
+       ))}
+     </div>
+   </section>
