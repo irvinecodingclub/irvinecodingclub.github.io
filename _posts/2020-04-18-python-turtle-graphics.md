@@ -25,10 +25,12 @@ Introduction to Python and Turtle Graphics, taught by Allison Hung, is a ten-wee
 https://docs.google.com/document/d/1-TkxtL_l9lIY_0DpEI1DmR70DwI5XgSwImAlasNrYnQ/edit?usp=sharing)
 
 
+This course is open to incoming (2021-22 school year) fourth, fifth, and sixth graders only.
+
 (Classes on Sundays 4:00 ~ 5:30 pm PST)
 
 | Week    |  Content    | Information   |
-| :---        |    :----   |          :--- |  :--- |
+| :---        |    :----   |     :--- |
 | Week 1 | The Basics				|		   June 6, 2021 |
 | Week 2 | Values, Data Types, Operators, and More Turtle Graphics	 |  June 13, 2021 |
 | Week 3 | Variables, User Input, and the Turtle Coordinate System	 |	  June 20, 2021 |
@@ -39,4 +41,7 @@ https://docs.google.com/document/d/1-TkxtL_l9lIY_0DpEI1DmR70DwI5XgSwImAlasNrYnQ/
 | Week 8 | Randomness					 |			    Aug 1, 2021 |
 | Week 9 | More Iteration and While Loops		 |			    Aug 8, 2021 |
 | Week 10 | Events					 |				   Aug 15, 2021 |
+
+
+
 *No class July 4
