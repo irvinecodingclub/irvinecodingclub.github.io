@@ -10,7 +10,7 @@ course: true
 A beginner course to introduce people to animation, how to animate, and its history.
 
 
-**Prerequisites**: Literally nothing (ability to draw stick figures, I guess)
+**Prerequisites**: A drawing tool (ipad and pen, digital tools!) and any animation program (i.e. Flipaclip, Firealpaca, Krita)
 **Required tools**: any animation program
 
 
