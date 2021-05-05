@@ -2,8 +2,9 @@
 layout: post
 title:  "Intro to Python and Turtle Graphics"
 image: assets/images/icc1.jpg
-image2: assets/images/python_class.jpg
+image2: assets/images/turtle.png
 course: true
+permalink: /python101
 comments: false
 excerpt: "An introductory ten week crash course."
 ---
