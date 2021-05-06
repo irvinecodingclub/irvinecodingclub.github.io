@@ -27,7 +27,7 @@ To become a teacher, you must meet the following requirements:
 * Possess a passion for teaching K-12 students and helping others!
 
 ## HOW DO I APPLY?  
-Contact ICC through our [discord](/discord) or email us at irvinecodingclub@gmail.com.
+Contact ICC by emailing us at irvinecodingclub@gmail.com.
 Teachers will be appointed by the ICC Executive Board and Advisors. Applications will be open in May 2021. Exact information will be released soon.
 
 ​
