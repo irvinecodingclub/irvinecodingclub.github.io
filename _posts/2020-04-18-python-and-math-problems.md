@@ -8,9 +8,9 @@ comments: false
 excerpt: "Learn algorithms to solve math problems using Python.  "
 ---
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
-| :---        |    :----   |          :--- |  :--- |
-| Melody Yu, Annette Lee   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
+| :---        |    :----   |          :--- |  
+| Melody Yu, Annette Lee   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
 
 <br/>
 
