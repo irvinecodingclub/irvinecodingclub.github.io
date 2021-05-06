@@ -8,9 +8,9 @@ excerpt: "Learn about public health and the science of epidemiology."
 
 A Science Olympiad prep course, but people who aren’t interested in doing Science Olympiad are welcome as well; learn about public health and the science of epidemiology.
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
-| :---        |    :----   |          :--- |  :--- |
-| Claire Wen, Edward Lee | Jan,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
+| :---        |    :----   |          :--- |  
+| Claire Wen, Edward Lee | Jan,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
 
 <br/>
 
