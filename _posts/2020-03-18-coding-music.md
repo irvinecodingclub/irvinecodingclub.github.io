@@ -14,7 +14,7 @@ Coding with a language that leads to music coming out.
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |  
 | :---        |    :----   |          :--- |   
-| Sophia Dai  | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
+| Sophia Dai  | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
 
 <br/>
 
