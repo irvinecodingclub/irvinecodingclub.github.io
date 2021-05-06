@@ -10,14 +10,12 @@ excerpt: "An introductory ten week crash course."
 ---
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORD  |
 | :---        |    :----   |          :--- |  :--- |
 | Allison Hung, Sophia Lin | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 
-Introduction to Python and Turtle Graphics is a ten-week introductory crash course in Computer Science.   
-
-Introduction to Python and Turtle Graphics, taught by Allison Hung, is a ten-week introductory crash course in computer science. Python is a contemporary programming language commonly taught to beginning coders, and it implements the idea of turtle graphics to enable coders to draw on a two-dimensional plane. In this course, students with little or no prior knowledge of computer science will be introduced to a variety of topics, including data types, variables, user input, iteration, loops, functions, conditionals, lists, randomness, and events. If you are interested in learning the basic programming concepts and having some fun with Python and turtle graphics, you should check out this course!
+Intro to Python and Turtle Graphics, taught by Allison Hung, is a ten-week introductory crash course in computer science. Python is a contemporary programming language commonly taught to beginning coders, and it implements the idea of turtle graphics to enable coders to draw on a two-dimensional plane. In this course, students with little or no prior knowledge of computer science will be introduced to a variety of topics, including data types, variables, user input, iteration, loops, functions, conditionals, lists, randomness, and events. If you are interested in learning the basic programming concepts and having some fun with Python and turtle graphics, you should check out this course!
 
 [Sign up here](https://forms.gle/TFf5QeuQ4BTZiRGi7)
 
@@ -29,7 +27,7 @@ This course is open to incoming (2021-22 school year) fourth, fifth, and sixth g
 
 (Classes on Sundays 4:00 ~ 5:30 pm PST)
 
-| Week    |  Content    | Information   |
+| Week    |  Content    | Dates   |
 | :---        |    :----   |     :--- |
 | Week 1 | The Basics				|		   June 6, 2021 |
 | Week 2 | Values, Data Types, Operators, and More Turtle Graphics	 |  June 13, 2021 |
