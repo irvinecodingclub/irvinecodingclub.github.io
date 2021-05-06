@@ -11,7 +11,7 @@ excerpt: "Challenge yourself with hands-on Python Projects."
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
 | :---        |    :----   |          :--- |  :--- |
-| Melody Yu, Annette Lee   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Melody Yu, Annette Lee, Agam Randhawa   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 <br/>
 

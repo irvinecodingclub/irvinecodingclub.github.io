@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro to Python and Turtle Graphics"
+title:  "Introduction to Python and Turtle Graphics"
 image: assets/images/icc1.jpg
 image2: assets/images/turtle.png
 course: true
@@ -15,7 +15,7 @@ excerpt: "An introductory ten week crash course."
 | Allison Hung, Sophia Lin | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 
-Intro to Python and Turtle Graphics, taught by Allison Hung, is a ten-week introductory crash course in computer science. Python is a contemporary programming language commonly taught to beginning coders, and it implements the idea of turtle graphics to enable coders to draw on a two-dimensional plane. In this course, students with little or no prior knowledge of computer science will be introduced to a variety of topics, including data types, variables, user input, iteration, loops, functions, conditionals, lists, randomness, and events. If you are interested in learning the basic programming concepts and having some fun with Python and turtle graphics, you should check out this course!
+Introduction to Python and Turtle Graphics, taught by Allison Hung, is a ten-week introductory crash course in computer science. Python is a contemporary programming language commonly taught to beginning coders, and it implements the idea of turtle graphics to enable coders to draw on a two-dimensional plane. In this course, students with little or no prior knowledge of computer science will be introduced to a variety of topics, including data types, variables, user input, iteration, loops, functions, conditionals, lists, randomness, and events. If you are interested in learning the basic programming concepts and having some fun with Python and turtle graphics, you should check out this course!
 
 [Sign up here](https://forms.gle/TFf5QeuQ4BTZiRGi7)
 
