@@ -71,6 +71,11 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
               <div class="p-des">Teacher</div>
             </div>
 
+            <div class="pe">
+              <img src="/assets/images/zach.jpeg" alt="rafeh">
+              <div class="p-name">Zach Piedad</div>
+              <div class="p-des">Teacher</div>
+            </div>
 
             <div class="pe">
               <img src="/assets/images/sophialin.jpeg" alt="rafeh">
@@ -87,12 +92,6 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
             <div class="pe">
               <img src="/assets/images/noimage.png" alt="rafeh">
               <div class="p-name">Nikki Piedad</div>
-              <div class="p-des">Teacher</div>
-            </div>
-
-            <div class="pe">
-              <img src="/assets/images/noimage.png" alt="rafeh">
-              <div class="p-name">Zach Piedad</div>
               <div class="p-des">Teacher</div>
             </div>
 
