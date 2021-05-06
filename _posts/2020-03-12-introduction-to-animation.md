@@ -15,9 +15,9 @@ A beginner course to introduce people to animation, how to animate, and its hist
 **Required tools**: any animation program
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
-| :---        |    :----   |          :--- |  :--- |
-|Sophia Zhou, Cameron Weng | Summer ,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |  
+| :---        |    :----   |          :--- |   
+|Sophia Zhou, Cameron Weng | Summer ,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
 
 <br/>
 
