@@ -10,9 +10,9 @@ excerpt: "An introductory ten week crash course."
 ---
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORD  |
-| :---        |    :----   |          :--- |  :--- |
-| Allison Hung, Sophia Lin | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
+| :---        |    :----   |          :--- |  
+| Allison Hung, Sophia Lin | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
 
 
 **Due to large demand for this class, it will only be available to incoming (2021-2022 school year) students grades 4-6.**
