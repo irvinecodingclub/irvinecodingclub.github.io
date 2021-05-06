@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Introduction to Python and Turtle Graphics"
-image: assets/images/icc1.jpg
-image2: assets/images/turtle.png
+image: assets/images/turtle.png
+image2: assets/images/turtleposter.png
 course: true
 permalink: /python101
 comments: false
