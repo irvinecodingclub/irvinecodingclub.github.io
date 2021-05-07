@@ -19,7 +19,7 @@ Teachers also actively participate in creating class materials.
 Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
 ### APPLY FOR A BRANCH DIRECTOR
-If you are passionate for coordinating/teaching coding to students in your school (or your former school). You are welcome to apply for ICC branch director for your school (or your community libarary). Branch director will be appointed by the ICC Board and Advisors.
+If you are passionate for coordinating/teaching coding to students in your school (or your former school), you are welcome to apply for ICC branch director for your school (or your community libarary). Branch director will be appointed by the ICC Board and Advisors.
 
 ### REQUIREMENTS  
 To become a teacher, you must meet the following requirements:
