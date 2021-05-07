@@ -8,11 +8,11 @@ excerpt: "In this course we will teach how to programm Arduino."
 course: true
 ---
 
-In this course we will teach how to programm Arduino.
+In this course we will teach how to program Arduino.
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |
 | :---        |    :----   |          :--- |  
-| Zach Piedad, Agam Randhawa   | Summer ,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
+| Zach Piedad, Agam Randhawa   | Summer ,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
 
 <br/>
