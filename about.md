@@ -97,6 +97,12 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
 
             <div class="pe">
               <img src="/assets/images/noimage.png" alt="rafeh">
+              <div class="p-name">Ian Madden</div>
+              <div class="p-des">Teacher</div>
+            </div>
+
+            <div class="pe">
+              <img src="/assets/images/noimage.png" alt="rafeh">
               <div class="p-name">Katelyn Gan</div>
               <div class="p-des">Teacher</div>
             </div>
