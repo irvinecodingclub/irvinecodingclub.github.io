@@ -3,6 +3,7 @@ layout: post
 title:  "Conceptual Programming"
 image: assets/images/icc1.jpg
 image2: assets/images/conceptual.png
+permlink: /conceptprogramming
 course: true
 comments: false
 excerpt: "A course tailored to small groups of students teaching concepts of programming."
