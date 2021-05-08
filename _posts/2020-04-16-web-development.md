@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro to Web Development"
+title:  "Introduction to Web Development"
 image: assets/images/icc2.jpg
 image2: assets/images/webdevelopment.png
 permalink: /webdev
