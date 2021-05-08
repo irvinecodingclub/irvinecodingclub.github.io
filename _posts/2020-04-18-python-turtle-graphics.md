@@ -6,7 +6,7 @@ image2: assets/images/turtleposter.png
 course: true
 permalink: /python101
 comments: false
-excerpt: "An introductory ten week crash course."
+excerpt: "An introductory ten week crash course for Python."
 ---
 
 
