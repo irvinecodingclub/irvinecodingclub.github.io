@@ -6,7 +6,7 @@ image2: assets/images/conceptual.png
 permalink: /conceptprogramming
 course: true
 comments: false
-excerpt: "A small workshop style source for concepts of programming."
+excerpt: "A small workshop style cource teaching concepts of programming."
 ---
 
 | Instructor | &nbsp;&nbsp;Zoom ID &nbsp; |
