@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coding Music"
+title:  "Coding Music with Sonic Pi"
 image: assets/images/music.png
 image2: assets/images/music2.png
 permalink: /codingmusic
