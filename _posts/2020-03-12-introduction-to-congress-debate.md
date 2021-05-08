@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Congress Debate"
+title:  "Introduction to Congress Debate"
 image: assets/images/debate.png
 image2: assets/images/debate2.png
 permalink: /congressdebate
