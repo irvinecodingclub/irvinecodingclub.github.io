@@ -4,7 +4,7 @@ title:  "Introduction to Animation"
 image: assets/images/animation.jpeg
 image2: assets/images/animation2.png
 permalink: /animation
-excerpt: "A beginner course to introduce people to animation, how to animate, and its history"
+excerpt: "A beginner course to introduce people to animation."
 course: true
 ---
 
