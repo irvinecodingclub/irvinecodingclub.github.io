@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Hands-On Projects"
+title:  "Learning Python with Hands-On Projects"
 image: assets/images/icc1.jpg
 image2: assets/images/pythonprojects.png
 course: true
