@@ -4,7 +4,7 @@ title:  "Introduction to Congress Debate"
 image: assets/images/debate.png
 image2: assets/images/debate2.png
 permalink: /congressdebate
-excerpt: "The basics of public speaking and debate, and delve into Congress debate."
+excerpt: "The basics of public speaking and congress debate."
 course: true
 ---
 
