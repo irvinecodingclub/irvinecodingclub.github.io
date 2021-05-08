@@ -6,7 +6,7 @@ image2: assets/images/webdevelopment.png
 permalink: /webdev
 course: true
 comments: false
-excerpt: "A course teaching you how to make a basic website with HTML, CSS, and Javascript."
+excerpt: "A course teaching you how to make a basic website."
 ---
 
 | Instructor | &nbsp;&nbsp;Zoom ID &nbsp; |
