@@ -5,10 +5,19 @@ comments: false
 ---
 
 ## Become an ICC Volunteer and earn community service hours!
+![](assets/images/pvsa-logo.jpeg)
 
-Irvine Coding Club is run by students and serving serving K-12 students in Orange County.
-We are applying for [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Orgnization.
+Irvine Coding Club is a non profit orgnization run by students and serving serving K-12 students in Orange County.
+Irvine Coding Club is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Orgnization.
 
+| Age Group             |	Bronze        | Silver        |	Gold       |	Lifetime Achievement |
+| --------------------- | ------------- | ------------- | ---------- | --------------------- |
+| Kids (5–10 years old) |	26–49 hours	  | 50–74 hours	  | 75+ hours	 | 4,000+ hours          |
+| Teens (11–15)         | 50–74 hours	  | 75–99 hours   |	100+ hours | 4,000+ hours          |
+| Young Adults (16–25)  |	100–174 hours |	175–249 hours	| 250+ hours | 4,000+ hours          |
+| Adults (26+)        	| 100–249 hours	| 250–499 hours	| 500+ hours | 4,000+ hours          |
+
+<br/>
 
 ### APPLY FOR A GENERAL VOLUNTEER
 Come and help ICC in varies events, public relations etc.
