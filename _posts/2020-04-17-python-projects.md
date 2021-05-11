@@ -15,12 +15,22 @@ excerpt: "Challenge yourself with hands-on Python Projects."
 
 <br/>
 
-This is a intermediate level Python class. Students should have a prior knowledge of basic Python, understanding Python topics like loops, variables, functions, sets, and dictionaries. In this class, we will use Python to create several popular games.
+This is a intermediate level Python class.  In this class, we will use Python to create several popular games.
+
+## Introduction to Python
+
+### Lesson 1: Basic Data Types
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbXmDbJxGFmfBDL0RIYkqyGyZM-w9oJpCaqqemCPayHoERIfi3si88vlOi81mSmymW2xk9uyYI-5If/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Lesson 2: Python Flow Control  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVhA5BtjPBQYc3ztsIOgwZi7F5O1EeaN96eB0XInwECr6WFarV-468mOyK2WgXK2zfmHTy0bhW_8_S/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-## Project 1: Guess the Number
+## Python Projects
 
-## Guess the Number
+### Project 1: Guess the Number
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1_VSZZrdTYx794AxwPealOLWptqEBn4wgECKWTMcQLlyrU9JFWhz5Wy7gTzvDw5Nsggf_PNmSdlXr/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -61,7 +71,7 @@ guessthenum(input("Start: "), input("Stop: "))
 
 {% endhighlight %}
 
-## Project 2: Rock Paper Scissors
+### Project 2: Rock Paper Scissors
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgHEXftUWOPpwEy2i2ilS-M1ZsI7eBer08h6M64KUkdCDvyEak1YeMDHYmdkKASWQuBXVKrPvy_FKY/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -188,7 +198,7 @@ rock_paper_scissors(x, "on")
 {% endhighlight %}
 
 
-## Project 3: Pong
+### Project 3: Pong
 
 The Pong game can be found in the wiki article [here](https://en.wikipedia.org/wiki/Pong).
 
@@ -337,7 +347,7 @@ while True:
 {% endhighlight %}
 
 
-## Project 4: Snake
+### Project 4: Snake
 
 This game was made in python using turtle. To play, use the arrow keys and guide the snake.
 
