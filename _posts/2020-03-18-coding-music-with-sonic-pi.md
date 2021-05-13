@@ -28,11 +28,11 @@ Coding with a language that leads to music coming out.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5wqIRB5-_nJeDC6j4nUqlKtM6aCmcpN6ZVaVs0DtIcDZuC4_bZpjYwsAHqDalACkJfBJ91JvnTHC5/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<!-- Begin Article
 
 ## Week 1: Notes, Chords, Release, Sustain, Bleh
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSlc-is3W8eVVUZ6iKI_t-zDxPUSlI_1BR0px8VekVX0DKxjnXz8v3YxuAd_8VVMcnB6umh1lY6NwF/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 
 
 {% highlight python linenos %}
@@ -152,6 +152,8 @@ loop do
 end
 
 {% endhighlight %}
+
+================================================== -->
 
 
 ## Week 2: Synths, Samples, FX
