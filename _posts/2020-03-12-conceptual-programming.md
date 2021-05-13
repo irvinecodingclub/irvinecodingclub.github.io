@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conceptual Programming"
-image: assets/images/icc1.jpg
+image: assets/images/python2.png
 image2: assets/images/conceptual.png
 permalink: /conceptprogramming
 course: true
