@@ -9,11 +9,20 @@ comments: false
 excerpt: "An introductory ten week crash course for Python."
 ---
 
-
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
-| :---        |    :----   |          :--- |  
-| Allison Hung, Sophia Lin | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
-
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Allison Hung, Sophia Lin</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 
 **Due to large demand for this class, it will only be available to incoming (2021-2022 school year) students grades 4-6.**
 

@@ -7,11 +7,21 @@ course: false
 comments: false
 excerpt: "Learn algorithms to solve math problems using Python.  "
 ---
-
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
-| :---        |    :----   |          :--- |  
-| Melody Yu, Annette Lee   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
-
+<link rel="stylesheet" href="assets/css/table.css">
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Melody Yu, Annette Lee</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 <br/>
 
 This is a intermediate level Python class. Students should have a prior knowledge of basic Python, understanding Python topics like loops, variables, functions, sets, and dictionaries. We will go through questions in [Project Euler](https://projecteuler.net/).

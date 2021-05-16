@@ -12,9 +12,21 @@ excerpt: "Coding with a language that leads to music coming out."
 Coding with a language that leads to music coming out.
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |  
-| :---        |    :----   |          :--- |   
-| Sophia Dai  | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sophia Dai</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <br/>
 

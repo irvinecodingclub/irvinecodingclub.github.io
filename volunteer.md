@@ -13,12 +13,49 @@ ICC is open to all students in Orange County, come to ICC and volunteer now. You
 
 #### Hours Required to Earn Presidential Service Awards in Each Age Group
 
-| Age Group             |	Bronze        | Silver        |	Gold       |	Lifetime Achievement |
-| --------------------- | ------------- | ------------- | ---------- | --------------------- |
-| Kids (5–10 years old) |	26–49 hours	  | 50–74 hours	  | 75+ hours	 | 4,000+ hours          |
-| Teens (11–15)         | 50–74 hours	  | 75–99 hours   |	100+ hours | 4,000+ hours          |
-| Young Adults (16–25)  |	100–174 hours |	175–249 hours	| 250+ hours | 4,000+ hours          |
-| Adults (26+)        	| 100–249 hours	| 250–499 hours	| 500+ hours | 4,000+ hours          |
+<link rel="stylesheet" href="assets/css/table.css">
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Age Group</th>
+            <th>Bronze</th>
+            <th>Silver</th>
+            <th>Gold</th>
+            <th>Lifetime Achievement</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Kids (5–10 years old)</td>
+            <td>26–49 hours</td>
+          <td>50–74 hours</td>
+          <td>75+ hours</td>
+          <td>4,000+ hours</td>
+        </tr>
+        <tr class="active-row">
+            <td>Teens (11–15)</td>
+            <td>50–74 hours</td>
+          <td>75–99 hours</td>
+            <td>100+ hours</td>
+         <td>4,000+ hours</td>
+        </tr>
+      <tr>
+            <td>Young Adults (16–25)</td>
+            <td>100–174 hours</td>
+          <td>	175–249 hours	</td>
+            <td>250+ hours</td>
+         <td>4,000+ hours</td>
+        </tr>
+        <tr class="active-row">
+          <td> Adults (26+)	</td>
+          <td>100–249 hours	 </td>
+          <td>250–499 hours	 </td>
+          <td>500+ hours	 </td>
+          <td>4,000+ hours    </td>
+        </tr>
+        <!-- and so on... -->
+    </tbody>
+</table>
 
 <br/>
 

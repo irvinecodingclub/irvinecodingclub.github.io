@@ -9,9 +9,21 @@ comments: false
 excerpt: "Challenge yourself with hands-on Python Projects."
 ---
 
-| Instructor  | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |
-| :---       |        :--- |   
-| Melody Yu, Annette Lee, Agam Randhawa |  &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
+ 
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Melody Yu, Annette Lee, Agam Randhawa</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 
 <br/>
 

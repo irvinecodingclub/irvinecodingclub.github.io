@@ -8,10 +8,20 @@ course: true
 ---
 In this course we will teach problems in Cyberpatriot competition.
 
-
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |  
-| :---        |    :----   |          :--- |  
-| Agam Randhawa   | Mar,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Agam Randhawa</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 
 <br/>
 

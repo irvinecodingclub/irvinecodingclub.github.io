@@ -11,9 +11,26 @@ course: true
 Learn about the basics of public speaking and debate, and delve into Congress debate.
 
 
-| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | 
+| Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; |
 | :---        |    :----   |          :--- |  
-| Claire Wen, Sarah Chen, Sophia Dai   | Summer,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; | 
+| Claire Wen, Sarah Chen, Sophia Dai   | Summer,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
+
+
+
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Claire Wen, Sarah Chen, Sophia Dai </td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 
 <br/>
 ## Congress Lesson 1

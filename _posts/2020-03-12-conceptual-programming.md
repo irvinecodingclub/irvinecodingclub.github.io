@@ -9,10 +9,20 @@ comments: false
 excerpt: "A small workshop teaching concepts of programming."
 ---
 
-| Instructor | &nbsp;&nbsp;Zoom ID &nbsp; |
-| :---        |        :--- |  
-| Forrest Zeng | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |
-
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Zoom ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Forrest Zeng</td>
+            <td>890 1539 2821</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 
 This is a flexible course focused on discussion that addresses conceptual programming primarily in python. We will cover different conceptual programming concepts and have a final project of Binary Trees.
