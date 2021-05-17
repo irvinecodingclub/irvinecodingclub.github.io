@@ -27,4 +27,4 @@ excerpt: "A small workshop teaching concepts of programming."
 
 This is a flexible course focused on discussion that addresses conceptual programming primarily in python. We will cover different conceptual programming concepts and have a final project of Binary Trees.
 
-Students should have a knowledge of programming, most likely Python. At least algebra I level mathematics. They need a programming IDE and a Python Environment.
+Students should have a knowledge of programming, most likely Python, and have at least algebra II level mathematics. They need a programming IDE and a Python Environment.
