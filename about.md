@@ -11,17 +11,19 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
     <h2>Meet our team </h2>
     <div class="pers">
 
+
+          <div class="pe">
+            <img src="/assets/images/melodyimg.png" alt="rafeh">
+            <div class="p-name">Melody Yu</div>
+            <div class="p-des">President, Co-Founder</div>
+          </div>
+
       <div class="pe">
               <img src="/assets/images/agtiger.jpg" alt="rafeh">
         <div class="p-name">Agam Randhawa</div>
         <div class="p-des">President, Co-Founder</div>
       </div>
 
-      <div class="pe">
-        <img src="/assets/images/melodyimg.png" alt="rafeh">
-        <div class="p-name">Melody Yu</div>
-        <div class="p-des">President, Co-Founder</div>
-      </div>
 
             <div class="pe">
               <img src="/assets/images/pikachuwu.png" alt="rafeh">
@@ -112,6 +114,12 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
               <div class="p-name">Michael Li</div>
               <div class="p-des">Teacher</div>
             </div>
+
+                        <div class="pe">
+                          <img src="/assets/images/noimage.png" alt="rafeh">
+                          <div class="p-name">Ajitesh</div>
+                          <div class="p-des">Teacher</div>
+                        </div>
 
 
 
