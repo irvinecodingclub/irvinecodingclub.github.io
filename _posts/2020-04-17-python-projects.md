@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning Python with Hands-On Projects"
+title:  "Python in Projects"
 image: assets/images/icc1.jpg
 image2: assets/images/pythonprojects.png
 course: true
@@ -9,7 +9,7 @@ comments: false
 excerpt: "Challenge yourself with hands-on Python Projects."
 ---
 
- 
+
 <table class="styled-table">
     <thead>
         <tr>
@@ -29,6 +29,7 @@ excerpt: "Challenge yourself with hands-on Python Projects."
 
 This is a intermediate level Python class.  In this class, we will use Python to create several popular games.
 
+<!--
 ## Introduction to Python
 
 ### Lesson 1: Basic Data Types
@@ -39,8 +40,9 @@ This is a intermediate level Python class.  In this class, we will use Python to
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVhA5BtjPBQYc3ztsIOgwZi7F5O1EeaN96eB0XInwECr6WFarV-468mOyK2WgXK2zfmHTy0bhW_8_S/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+================================================== -->
 
-## Python Projects
+## Python in Projects
 
 ### Project 1: Guess the Number
 
