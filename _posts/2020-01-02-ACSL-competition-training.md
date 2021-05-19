@@ -9,7 +9,6 @@ excerpt: "Train and Preparing for 2021-2022 ACSL Competition."
 ---
 
 
-<link rel="stylesheet" href="/assets/css/table.css">
 <table class="styled-table">
     <thead>
         <tr>
