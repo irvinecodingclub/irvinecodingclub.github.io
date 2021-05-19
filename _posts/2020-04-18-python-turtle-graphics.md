@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Python and Turtle Graphics"
+title:  "Python and Turtle Graphics"
 image: assets/images/turtle.png
 image2: assets/images/turtleposter.png
 course: true
