@@ -42,18 +42,19 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
               <div class="p-name">Sophia Dai</div>
               <div class="p-des">Secretary</div>
             </div>
+            <div class="pe">
+              <img src="/assets/images/sopz.png" alt="rafeh">
+              <div class="p-name">Sophia Zhou</div>
+              <div class="p-des">Teacher</div>
+            </div>
 
+        
             <div class="pe">
               <img src="/assets/images/cameron.jpeg" alt="rafeh">
               <div class="p-name">Cameron Weng</div>
               <div class="p-des">Director of Graphic Design</div>
             </div>
 
-            <div class="pe">
-              <img src="/assets/images/sopz.png" alt="rafeh">
-              <div class="p-name">Sophia Zhou</div>
-              <div class="p-des">Teacher</div>
-            </div>
 
             <div class="pe">
               <img src="/assets/images/allison.jpg" alt="rafeh">
