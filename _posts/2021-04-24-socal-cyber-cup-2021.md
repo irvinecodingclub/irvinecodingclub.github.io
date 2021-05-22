@@ -3,7 +3,7 @@ layout: post
 title:  "4th Place in SoCal Cyber Cup Challenge (Middle School)"
 image: assets/images/socalcyber.png
 image2: assets/images/cybercup.png
-featured: true
+featured: false
 comments: false
 excerpt: "Winning 4th Place in SoCal Cyber Cup Challenge (Middle School)"
 ---

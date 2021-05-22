@@ -10,7 +10,7 @@ Irvine Coding Club (ICC) is a non profit orgnization run by students and serving
 ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Orgnization.
 
 ICC is open to all student volunteers, come to ICC and volunteer now.
-Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). 
+Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/).
 
 #### Hours Required to Earn Presidential Service Awards in Each Age Group
 
