@@ -868,13 +868,12 @@ iframe {
 
 .sidebaricons{
     display:inline-block;
-    width: 64px;
-    height: 64px;
+    width: 36px;
+    height: 36px;
    }
 
 .discord {
-   width:100px;
-   padding:10px;
+   width:60px;
    border-radius:55%;
    height:auto;
    transition:.5s;
