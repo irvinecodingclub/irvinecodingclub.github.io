@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "$2500 and 3rd Place in CyberCup Challenge"
+title:  "$2500 and 3rd Place in 2021 CyberCup Finals"
 image: assets/images/cyber1.png
 image2: assets/images/cybercup.png
 featured: true
