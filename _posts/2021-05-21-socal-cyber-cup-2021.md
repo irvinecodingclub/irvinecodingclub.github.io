@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "$2500 and 3rd Place in CyberCup Challenge"
-image: assets/images/socalcyber.png
+image: assets/images/cyber1.png
 image2: assets/images/cybercup.png
 featured: true
 comments: false
