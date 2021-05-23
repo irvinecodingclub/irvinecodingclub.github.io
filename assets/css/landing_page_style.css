@@ -139,6 +139,13 @@
           font-size: 16px; } }
 
 
+          .single-counter:hover {
+             border-radius:50%;
+             transition:.5s;
+             transform: scale(1.5);
+          }
+
+
 /*===========================
        10.SUBSCRIBE  css
 ===========================*/
