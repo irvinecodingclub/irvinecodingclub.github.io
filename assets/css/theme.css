@@ -861,3 +861,35 @@ iframe {
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
 
 }
+
+
+
+
+
+.sidebaricons{
+    display:inline-block;
+    width: 64px;
+    height: 64px;
+   }
+
+.discord {
+   width:100px;
+   padding:10px;
+   border-radius:55%;
+   height:auto;
+   transition:.5s;
+}
+
+.discord:hover {
+   border-radius:20%;
+   background-color:#913F3F;
+   transition:.5s;
+}
+
+
+#sidebarcont {
+   margin-left:auto;
+   text-align:center;
+   margin-right:auto;
+   width:90%;
+}
