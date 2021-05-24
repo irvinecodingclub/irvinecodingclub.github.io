@@ -23,8 +23,9 @@ Our members come from different schools in Orange County.
 * Beacon Park School (K8)
 * Santiago Hills Elementary School
 * Eastshore Elementary School
+* Turtlerock Elementary School
 
-If you are a CS enthusiast who want to learn together with our team members.
+If you are a CS enthusiast and currently 6th grade and above who want to learn together with our team members.
 Or if you are good at some areas that you want to share with our community by providing online courses.
 Come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6).   
 Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
