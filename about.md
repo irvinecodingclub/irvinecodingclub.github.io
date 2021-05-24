@@ -4,7 +4,31 @@ title: About
 comments: false
 ---
 
-Irvine Coding Club is a non profit orgnization run by students and serving K-12 students in Orange County.
+In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ).
+The orgnization was created as a student run community service orgnization for CS enthusiasts.
+
+Soon ICC has grown to a non profit orgnization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc. In 2021,
+ICC was approved by [Presidential Service Award](https://www.presidentialserviceawards.gov/) as a Certifying Orgnization.
+
+
+Our members come from different schools in Orange County.
+
+* University High School
+* Troy High School
+* Sage Hill School
+* Rancho SJ Middle School
+* The Pegasus School
+* Jeffrey Trail Middle School
+* Vista Verde (K8)
+* Beachcon Park School (K8)
+* Santiago Hills Elementary School
+* Eastshore Elementary School
+
+If you are a CS enthusiast who want to learn together with our team members.
+Or if you are good at some area that you want to share with our community by providing online courses.
+Come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6).   
+Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
+
 
 <div class="team-section">
   <div class="inner-width">
@@ -18,12 +42,11 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
             <div class="p-des">President, Co-Founder</div>
           </div>
 
-      <div class="pe">
-              <img src="/assets/images/agtiger.jpg" alt="rafeh">
-        <div class="p-name">Agam Randhawa</div>
-        <div class="p-des">President, Co-Founder</div>
-      </div>
-
+            <div class="pe">
+                    <img src="/assets/images/agtiger.jpg" alt="rafeh">
+              <div class="p-name">Agam Randhawa</div>
+              <div class="p-des">President, Co-Founder</div>
+            </div>
 
             <div class="pe">
               <img src="/assets/images/pikachuwu.png" alt="rafeh">
@@ -48,7 +71,7 @@ Irvine Coding Club is a non profit orgnization run by students and serving K-12 
               <div class="p-des">Teacher</div>
             </div>
 
-        
+
             <div class="pe">
               <img src="/assets/images/cameron.jpeg" alt="rafeh">
               <div class="p-name">Cameron Weng</div>
