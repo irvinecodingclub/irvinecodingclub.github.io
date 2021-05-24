@@ -7,7 +7,7 @@ comments: false
 In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ).
 The orgnization was created as a student run community service orgnization for CS enthusiasts.
 
-Soon ICC has grown to a non profit orgnization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc. In 2021,
+Soon ICC has grown to a non profit organization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc. In 2021,
 ICC was approved by [Presidential Service Award](https://www.presidentialserviceawards.gov/) as a Certifying Orgnization.
 
 
@@ -20,7 +20,7 @@ Our members come from different schools in Orange County.
 * The Pegasus School
 * Jeffrey Trail Middle School
 * Vista Verde (K8)
-* Beachcon Park School (K8)
+* Beacon Park School (K8)
 * Santiago Hills Elementary School
 * Eastshore Elementary School
 
