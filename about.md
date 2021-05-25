@@ -5,10 +5,9 @@ comments: false
 ---
 
 In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ).
-The orgnization was created as a student run community service orgnization for CS enthusiasts.
-
-Soon ICC has grown to a non profit organization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc. In 2021,
-ICC was approved by [Presidential Service Award](https://www.presidentialserviceawards.gov/) as a Certifying Orgnization.
+The orgnization was created as a student run community service orgnization for CS enthusiasts. Soon ICC has grown to a non profit organization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc.
+* May, 2021, ICC was approved by [Presidential Service Award](https://www.presidentialserviceawards.gov/) as a Certifying Orgnization.
+* May, 2021, ICC join as a member club of [hack club](https://hackclub.com/) , a global nonprofit network of high school computer hackers, makers and coders.
 
 
 Our members come from different schools in Orange County.
