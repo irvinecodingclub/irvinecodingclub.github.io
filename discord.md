@@ -25,8 +25,7 @@ In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ). T
 You can click the connect button to join our discord :)
 
 ## ICC Club Member Registration form
-[Please fill this form to apply for ICC membership.](https://forms.gle/3J9tZ7vi8eEDvuSz9)
-
+[Please fill this form to apply for ICC membership.](https://forms.gle/Ky4S6YLkkursGyZn6)
 
 <br />
 
