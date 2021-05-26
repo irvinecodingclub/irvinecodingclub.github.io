@@ -52,7 +52,7 @@ comments: false
 
   	<!-- Item 4 -->
 	<li>
-		<div class="direction-r">
+		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">Member of Hack Club</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
@@ -65,7 +65,7 @@ comments: false
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Offering Free Courses</span>
+				<span class="flag">Offer Free Courses</span>
 				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
 			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021</div>
