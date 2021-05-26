@@ -35,7 +35,7 @@ comments: false
 				<span class="flag">A Non Profit Org</span>
 				<span class="time-wrapper"><span class="time">Apr, 2011 </span></span>
 			</div>
-			<div class="desc">ICC was created as a non profit orgnization in California.</div>
+			<div class="desc">ICC became a non profit orgnization in California.</div>
 		</div>
 	</li>
 
