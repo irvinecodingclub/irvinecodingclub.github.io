@@ -4,6 +4,8 @@ title: About
 comments: false
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
 
 In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ).
