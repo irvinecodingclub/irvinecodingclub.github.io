@@ -3,14 +3,17 @@ layout: page
 title: Volunteer
 comments: false
 ---
-
-![](assets/images/pvsa-logo.png)
+![](assets/images/volunteer.png)
 
 Irvine Coding Club (ICC) is a non profit orgnization run by students and serving K-12 students in Orange County.  
 ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Orgnization.
 
 ICC is open to all student volunteers, come to ICC and volunteer now.
 Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/).
+
+
+![](assets/images/pvsa-logo.png)
+
 
 #### Hours Required to Earn Presidential Service Awards in Each Age Group
 
