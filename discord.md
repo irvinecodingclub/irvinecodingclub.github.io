@@ -33,7 +33,7 @@ comments: false
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">A Non Profit Org</span>
-				<span class="time-wrapper"><span class="time">Apr, 2011 </span></span>
+				<span class="time-wrapper"><span class="time">Apr, 2021 </span></span>
 			</div>
 			<div class="desc">ICC became a non profit orgnization in California.</div>
 		</div>
@@ -44,7 +44,7 @@ comments: false
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">PSVA Certifying Org</span>
-				<span class="time-wrapper"><span class="time">May, 2011</span></span>
+				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
 			<div class="desc">ICC was approved by Presidential Service Award as a Certifying Orgnization</div>
 		</div>
@@ -55,7 +55,7 @@ comments: false
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Member of Hack Club</span>
-				<span class="time-wrapper"><span class="time">May, 2011</span></span>
+				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
 			<div class="desc">ICC was accepted as a member of Hack Club</div>
 		</div>
@@ -66,7 +66,7 @@ comments: false
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Offering Free Courses</span>
-				<span class="time-wrapper"><span class="time">Summer, 2011</span></span>
+				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
 			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021</div>
 		</div>
