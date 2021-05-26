@@ -4,14 +4,77 @@ title: Join ICC
 comments: false
 ---
 
-## Introduction to Irvine Coding Club
+## What is the Irvine Coding Club
+
+*"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ). The orgnization was created as a student run community service orgnization for CS enthusiasts. Soon ICC has grown to a non profit organization in Orange County with areas beyond CS, including math, robotics, art, debate, writing etc.
+<br />
 
-* May, 2021, ICC was approved by Presidential Service Award as a Certifying Orgnization.
-* May, 2021, ICC join as a member club of hack club , a global nonprofit network of high school computer hackers, makers and coders.
-* Summer 2021, ICC starts offering 9 classes online for K-12 students.
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<!-- The Timeline -->
+<link rel="stylesheet" href="assets/css/timeline.css">
+<ul class="timeline">
+
+	<!-- Item 1 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Established</span>
+				<span class="time-wrapper"><span class="time">2020 </span></span>
+			</div>
+			<div class="desc">Started as a student club in Rancho S.J.</div>
+		</div>
+	</li>
+
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">A Non Profit Org</span>
+				<span class="time-wrapper"><span class="time">Apr, 2011 </span></span>
+			</div>
+			<div class="desc">ICC was created as a non profit orgnization in California.</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">PSVA Certifying Org</span>
+				<span class="time-wrapper"><span class="time">May, 2011</span></span>
+			</div>
+			<div class="desc">ICC was approved by Presidential Service Award as a Certifying Orgnization</div>
+		</div>
+	</li>
+
+  	<!-- Item 4 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Member of Hack Club</span>
+				<span class="time-wrapper"><span class="time">May, 2011</span></span>
+			</div>
+			<div class="desc">ICC was accepted as a member of Hack Club</div>
+		</div>
+	</li>
+
+    	<!-- Item 5 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Offering Free Courses</span>
+				<span class="time-wrapper"><span class="time">Summer, 2011</span></span>
+			</div>
+			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021</div>
+		</div>
+	</li>
+
+</ul>
+
+
 
 ## Memebers on Line
 <div class="large text-muted">
