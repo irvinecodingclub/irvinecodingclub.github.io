@@ -107,7 +107,7 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
             <div class="pe">
                     <img src="/assets/images/agtiger.jpg" alt="rafeh">
               <div class="p-name">Agam Randhawa</div>
-              <div class="p-des">President, Co-Founder</div>
+              <div class="p-des">President, Co-Founder, Hacker</div>
             </div>
 
             <div class="pe">
@@ -187,7 +187,7 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
             <div class="pe">
               <img src="/assets/images/ian.jpeg" alt="rafeh">
               <div class="p-name">Ian Madden</div>
-              <div class="p-des">Lecturer</div>
+              <div class="p-des">Director of App Dev, Lecturer</div>
             </div>
 
             <div class="pe">
@@ -219,7 +219,7 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
                         <div class="pe">
                           <img src="/assets/images/nethumsagara.png" alt="rafeh">
                           <div class="p-name">Nethum Sagara</div>
-                          <div class="p-des">Lecturer</div>
+                          <div class="p-des">PR Representive, Lecturer</div>
                         </div>
 
 
