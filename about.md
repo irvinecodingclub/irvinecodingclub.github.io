@@ -130,7 +130,7 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
             <div class="pe">
               <img src="/assets/images/sopz.png" alt="rafeh">
               <div class="p-name">Sophia Zhou</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
 
@@ -144,68 +144,82 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
             <div class="pe">
               <img src="/assets/images/allison.jpg" alt="rafeh">
               <div class="p-name">Allison Hung</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/kai.jpeg" alt="rafeh">
               <div class="p-name">Kai Wang</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
 
             <div class="pe">
               <img src="/assets/images/sarahchen.jpg" alt="rafeh">
               <div class="p-name">Sarah Chen</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/zach.jpeg" alt="rafeh">
               <div class="p-name">Zach Piedad</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/forrest.jpeg" alt="rafeh">
               <div class="p-name">Forrest Zeng</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/sophialin.jpeg" alt="rafeh">
               <div class="p-name">Sophia Lin</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/nikki.png" alt="rafeh">
               <div class="p-name">Nikki Piedad</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/ian.jpeg" alt="rafeh">
               <div class="p-name">Ian Madden</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/katelyngan.png" alt="rafeh">
               <div class="p-name">Katelyn Gan</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
               <img src="/assets/images/michael.jpeg" alt="rafeh">
               <div class="p-name">Michael Li</div>
-              <div class="p-des">Teacher</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
                         <div class="pe">
                           <img src="/assets/images/edwardlee.png" alt="rafeh">
                           <div class="p-name">Edward Lee</div>
-                          <div class="p-des">Teacher</div>
+                          <div class="p-des">Lecturer</div>
+                        </div>
+
+
+                        <div class="pe">
+                          <img src="/assets/images/sarinamarzbani.png" alt="rafeh">
+                          <div class="p-name">Sarina Marzbani</div>
+                          <div class="p-des">Lecturer</div>
+                        </div>
+
+
+                        <div class="pe">
+                          <img src="/assets/images/nethumsagara.png" alt="rafeh">
+                          <div class="p-name">Nethum Sagara</div>
+                          <div class="p-des">Lecturer</div>
                         </div>
 
 
