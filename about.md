@@ -107,7 +107,7 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
             <div class="pe">
                     <img src="/assets/images/agtiger.jpg" alt="rafeh">
               <div class="p-name">Agam Randhawa</div>
-              <div class="p-des">President, Co-Founder, Hacker</div>
+              <div class="p-des">President, Co-Founder</div>
             </div>
 
             <div class="pe">
