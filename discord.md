@@ -76,18 +76,21 @@ comments: false
 
 
 
-## Memebers on Line
+## Members Online
+
 <div class="large text-muted">
 <iframe src="https://discord.com/widget?id=800120401107746846&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 
 
-
 <br />
 
-You can click the connect button to join our discord :)
+You can click the connect button to join our discord! This is where the members of the ICC join.
 
-## ICC Club Member Registration form
+### Note: The member registration for the ICC (Teachers/members who compete in competitions) are for students who are incoming 6th grade and above.
+If you are younger, you can still sign up for courses (and we recommend you do so!) but would advise against joining as a member until older. If you still want to join and feel you have the capabilites to do so, shoot us an email at irvinecodingclub@gmail.com!
+
+## ICC Club Member Registration Form
 [Please fill this form to apply for ICC membership.](https://forms.gle/Ky4S6YLkkursGyZn6)
 
 <br />
