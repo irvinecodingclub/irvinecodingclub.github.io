@@ -1,8 +1,18 @@
 /*==========================
          CUSTOM CSS
 ===========================*/
-a[href="/volunteer"] {
+a[href="/volunteer"] { /* remove annoying underlines for the volunteer counter buttons */
   text-decoration: none;
+}
+
+div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
+  text-decoration: none;
+}
+
+.wrapintro { /* make the text have a little more contrast while keeping still and composed */
+  background: #fff6;
+  width: 700px;
+  border-radius: 20px;
 }
 
 .line {
