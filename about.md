@@ -140,6 +140,11 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
               <div class="p-des">Director of Graphic Design</div>
             </div>
 
+                        <div class="pe">
+                          <img src="/assets/images/ian.jpeg" alt="rafeh">
+                          <div class="p-name">Ian Madden</div>
+                          <div class="p-des">Director of App Dev, Lecturer</div>
+                        </div>
 
             <div class="pe">
               <img src="/assets/images/allison.jpg" alt="rafeh">
@@ -184,11 +189,6 @@ Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
               <div class="p-des">Lecturer</div>
             </div>
 
-            <div class="pe">
-              <img src="/assets/images/ian.jpeg" alt="rafeh">
-              <div class="p-name">Ian Madden</div>
-              <div class="p-des">Director of App Dev, Lecturer</div>
-            </div>
 
             <div class="pe">
               <img src="/assets/images/katelyngan.png" alt="rafeh">
