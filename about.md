@@ -86,8 +86,8 @@ Our members come from different schools in Orange County.
 * Vista Verde (K8)
 * Beacon Park School (K8)
 
-If you are a 6th grade and above CS enthusiast who want to learn together with our team members.
-Or if you are good at some areas that you want to share with our community by providing online courses.
+If you are a 6th grade and above CS enthusiast who want to learn together with our team members,
+or if you are good at some areas that you want to share with our community by providing online courses.
 Come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6).   
 Send an email to irvinecodingclub@gmail.com if you didn't get back from us.
 
