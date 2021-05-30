@@ -1,3 +1,20 @@
+/*==========================
+         CUSTOM CSS
+===========================*/
+a[href="/volunteer"] { /* remove annoying underlines for the volunteer counter buttons */
+  text-decoration: none;
+}
+
+div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
+  text-decoration: none;
+}
+
+.wrapintro { /* make the text have a little more contrast while keeping still and composed */
+  background: #fff6;
+  width: 700px;
+  border-radius: 20px;
+}
+
 .line {
   background: -webkit-linear-gradient(#fe8464 0%, #fe6e9a 100%);
   background: -o-linear-gradient(#fe8464 0%, #fe6e9a 100%);
@@ -71,6 +88,7 @@
     margin-top: 35px; }
   .counter-wrapper .single-counter {
     max-width: 155px;
+    transition: .3s;
     height: 120px;
     border-radius: 60px;
     position: relative;
@@ -141,8 +159,8 @@
 
           .single-counter:hover {
              border-radius:50%;
-             transition:.5s;
-             transform: scale(1.5);
+             transform: scale(1.3);
+             z-index: 10;
           }
 
 
