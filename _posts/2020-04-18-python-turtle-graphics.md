@@ -2,7 +2,7 @@
 layout: post
 title:  "Python and Turtle Graphics"
 image: assets/images/turtle.png
-image2: assets/images/turtleposter.png
+image2: assets/images/pythonturtle.png
 course: true
 permalink: /python101
 comments: false
