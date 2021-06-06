@@ -85,6 +85,7 @@ Our members come from different schools in Orange County.
 * Jeffrey Trail Middle School
 * Vista Verde (K8)
 * Beacon Park School (K8)
+* Many More!
 
 If you are a 6th grade and above CS enthusiast who want to learn together with our team members,
 or if you are good at some areas that you want to share with our community by providing online courses.

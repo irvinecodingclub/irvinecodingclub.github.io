@@ -22,7 +22,7 @@ Coding with a language that leads to music coming out.
     <tbody>
         <tr>
             <td>Sophia Dai</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

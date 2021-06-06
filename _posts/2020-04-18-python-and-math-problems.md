@@ -28,8 +28,6 @@ This is a intermediate level Python class. Students should have a prior knowledg
 
 
 
-
-
 # Lesson 1 Introduction
 
 In this course, we will use Python program to solve mathematical problems. We will introduce various algorithms in Computer Science which can be used to deal with math problems. After learning this course, students will be able to practise by themselves to solve problems in Project Euler.

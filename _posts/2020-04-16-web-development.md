@@ -19,7 +19,7 @@ excerpt: "A course teaching you how to make a basic website."
     <tbody>
         <tr>
             <td>Ian Madden</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

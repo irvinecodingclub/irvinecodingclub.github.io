@@ -2,7 +2,7 @@
 layout: post
 title:  "Programming with Arduino"
 image: assets/images/arduino.jpeg
-image2: assets/images/arduino.png
+image2: assets/images/arduino2.png
 permalink: /arduino
 excerpt: "A course designed to help you learn arduino."
 course: true
@@ -21,7 +21,7 @@ In this course, students will learn how to program an Arduino.
     <tbody>
         <tr>
             <td>Zach Piedad, Agam Randhawa</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Congress Debate"
 image: assets/images/debate.png
-image2: assets/images/debate2.png
+image2: assets/images/debate3.png
 permalink: /congressdebate
 excerpt: "The basics of public speaking and congress debate."
 course: true
@@ -21,7 +21,7 @@ Learn about the basics of public speaking and debate, and delve into Congress de
     <tbody>
         <tr>
             <td> Claire Wen, Sarah Chen, Sophia Dai </td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

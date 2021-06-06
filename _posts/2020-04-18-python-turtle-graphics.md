@@ -19,7 +19,7 @@ excerpt: "An introductory ten week crash course for Python."
     <tbody>
         <tr>
             <td>Allison Hung, Sophia Lin</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

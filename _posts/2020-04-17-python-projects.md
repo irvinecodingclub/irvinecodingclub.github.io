@@ -20,7 +20,7 @@ excerpt: "Challenge yourself with hands-on Python Projects."
     <tbody>
         <tr>
             <td>Melody Yu, Annette Lee, Agam Randhawa</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

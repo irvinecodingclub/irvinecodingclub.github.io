@@ -19,7 +19,7 @@ excerpt: "A small workshop teaching concepts of programming."
     <tbody>
         <tr>
             <td>Forrest Zeng</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>

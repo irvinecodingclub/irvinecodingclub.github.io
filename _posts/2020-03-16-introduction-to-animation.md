@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Animation"
 image: assets/images/animation.jpeg
-image2: assets/images/animation2.png
+image2: assets/images/animation3.png
 permalink: /animation
 excerpt: "A beginner course to introduce people to animation."
 course: true
@@ -25,7 +25,7 @@ A beginner course to introduce people to animation, how to animate, and its hist
     <tbody>
         <tr>
             <td>Sophia Zhou, Cameron Weng</td>
-            <td>890 1539 2821</td>
+            <td>Check the Google Classroom</td>
         </tr>
     </tbody>
 </table>
