@@ -74,7 +74,16 @@ comments: false
 
 </ul>
 
-
+<!-- Item 6 -->
+<li>
+<div class="direction-l">
+<div class="flag-wrapper">
+	<span class="flag">Received First Donation</span>
+	<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
+</div>
+<div class="desc">A 50$ donation was received, this donation would upgrade ICC web to support Python/Turtle 3.0. Thank you so much for your support!</div>
+</div>
+</li>
 
 ## Members Online
 
