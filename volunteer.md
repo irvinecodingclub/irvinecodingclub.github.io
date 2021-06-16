@@ -5,8 +5,8 @@ comments: false
 ---
 ![](assets/images/volunteer.png)
 
-Irvine Coding Club (ICC) is a non profit orgnization run by students and serving K-12 students in Orange County.  
-ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Orgnization.
+Irvine Coding Club (ICC) is a non profit organization run by students and serving K-12 students in Orange County.  
+ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
 ICC is open to all student volunteers, come to ICC and volunteer now.
 Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/).
@@ -50,18 +50,13 @@ Your service hours can be accumulated for winning a [Presidential Service Award]
             <td>250+ hours</td>
          <td>4,000+ hours</td>
         </tr>
-        <tr class="active-row">
-          <td> Adults (26+)	</td>
-          <td>100–249 hours	 </td>
-          <td>250–499 hours	 </td>
-          <td>500+ hours	 </td>
-          <td>4,000+ hours    </td>
-        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
 
 <br/>
+#### HOWTO APPLY  
+You can [Join our Discord](/discord) to apply to become a member.
 
 #### APPLY FOR A GENERAL VOLUNTEER
 Come and help ICC in varies events, public relations etc.
@@ -71,11 +66,11 @@ ICC teachers lead the online classes now and will give courses at our various br
 Teachers also actively participate in creating class materials.  
 Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
-#### APPLY FOR A TEACHING ASSITANT
+#### APPLY FOR A TEACHING ASSISTANT
 Come and help our students in courses, answer student's problems help discussion session in breakout rooms.
 
 #### APPLY FOR A BRANCH DIRECTOR
-If you are passionate for coordinating/teaching coding to students in your school (or your former school), you are welcome to apply for ICC branch director for your school (or your community libarary). Branch director will be appointed by the ICC Board and Advisors.
+If you are passionate for coordinating/teaching coding to students in your school (or your former school), you are welcome to apply for ICC branch director for your school (or your community library). Branch director will be appointed by the ICC Board and Advisors.
 
 #### REQUIREMENTS  
 To become a teacher, you must meet the following requirements:
