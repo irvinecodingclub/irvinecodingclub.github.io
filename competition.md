@@ -21,4 +21,5 @@ If you are interested in attending ACSL competition 2021-2022 season, please fil
 
 * [ICC team received 3rd place in 2021 CyberCup Finals, team members: Jonathan Zhu, Evan Zhong, Zach Piedad, Agam Randhawa, Nikki Piedad, Kai Wang, Melody Yu, and Maanya Chhajer, ](/2021/05/21/socal-cyber-cup-2021.html)
 * ["Last Placers" and "good team name", two ICC teams, placed first and second place in SoCalCCCC Spring 2021 CTF](https://socalcccc.ctfd.io/scoreboard).
-* ICC members Tyler and Jonathan won 2nd and 3rd place individually at the SoCal Spring 2021 CTF.
+* ICC members Tyler and Jonathan won 2nd and 3rd place individually at the [SoCal Spring 2021 CTF](https://socalcccc.ctfd.io/scoreboard).
+* ICC member Melody Yu won a Bronze medal in the ACSL All Stars Finals Senior division.
