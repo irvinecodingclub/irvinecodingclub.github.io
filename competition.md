@@ -6,9 +6,9 @@ title:  Competition
 Irvine Coding Club helps organize students form teams to attend team competitions and helps students prepare for individual competitions.  
 
 ## National Competition
-* [USA Computing Olympiad](http://usaco.org/index.php) is the top high school coding competition for high schools world wide.
-* [Canadian Computing Competition](https://www.competitionsciences.org/competitions/canadian-computing-competition/) has both junior and senior division for coding competition.
-* [American Computer Science League](https://www.acsl.org/) is another prominent coding competition with over 43 years of history.
+* [USA Computing Olympiad (USACO)](http://usaco.org/index.php) is the top high school coding competition for high schools world wide.
+* [Canadian Computing Competition (CCC)](https://www.competitionsciences.org/competitions/canadian-computing-competition/) has both junior and senior division for coding competition.
+* [American Computer Science League (ACSL)](https://www.acsl.org/) is another prominent coding competition with over 43 years of history.
 * [CyberPatriot](https://www.uscyberpatriot.org/) is a highly competitive top national cyber security competition.
 * [picoCTF from CMU](https://picoctf.org/) is another highly competitive cyber security competition.
 
