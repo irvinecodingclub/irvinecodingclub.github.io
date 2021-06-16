@@ -21,4 +21,3 @@ If you are interested in these coding competitions (especially for ACSL 2021-202
 
 * [ICC team received 3rd place in 2021 CyberCup Finals, team members: Jonathan Zhu, Evan Zhong, Zach Piedad, Agam Randhawa, Nikki Piedad, Kai Wang, Melody Yu, and Maanya Chhajer, ](/2021/05/21/socal-cyber-cup-2021.html)
 * [Two ICC teams placed top in SoCalCCCC Spring 2021 CTF](https://socalcccc.ctfd.io/scoreboard)
-* [Melody Yu received 6th place team in 2021 Montgomery Blair Informatics Tournament Standard Division](https://mbit.mbhs.edu/archive/2021s/)
