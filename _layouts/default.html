@@ -10,6 +10,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="#e4d882">
 <title>{{ page.title }} | {{site.name}}</title>
+<meta name="theme-color" content="#e4d882">
 {% seo %}
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -17,6 +18,7 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 
+  
 {{site.sharethis}}
 
 {% if jekyll.environment == 'production' %}
@@ -62,34 +64,44 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link"  href="{{ site.baseurl }}/python">Python</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 
-                <li class="nav-item ">
+                <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/courses">Courses</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link"  href="{{ site.baseurl }}/competition">Competition</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/competition">Competitions</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link"  href="{{ site.baseurl }}/volunteer">Volunteer NOW</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/volunteer">Volunteer</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                    <a class="nav-link" href="javascript:donateOpen();">Donate</a>
+                </li>
+              
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Resources
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/python">Python</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="https://www.youtube.com/channel/UCqN97rf-M3vnJq5g1IMZx4Q">ICC YouTube</a>
+                        <a class="dropdown-item" href="https://instagram.com/irvinecodingclub">ICC Instagram</a>
+                        <a class="dropdown-item" href="https://facebook.com/irvinecodingclub">ICC Facebook</a>
+                    </div>
                 </li>
 
-                <li class="nav-item"">
-                  <a class="nav-link" href="https://bank.hackclub.com/donations/start/irvine-coding-club">Donate</a>
-                </li>
-
-                <li class="nav-item"">
-                  <a class="nav-link" href="https://my.irvinecoding.club">LOGIN</a>
+                <li class="nav-item">
+                    <a class="nav-link btn btn-secondary" href="https://my.irvinecoding.club">Sign In</a>
                 </li>
 
             </ul>
+          
             <!-- End Menu -->
 
         </div>
@@ -140,6 +152,28 @@
         </div>
 
     </footer>
+    <div class="modal" tabindex="-1" role="dialog" id="donate">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" onclick="donateClose();" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body" style="padding: 0px;height: calc(100vh - 87px - 87px);">
+                    <iframe src="https://bank.hackclub.com/donations/start/irvine-coding-club" style="
+                      width: 100%;
+                      box-sizing: content-box;
+                      border: 0px;
+                      border-radius: 0px 0px .3rem .3rem;
+                      height: 100%;
+                    "></iframe>
+               </div>
+           </div>
+      </div>
+  </div>
+  
     <!-- End Footer
     ================================================== -->
 
@@ -161,6 +195,15 @@
 
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
 
+<script>
+function donateOpen () {
+  document.getElementById('donate').style.display = 'block';
+}
+function donateClose () {
+  document.getElementById('donate').style.display = 'none';
+}
+</script>
+ 
 </body>
 
 </html>
