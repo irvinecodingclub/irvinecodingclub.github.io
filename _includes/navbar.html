@@ -1,0 +1,86 @@
+
+<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" >
+        </a>
+        <!-- End Logo -->
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarsWow">
+
+            <!-- Begin Menu -->
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/courses">Courses</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/competition">Competitions</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/volunteer">Volunteer</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="javascript:donateOpen();">Donate</a>
+                </li>
+              
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Resources
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/python">Python</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="https://www.youtube.com/channel/UCqN97rf-M3vnJq5g1IMZx4Q">ICC YouTube</a>
+                        <a class="dropdown-item" href="https://instagram.com/irvinecodingclub">ICC Instagram</a>
+                        <a class="dropdown-item" href="https://facebook.com/irvinecodingclub">ICC Facebook</a>
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link btn btn-secondary" href="https://my.irvinecoding.club">Sign In</a>
+                </li>
+
+            </ul>
+          
+            <!-- End Menu -->
+
+        </div>
+    </div>
+</header>
+
+  
+    <div class="modal" tabindex="-1" role="dialog" id="donate">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" onclick="donateClose();" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body" style="padding: 0px;height: calc(100vh - 87px - 87px);">
+                    <iframe src="https://bank.hackclub.com/donations/start/irvine-coding-club" style="
+                      width: 100%;
+                      box-sizing: content-box;
+                      border: 0px;
+                      border-radius: 0px 0px .3rem .3rem;
+                      height: 100%;
+                    "></iframe>
+               </div>
+           </div>
+      </div>
+  </div>
