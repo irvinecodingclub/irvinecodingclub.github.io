@@ -28,4 +28,3 @@ If you are interested in attending ACSL competition 2021-2022 season, please fil
     * #5 Team Otamatone - Ian Madden, Scott
 
 * ICC members Tyler, Jonathan, and Ian won 2nd, 3rd place, and 4th place individually at the [SoCal Spring 2021 CTF](https://socalcccc.ctfd.io/scoreboard).
-* ICC member Melody Yu won a Bronze medal in the ACSL All Stars Finals Senior division.

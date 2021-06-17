@@ -22,21 +22,23 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/courses">Courses</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/volunteer">Volunteer</a>
                 </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/competition">Competitions</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/volunteer">Volunteer Now</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Learn
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/courses">Courses</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/webinars">Webinar</a>
+                    </div>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:donateOpen();">Donate</a>
-                </li>
-              
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Resources
@@ -51,18 +53,22 @@
                 </li>
 
                 <li class="nav-item">
+                    <a class="nav-link" href="javascript:donateOpen();">Donate</a>
+                </li>
+
+                <li class="nav-item">
                     <a class="nav-link btn btn-secondary" href="https://my.irvinecoding.club">Sign In</a>
                 </li>
 
             </ul>
-          
+
             <!-- End Menu -->
 
         </div>
     </div>
 </header>
 
-  
+
     <div class="modal" tabindex="-1" role="dialog" id="donate">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
