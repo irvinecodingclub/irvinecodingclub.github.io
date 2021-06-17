@@ -1,6 +1,8 @@
+
 /*==========================
          CUSTOM CSS
 ===========================*/
+
 a[href="/volunteer"] { /* remove annoying underlines for the volunteer counter buttons */
   text-decoration: none;
 }
