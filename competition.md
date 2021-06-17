@@ -17,6 +17,7 @@ There are also several smaller scale coding competitions, including [Montgomery 
 If you are interested in attending ACSL competition 2021-2022 season, please fill [this survey form](https://forms.gle/G7gAhVgqa3RVUQZ98)
 
 
+
 ## ICC Hall of Fame
 
 * [ICC team received 3rd place in 2021 CyberCup Finals](/2021/05/21/socal-cyber-cup-2021.html) with team members: Jonathan Zhu, Evan Zhong, Zach Piedad, Agam Randhawa, Nikki Piedad, Kai Wang, Melody Yu, and Maanya Chhajer
