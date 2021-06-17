@@ -89,7 +89,7 @@
 .direction-r .flag:before {
  position: absolute;
  top: 50%;
- right: -40px;
+ right: -36px;
  content: ' ';
  display: block;
  width: 12px;
@@ -102,7 +102,7 @@
 }
 
 .direction-r .flag:before {
- left: -40px;
+ left: -36px;
 }
 
 .direction-l .flag:after {
