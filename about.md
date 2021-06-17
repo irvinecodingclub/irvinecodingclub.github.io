@@ -55,7 +55,7 @@ comments: false
                         <div class="pe">
                           <img src="/assets/images/ian.jpeg" alt="rafeh">
                           <div class="p-name">Ian Madden</div>
-                          <div class="p-des">Director of App Dev, Lecturer</div>
+                          <div class="p-des">IT Manager, Lecturer</div>
                         </div>
 
             <div class="pe">
