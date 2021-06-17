@@ -9,7 +9,6 @@ comments: false
     <h2>Meet our team </h2>
     <div class="pers">
 
-
           <div class="pe">
             <img src="/assets/images/melodyimg.png" alt="rafeh">
             <div class="p-name">Melody Yu</div>
