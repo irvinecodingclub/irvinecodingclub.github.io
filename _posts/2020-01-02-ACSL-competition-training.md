@@ -10,21 +10,6 @@ excerpt: "Train and Preparing for 2021-2022 ACSL Competition."
 ---
 
 
-<table class="styled-table">
-    <thead>
-        <tr>
-            <th>Instructor</th>
-            <th>Zoom ID</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Melody Yu, Agam Randhawa</td>
-            <td>890 1539 2821</td>
-        </tr>
-    </tbody>
-</table>
-
 ## About ACSL
 [American Computer Science League (ACSL)](https://www.acsl.org/) organizes computer science and programming contests for K-12 students.
 The 2020-2021 school year will be our 43rd year of continuous operation. Last year, about 500 teams in the United States, Canada, Europe, and Asia participated.
