@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cyber Patriot Competition"
+permalink: /cyberpatriot
 image: assets/images/icc2.jpg
 image2: assets/images/cyberpatriot.jpg
 excerpt: "Teach problems in CyberPatriot competition."
