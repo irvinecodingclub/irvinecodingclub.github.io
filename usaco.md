@@ -3,7 +3,7 @@ layout: page
 title:  USACO
 ---
 
-![usaco](http://www.usaco.org/current/images/usaco_logo.png)
+![usaco](/assets/images/usaco_logo.png)
 
 
 
