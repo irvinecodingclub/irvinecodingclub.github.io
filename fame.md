@@ -3,7 +3,7 @@ layout: page
 title:  ICC Hall of Fame
 ---
 
-## Cyber Security Competitions
+## Cyber Security 
 
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
