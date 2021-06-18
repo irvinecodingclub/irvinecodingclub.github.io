@@ -3,7 +3,7 @@ layout: page
 title:  ICC Hall of Fame
 ---
 
-## Cyber Security 
+## Cyber Security
 
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -45,24 +45,6 @@ title:  ICC Hall of Fame
             <td> <a href="https://socalcccc.org/socalcccc-events/"> 2021 SoCalCCCC Spring CTF </a></td>
             <td> 5th place </td>
             <td>  Ian Madden, Scott </td>
-        </tr>
-        <tr>
-            <td> Individual </td>
-            <td> <a href="https://socalcccc.org/socalcccc-events/"> 2021 SoCalCCCC Spring CTF </a></td>
-            <td> 2nd place </td>
-            <td> Tyler </td>
-        </tr>
-        <tr>
-            <td> Individual </td>
-            <td> <a href="https://socalcccc.org/socalcccc-events/"> 2021 SoCalCCCC Spring CTF </a></td>
-            <td> 3rd place </td>
-            <td> Jonathan Zhu</td>
-        </tr>
-        <tr>
-            <td> Individual </td>
-            <td> <a href="https://socalcccc.org/socalcccc-events/"> 2021 SoCalCCCC Spring CTF </a></td>
-            <td> 4rd place </td>
-            <td> Ian Madden</td>
         </tr>
         <!-- and so on... -->
     </tbody>
