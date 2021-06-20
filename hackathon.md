@@ -1,19 +1,19 @@
 ---
 layout: page
-title:  Hachathon
+title:  Hackathons
 ---
 
-![hachathon](https://siim.org/resource/resmgr/hackathon/Hackathon-500x286.png)
+![hackathon](https://siim.org/resource/resmgr/hackathon/Hackathon-500x286.png)
 
-Small app can make big impact to our world.  
-ICC proudly presents to you the following apps created by our team members.
+Small apps can make big impacts to our world.  
+ICC proudly presents to you the following apps created by our members.
 
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
     <thead>
         <tr>
             <th>App Name</th>
-            <th>Hachathon Event</th>
+            <th>Hackathon Event</th>
             <th>Project Member</th>
         </tr>
     </thead>
@@ -35,4 +35,4 @@ ICC proudly presents to you the following apps created by our team members.
 
 
 
-Every year, ICC members form teams to compete in Hackathon.  Come and <a href="/discord">join ICC</a> to form teams!
+Every year, ICC members form teams to compete in *hackathons*.  Come and <a href="/discord">join ICC</a> to form teams!
