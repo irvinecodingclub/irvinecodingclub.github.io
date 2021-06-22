@@ -6,7 +6,7 @@ title:  Hackathons
 ![hackathon](https://siim.org/resource/resmgr/hackathon/Hackathon-500x286.png)
 
 Small apps can make big impacts to our world.  
-ICC proudly presents to you the following apps created by our members (and other members).
+ICC proudly presents to you the following apps created by its members.
 
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
