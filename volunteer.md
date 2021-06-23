@@ -8,30 +8,32 @@ comments: false
 Irvine Coding Club (ICC) is a non profit organization run by students and serving K-12 students in Orange County.  
 ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
-#### Ways to Join
+### Ways to Join
 You can join ICC as a member, or you can volunteer and help with courses, school branches, and more.
 
-##### Join as a member
+#### Join as a member
 You can join the Irvine Coding Club as a member by joining our Discord server. It's full of other ICC students and volunteers.
 
-##### Apply to become a teacher
+#### Apply to become a teacher
 ICC teachers lead the online classes now and will give courses at our various branches. Teachers also actively participate in creating class materials.   Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
-##### Apply as a teaching assistant
+#### Apply as a teaching assistant
 Come and help our students in courses, answer student's problems help discussion session in breakout rooms.
 
-##### Apply as a branch director
+#### Apply as a branch director
 If you are passionate for coordinating/teaching coding to students in your school (or your former school), you are welcome to apply for ICC branch director for your school (or your community library). Branch director will be appointed by the ICC Board and Advisors.
 
 --------------------------------------
 
-
-ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:admin@irvinecoding.club">admin@irvinecoding.club</a>.
-
-##### Requirements  
+#### Requirements  
 To become a teacher, you must meet the following requirements:
 * Current upcoming student from 7th to 12th grade
 * Possess a passion for teaching K-12 students and helping others!
+
+
+
+
+ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:admin@irvinecoding.club">admin@irvinecoding.club</a>.
 
 
 ![](assets/images/pvsa-logo.png)
