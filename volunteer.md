@@ -25,12 +25,15 @@ If you are passionate for coordinating/teaching coding to students in your schoo
 
 --------------------------------------
 
+
 ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:admin@irvinecoding.club">admin@irvinecoding.club</a>.
 
 ##### Requirements  
 To become a teacher, you must meet the following requirements:
 * Current upcoming student from 7th to 12th grade
 * Possess a passion for teaching K-12 students and helping others!
+
+
 ![](assets/images/pvsa-logo.png)
 
 #### Hours Required to Earn Presidential Service Awards in Each Age Group
