@@ -159,7 +159,7 @@ The orgnization was created as a student run community service orgnization for C
 				<span class="flag">Established</span>
 				<span class="time-wrapper"><span class="time">2020</span></span>
 			</div>
-			<div class="desc">Started as a student club in Rancho S.J.</div>
+			<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
 		</div>
 	</li>
 
@@ -170,7 +170,7 @@ The orgnization was created as a student run community service orgnization for C
 				<span class="flag">A Non Profit Org</span>
 				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
 			</div>
-			<div class="desc">ICC became a non profit orgnization in Irvine</div>
+			<div class="desc">ICC became a non profit orgnization in California.</div>
 		</div>
 	</li>
 
@@ -181,7 +181,7 @@ The orgnization was created as a student run community service orgnization for C
 				<span class="flag">PSVA Certifying Org</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
-			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization</div>
+			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization,</div>
 		</div>
 	</li>
 
@@ -192,7 +192,7 @@ The orgnization was created as a student run community service orgnization for C
 				<span class="flag">Member of Hack Club</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
-			<div class="desc">ICC was accepted as a member of Hack Club</div>
+			<div class="desc">ICC was accepted as a member of <a href="https://hackclub.com">Hack Club</a>.</div>
 		</div>
 	</li>
 
@@ -203,7 +203,7 @@ The orgnization was created as a student run community service orgnization for C
 				<span class="flag">Offer Free Courses</span>
 				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
-			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021</div>
+			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021.</div>
 		</div>
 	</li>
 
@@ -215,7 +215,7 @@ The orgnization was created as a student run community service orgnization for C
   				<span class="flag">First Donation</span>
   				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
   			</div>
-  			<div class="desc">Your donation would help the ICC website to support Python/Turtle 3.0. Thank you so much for your support!</div>
+  			<div class="desc">This donation would help the ICC website to support our Python/Turtle 3.0 IDE. Thank you so much for your support!</div>
   		</div>
   	</li>
 
