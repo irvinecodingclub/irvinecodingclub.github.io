@@ -26,5 +26,5 @@ A Science Olympiad prep course, but people who aren’t interested in doing Scie
 <br/>
 
 **Prerequisites**: Basic memorization and math skills, although not much. People with an advanced disease skill set are not recommended, as this is a beginner course.  
-**Required tools**: google docs or other note taking devices  
+**Required tools**: Google Docs or other note taking devices  
 **Final project**: take a Disease Detectives test written by the lecturers  
