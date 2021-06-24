@@ -11,29 +11,30 @@ ICC is a [Presidential Service Award](https://www.presidentialserviceawards.gov/
 ### Ways to Join
 You can join ICC as a member, or you can volunteer and help with courses, school branches, and more.
 
-#### Join as a member
-You can join the Irvine Coding Club as a member by joining our Discord server. It's full of other ICC students and volunteers.
+#### Join as a Member
+You can join the Irvine Coding Club as a member by joining our Discord server. It's full of other ICC students and volunteers. When you join our discord server, you can form teams for competitions or hackathons, or teach courses.
 
-#### Apply to become a teacher
-ICC teachers lead the online classes now and will give courses at our various branches. Teachers also actively participate in creating class materials.   Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
+#### Apply to become a Teacher
+ICC teachers lead the online classes now and will give courses at our various branches. Teachers also actively participate in creating class materials. Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
-#### Apply as a teaching assistant
-Come and help our students in courses, answer student's problems help discussion session in breakout rooms.
+#### Apply as a Teaching Assistant
+Come and help our students in courses, answer student's problems help discussion session in breakout rooms. In the summer of 2021, you can join our discord server to be a Teaching Assistant (TA) for classes we offer.
 
-#### Apply as a branch director
-If you are passionate for coordinating/teaching coding to students in your school (or your former school), you are welcome to apply for ICC branch director for your school (or your community library). Branch director will be appointed by the ICC Board and Advisors.
+#### Apply as a Branch Director
+If you are passionate for coordinating/teaching coding to students in your school (or your former schools), you are welcome to apply for ICC branch director for your school (or your community library). Message us on discord for more details. Branch director will be appointed by the ICC Board and Advisors.
 
 --------------------------------------
 
 #### Requirements  
 To become a teacher, you must meet the following requirements:
-* Current upcoming student from 7th to 12th grade
-* Possess a passion for teaching K-12 students and helping others!
+* Current incoming student from 5th to 12th grade
+* Possess a passion for teaching, learning, and helping others!
+
+No coding experience needed! We're here to learn together.
 
 
 
-
-ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:admin@irvinecoding.club">admin@irvinecoding.club</a>.
+ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> or message on discord.
 
 
 ![](assets/images/pvsa-logo.png)
