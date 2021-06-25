@@ -30,7 +30,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="rafeh">
               <div class="p-name">Annette Lee</div>
-              <div class="p-des">Vice President of Operations</div>
+              <div class="p-des">Vice President of Marketing</div>
             </div>
 
             <div class="pe">
