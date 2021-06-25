@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer
+title: Join / Volunteer
 comments: false
 ---
 ![](assets/images/volunteer.png)
