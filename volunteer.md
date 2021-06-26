@@ -27,7 +27,7 @@ If you are passionate for coordinating/teaching academic subjects to students at
 
 #### Requirements  
 To become a teacher, you must meet the following requirements:
-* Current incoming student from 5th to 12th grade
+* Current incoming student from 6th to 12th grade
 * Possess a passion for teaching, learning, and helping others!
 
 No coding experience needed! We're here to learn together.
