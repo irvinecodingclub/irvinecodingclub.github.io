@@ -45,7 +45,7 @@ image: assets/images/favicon.png
                         <div class="col-4">
                             <div class="single-counter counter-color-1 d-flex align-items-center justify-content-center">
                                 <div class="counter-items text-center">
-                                  <span class="count"><span class="counter">468</span></span>
+                                  <span class="count"><span class="counter" id="hours">🔃</span></span>
                                       <p class="text">Volunteer Hours</p>
                                 </div>
                             </div> <!-- single counter -->
@@ -148,3 +148,7 @@ image: assets/images/favicon.png
         </div>
 
 </section>
+    
+<script>
+    fetch('https://my.irvinecoding.club/api/v1/public/hours').then(a => a.text()).then(hours => document.getElementById('hours').innerText = hours);
+    </script>
