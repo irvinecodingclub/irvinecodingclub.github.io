@@ -166,6 +166,12 @@ comments: false
             </div>
 
             <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/handersenl.png" alt="rafeh">
+              <div class="p-name">Handersen Lee</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+
+            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/shaurya-.png" alt="rafeh">
               <div class="p-name">Shaurya</div>
               <div class="p-des">Competition</div>
