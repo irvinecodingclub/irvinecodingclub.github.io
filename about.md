@@ -94,12 +94,6 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sophialin.jpeg" alt="rafeh">
-              <div class="p-name">Sophia Lin</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nikki.png" alt="rafeh">
               <div class="p-name">Nikki Piedad</div>
               <div class="p-des">Lecturer</div>
@@ -108,12 +102,6 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/katelyngan.png" alt="rafeh">
               <div class="p-name">Katelyn Gan</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/michael.jpeg" alt="rafeh">
-              <div class="p-name">Michael Li</div>
               <div class="p-des">Lecturer</div>
             </div>
 
@@ -138,6 +126,12 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="rafeh">
               <div class="p-name">Scott Chiang</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/sophialin.jpeg" alt="rafeh">
+              <div class="p-name">Sophia Lin</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
