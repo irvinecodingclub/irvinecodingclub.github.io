@@ -9,14 +9,14 @@ comments: false
     <h2>Meet our team </h2>
     <div class="pers">
 
-          <div class="pe">
-            <img src="{{ site.baseurl }}/assets/images/melodyimg.png" alt="rafeh">
-            <div class="p-name">Melody Yu</div>
-            <div class="p-des">President, Co-Founder</div>
-          </div>
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/melodyimg.png" alt="rafeh">
+              <div class="p-name">Melody Yu</div>
+              <div class="p-des">President, Co-Founder</div>
+            </div>
 
             <div class="pe">
-                    <img src="{{ site.baseurl }}/assets/images/agtiger.jpg" alt="rafeh">
+               <img src="{{ site.baseurl }}/assets/images/agtiger.jpg" alt="rafeh">
               <div class="p-name">Agam Randhawa</div>
               <div class="p-des">President, Co-Founder</div>
             </div>
@@ -38,12 +38,6 @@ comments: false
               <div class="p-name">Sophia Dai</div>
               <div class="p-des">Secretary</div>
             </div>
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
-              <div class="p-name">Sophia Zhou</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/cameron.jpeg" alt="rafeh">
@@ -51,11 +45,23 @@ comments: false
               <div class="p-des">Director of Graphic Design</div>
             </div>
 
-                        <div class="pe">
-                          <img src="{{ site.baseurl }}/assets/images/ian.jpeg" alt="rafeh">
-                          <div class="p-name">Ian Madden</div>
-                          <div class="p-des">IT Manager, Lecturer</div>
-                        </div>
+            <div class="pe">
+               <img src="{{ site.baseurl }}/assets/images/ian.jpeg" alt="rafeh">
+               <div class="p-name">Ian Madden</div>
+               <div class="p-des">IT Manager, Lecturer</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
+              <div class="p-name">Nethum Sagara</div>
+              <div class="p-des">PR Representive, Lecturer</div>
+            </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
+              <div class="p-name">Sophia Zhou</div>
+              <div class="p-des">Lecturer</div>
+            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="rafeh">
@@ -68,7 +74,6 @@ comments: false
               <div class="p-name">Kai Wang</div>
               <div class="p-des">Lecturer</div>
             </div>
-
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarahchen.jpg" alt="rafeh">
@@ -100,7 +105,6 @@ comments: false
               <div class="p-des">Lecturer</div>
             </div>
 
-
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/katelyngan.png" alt="rafeh">
               <div class="p-name">Katelyn Gan</div>
@@ -113,27 +117,65 @@ comments: false
               <div class="p-des">Lecturer</div>
             </div>
 
-                        <div class="pe">
-                          <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="rafeh">
-                          <div class="p-name">Edward Lee</div>
-                          <div class="p-des">Lecturer</div>
-                        </div>
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="rafeh">
+              <div class="p-name">Edward Lee</div>
+              <div class="p-des">Lecturer</div>
+            </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="rafeh">
+              <div class="p-name">Sarina Marzbani</div>
+              <div class="p-des">Lecturer</div>
+            </div>
 
-                        <div class="pe">
-                          <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="rafeh">
-                          <div class="p-name">Sarina Marzbani</div>
-                          <div class="p-des">Lecturer</div>
-                        </div>
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/davidz.png" alt="rafeh">
+              <div class="p-name">David Zhang</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="rafeh">
+              <div class="p-name">Scott Chiang</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
-                        <div class="pe">
-                          <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
-                          <div class="p-name">Nethum Sagara</div>
-                          <div class="p-des">PR Representive, Lecturer</div>
-                        </div>
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
+              <div class="p-name">Timothy Chen</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/lucasm.png" alt="rafeh">
+              <div class="p-name">Lucas Melville</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/adrianaz.png" alt="rafeh">
+              <div class="p-name">Adriana Zhou</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/kennethc.png" alt="rafeh">
+              <div class="p-name">Kenneth Chen</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="rafeh">
+              <div class="p-name">Jayden Peng</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/shaurya-.png" alt="rafeh">
+              <div class="p-name">Shaurya</div>
+              <div class="p-des">Competition</div>
+            </div>
 
     </div>
   </div>
