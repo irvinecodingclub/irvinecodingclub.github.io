@@ -8,7 +8,7 @@ comments: false
 
 *"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
@@ -22,9 +22,9 @@ comments: false
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">Established</span>
-				<span class="time-wrapper"><span class="time">2020 </span></span>
+				<span class="time-wrapper"><span class="time">2020</span></span>
 			</div>
-			<div class="desc">Started as a student club in Rancho S.J.</div>
+			<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
 		</div>
 	</li>
 
@@ -32,10 +32,10 @@ comments: false
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">A Non Profit Org</span>
-				<span class="time-wrapper"><span class="time">Apr, 2021 </span></span>
+				<span class="flag">Non-profit Organization</span>
+				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
 			</div>
-			<div class="desc">ICC became a non profit orgnization in California.</div>
+			<div class="desc">ICC became a non-profit orgnization in Southern California.</div>
 		</div>
 	</li>
 
@@ -46,7 +46,7 @@ comments: false
 				<span class="flag">PSVA Certifying Org</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
-			<div class="desc">ICC was approved by Presidential Service Award as a Certifying Orgnization</div>
+			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization,</div>
 		</div>
 	</li>
 
@@ -57,7 +57,7 @@ comments: false
 				<span class="flag">Member of Hack Club</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
-			<div class="desc">ICC was accepted as a member of Hack Club</div>
+			<div class="desc">ICC was accepted as a member of <a href="https://hackclub.com">Hack Club</a>.</div>
 		</div>
 	</li>
 
@@ -68,24 +68,24 @@ comments: false
 				<span class="flag">Offer Free Courses</span>
 				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
-			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021</div>
+			<div class="desc">ICC starts 9 free online courses for K-12 students in Summer 2021.</div>
 		</div>
 	</li>
 
 
-	 	<!-- Item 6 -->
-	  	<li>
-	  		<div class="direction-l">
-	  			<div class="flag-wrapper">
-	  				<span class="flag">First Donation</span>
-	  				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
-	  			</div>
-	  			<div class="desc">This donation would upgrade ICC web to support Python/Turtle 3.0. Thank you so much for your support!</div>
-	  		</div>
-	  	</li>
+      	<!-- Item 6 -->
+  	<li>
+  		<div class="direction-l">
+  			<div class="flag-wrapper">
+  				<span class="flag">First Donation</span>
+  				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
+  			</div>
+  			<div class="desc">This donation helped the ICC website support our Python/Turtle 3.0 IDE. Thank you to all our donators for your support!</div>
+  		</div>
+  	</li>
 
 
-	</ul>
+</ul>
 
 
 ## Members Online
@@ -97,13 +97,13 @@ comments: false
 
 <br />
 
-You can click the connect button to join our discord! This is where the members of the ICC join.
+You can click the connect button to join our Discord server! This is where the members of the ICC join.
 
-### Note: The member registration for the ICC (Teachers/members who compete in competitions) are for students who are incoming 6th grade and above.
-If you are younger, you can still sign up for courses (and we recommend you do so!) but would advise against joining as a member until older. If you still want to join and feel you have the capabilites to do so, shoot us an email at irvinecodingclub@gmail.com!
+### Note: The member registration for the ICC (teachers/members who compete in competitions) are for students who are incoming 6th grade or above.
+If you are younger, you can still sign up for courses (and we recommend you do so!) but would advise against joining as a member until you're a bit older. We apologize for the inconvenience. However, if you still want to join, shoot us an email at <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> and we'll get back to you!
 
-## ICC Club Member Registration Form
-[Please fill this form to apply for ICC membership.](https://forms.gle/Ky4S6YLkkursGyZn6)
+## ICC Member Registration Form
+Please fill out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) to apply for ICC membership.
 
 <br />
 
