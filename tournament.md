@@ -6,6 +6,8 @@ comments: false
 
 ## ICC Online Middle School Summer Debate Tournament
 
+![Tournament]({{ site.baseurl }}/assets/images/tournament.png)
+
 The Irvine Coding Club is proud to announce that we are hosting a 2021 online summer debate tournament for middle schoolers!
 <br>
 This year's tournament will be a Congress Debate for students in grades 6-9. 
