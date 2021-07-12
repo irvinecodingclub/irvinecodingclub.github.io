@@ -6,7 +6,7 @@ comments: false
 
 <div class="team-section">
   <div class="inner-width">
-    <h2>Meet our team </h2>
+    <h2>Meet our team</h2>
     <div class="pers">
 
             <div class="pe">
@@ -182,16 +182,16 @@ comments: false
 </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
 
-In 2020, Irvine Coding Club (ICC) was founded as a school CS club (Rancho SJ).
-The orgnization was created as a student run community service orgnization for CS enthusiasts. Soon ICC has grown to a non profit organization in Californa with areas beyond CS, including math, robotics, art, debate, writing etc.
+In 2020, Irvine Coding Club (ICC) was founded as a school CS club (at Rancho SJ).
+ICC was created as a student run community service orgnization for CS enthusiasts. Soon, ICC grew to a non-profit organization in Californa covering topics beyond CS, including math, robotics, art, debate, writing and more. 
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 <!-- The Timeline -->
-<link rel="stylesheet" href="assets/css/timeline.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
 <ul class="timeline">
 
 	<!-- Item 1 -->
@@ -209,10 +209,10 @@ The orgnization was created as a student run community service orgnization for C
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">A Non Profit Org</span>
+				<span class="flag">Non-profit Organization</span>
 				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
 			</div>
-			<div class="desc">ICC became a non profit orgnization in California.</div>
+			<div class="desc">ICC became a non-profit orgnization in California.</div>
 		</div>
 	</li>
 
@@ -257,7 +257,7 @@ The orgnization was created as a student run community service orgnization for C
   				<span class="flag">First Donation</span>
   				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
   			</div>
-  			<div class="desc">This donation would help the ICC website to support our Python/Turtle 3.0 IDE. Thank you so much for your support!</div>
+  			<div class="desc">This donation helped the ICC website support our Python/Turtle 3.0 IDE. Thank you so much to all our donators for your support!</div>
   		</div>
   	</li>
 
@@ -278,7 +278,7 @@ Our members come from many different schools in southern California.
 * Beacon Park School (K8)
 * Many More!
 
-If you are a 6th grade and above CS enthusiast who wants to learn together with our team members,
-or if you are good at some areas that you want to share with our community by providing online courses.
-Come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6).   
+If you are a 6th grade or above who wants to learn together with our club members,
+or if you want to share with our community by providing online courses,
+come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/discord).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
