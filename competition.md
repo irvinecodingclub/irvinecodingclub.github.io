@@ -3,7 +3,7 @@ layout: page
 title:  Competition
 ---
 
-The Irvine Coding Club prepares members to compete for hackathons and organizes students form teams to attend team competitions.
+The Irvine Coding Club prepares members to compete for coding competitions like hackathons and organizes student-formed teams to attend team competitions.
 
 ## National Competition
 * [USA Computing Olympiad (USACO)](http://usaco.org/index.php) is the top coding competition for high school student world wide.
