@@ -48,24 +48,18 @@ comments: false
             <div class="pe">
                <img src="{{ site.baseurl }}/assets/images/ian.jpeg" alt="rafeh">
                <div class="p-name">Ian Madden</div>
-               <div class="p-des">IT Manager, Lecturer</div>
+               <div class="p-des">IT Manager</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
               <div class="p-name">Nethum Sagara</div>
-              <div class="p-des">PR Representive, Lecturer</div>
+              <div class="p-des">PR Representive</div>
             </div>
 	    
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
               <div class="p-name">Sophia Zhou</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="rafeh">
-              <div class="p-name">Allison Hung</div>
               <div class="p-des">Lecturer</div>
             </div>
 
@@ -116,6 +110,12 @@ comments: false
               <div class="p-name">Sarina Marzbani</div>
               <div class="p-des">Lecturer</div>
             </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="rafeh">
+              <div class="p-name">Allison Hung</div>
+              <div class="p-des">Lecturer</div>
+            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/davidz.png" alt="rafeh">
@@ -138,7 +138,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
               <div class="p-name">Timothy Chen</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Teaching Assistant, Website Manager</div>
             </div>
 
             <div class="pe">
