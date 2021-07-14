@@ -282,3 +282,11 @@ If you are a 6th grade or above who wants to learn together with our club member
 or if you want to share with our community by providing online courses,
 come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/discord).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
+
+<script>
+    document.querySelectorAll('div.pe').forEach(div => {
+	div.onclick = () => {
+	    console.log(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].toLowerCase());
+	};
+    });
+</script>
