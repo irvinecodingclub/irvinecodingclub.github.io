@@ -3,7 +3,11 @@ layout: page
 title: About
 comments: false
 ---
-
+<style>
+	div.pe {
+	cursor: pointer;
+	}
+</style>
 <div class="team-section">
   <div class="inner-width">
     <h2>Meet our team</h2>
@@ -299,6 +303,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
   width: unset;
   text-align: center;
   float: unset;
+  cursor: unset;
 ">
               <img src="" alt="rafeh">
               <div class="p-name"></div>
@@ -318,11 +323,20 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
     });
     let bioOpen = false;
     let working = false;
+	function toTitleCase(str) {
+  return str.replace(
+    /\w\S*/g,
+    function(txt) {
+      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    }
+  );
+}
+
     function openBio(name, title, url) {
         if (bioOpen == true) return;
         if (working == true) return;
 	working = true;
-	document.querySelector('#bio .modal-title').innerText = name + "'s Bio";
+	document.querySelector('#bio .modal-title').innerText = toTitleCase(name) + "'s Bio";
 	// document.querySelector('#bio iframe').src = 'https://my.irvinecoding.club/api/v1/bio/display?name=' + encodeURIComponent(name.toLowerCase().split(' ').join(''));
 	fetch('https://my.irvinecoding.club/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
             console.log(bio);
