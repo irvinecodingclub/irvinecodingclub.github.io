@@ -286,7 +286,20 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
-	    console.log(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText.toLowerCase().split(' ').join(''));
+	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText.toLowerCase().split(' ').join(''));
 	};
     });
+    let bioOpen = false;
+    let working = false;
+    function openBio(name) {
+        if (bioOpen == true) return;
+        if (working == true) return;
+	working = true;
+	fetch('https://my.irvinecoding.club/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
+            console.log(bio);
+            bioOpen = true;
+            working = false;
+        }).catch(() => { working = false; });
+    }
+    function closeBio() {}
 </script>
