@@ -286,7 +286,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
-	    console.log(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].toLowerCase());
+	    console.log(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText.toLowerCase().split(' ').join(''));
 	};
     });
 </script>
