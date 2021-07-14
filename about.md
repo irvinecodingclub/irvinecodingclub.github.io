@@ -288,12 +288,12 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title"></h5>
+                    <h5 class="modal-title" style="margin-bottom:0;"></h5>
                     <button type="button" onclick="closeBio();" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
-                <div class="modal-body" style="padding: 0px;height: calc(100vh - 174px);">
+                <div class="modal-body" style="height: calc(100vh - 174px);">
                     <p></p>
                </div>
            </div>
