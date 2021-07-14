@@ -283,10 +283,27 @@ or if you want to share with our community by providing online courses,
 come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/discord).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
 
+
+    <div class="modal" tabindex="-1" role="dialog" id="bio">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" onclick="donateClose();" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body" style="padding: 0px;height: calc(100vh - 174px);">
+                    <p></p>
+               </div>
+           </div>
+      </div>
+  </div>
+  
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
-	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText.toLowerCase().split(' ').join(''));
+	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText);
 	};
     });
     let bioOpen = false;
@@ -295,11 +312,23 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
         if (bioOpen == true) return;
         if (working == true) return;
 	working = true;
+	document.querySelector('#bio .modal-title').innerText = name + "'s Bio";
+	// document.querySelector('#bio iframe').src = 'https://my.irvinecoding.club/api/v1/bio/display?name=' + encodeURIComponent(name.toLowerCase().split(' ').join(''));
 	fetch('https://my.irvinecoding.club/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
             console.log(bio);
             bioOpen = true;
+	    if (bio.errors) {
+  		document.querySelector('#bio .modal-body > p').innerText = 'Bio Not Found';
+	    } else {
+	        document.querySelector('#bio .modal-body > p').innerText = bio.text;
+	    }
+	    document.getElementById('bio').style.display = 'block';
             working = false;
         }).catch(() => { working = false; });
+	
     }
-    function closeBio() {}
+    function closeBio() {
+	bioOpen = false;
+	document.getElementById('bio').style.display = 'none';
+    }
 </script>
