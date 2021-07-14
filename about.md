@@ -4,9 +4,12 @@ title: About
 comments: false
 ---
 <style>
-	div.pe {
+    div.pe {
 	cursor: pointer;
-	}
+	overflow: auto;
+	height: min-content;
+        max-height: calc(100vh - 174px);
+    }
 </style>
 <div class="team-section">
   <div class="inner-width">
@@ -297,7 +300,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
-		    <div class="modal-body" style="height: calc(100vh - 174px);">
+		    <div class="modal-body">
                     
 <center><div class="pe" style="
   width: unset;
