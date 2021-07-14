@@ -20,7 +20,7 @@ comments: false
             </div>
 
             <div class="pe">
-               <img src="{{ site.baseurl }}/assets/images/agtiger.jpg" alt="rafeh">
+               <img src="{{ site.baseurl }}/assets/images/agtiger.png" alt="rafeh">
               <div class="p-name">Agam Randhawa</div>
               <div class="p-des">President, Co-Founder</div>
             </div>
