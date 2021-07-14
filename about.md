@@ -284,7 +284,7 @@ come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
 
 
-    <div class="modal" tabindex="-1" role="dialog" id="bio">
+<div class="modal" tabindex="-1" role="dialog" id="bio">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -299,7 +299,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
            </div>
       </div>
   </div>
-  
+ 
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
