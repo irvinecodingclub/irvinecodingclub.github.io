@@ -313,7 +313,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
-	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText, Array.from(div.children).filter(a => a.classList.contains('p-des'))[0].innerText, Array.from(div.children).filter(a => a.tagName == 'IMG'))[0].src);
+	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText, Array.from(div.children).filter(a => a.classList.contains('p-des'))[0].innerText, Array.from(div.children).filter(a => a.tagName == 'IMG')[0].src);
 	};
     });
     let bioOpen = false;
