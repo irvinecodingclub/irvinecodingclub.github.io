@@ -4,9 +4,15 @@ title: About
 comments: false
 ---
 <style>
-	div.pe {
-	cursor: pointer;
-	}
+  div.pe {
+    cursor: pointer;
+  }
+	
+  div.modal-body {
+    height: min-content;
+    max-height: calc(100vh - 174px);
+    overflow: scroll;
+  }
 </style>
 <div class="team-section">
   <div class="inner-width">
@@ -140,7 +146,7 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
+              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="not rafeh">
               <div class="p-name">Timothy Chen</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
