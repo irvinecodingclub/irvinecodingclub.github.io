@@ -138,7 +138,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
               <div class="p-name">Timothy Chen</div>
-              <div class="p-des">Teaching Assistant, Website </div>
+              <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
