@@ -293,8 +293,18 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
-                <div class="modal-body" style="height: calc(100vh - 174px);">
-                    <p></p>
+		    <div class="modal-body" style="height: calc(100vh - 174px);">
+                    
+<center><div class="pe" style="
+  width: unset;
+  text-align: center;
+  float: unset;
+">
+              <img src="" alt="rafeh">
+              <div class="p-name"></div>
+              <div class="p-des"></div>
+  </div></center>
+<p>Bio Not Found</p>
                </div>
            </div>
       </div>
@@ -303,12 +313,12 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
-	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText);
+	    openBio(Array.from(div.children).filter(a => a.classList.contains('p-name'))[0].innerText, Array.from(div.children).filter(a => a.classList.contains('p-des'))[0].innerText, Array.from(div.children).filter(a => a.tagName == 'IMG'))[0].src);
 	};
     });
     let bioOpen = false;
     let working = false;
-    function openBio(name) {
+    function openBio(name, title, url) {
         if (bioOpen == true) return;
         if (working == true) return;
 	working = true;
@@ -317,6 +327,9 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 	fetch('https://my.irvinecoding.club/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
             console.log(bio);
             bioOpen = true;
+	    document.querySelector('#bio .p-name').innerText = name;
+	    document.querySelector('#bio .p-des').innerText = title;
+	    document.querySelector('#bio img').src = url;
 	    if (bio.errors) {
   		document.querySelector('#bio .modal-body > p').innerText = 'Bio Not Found';
 	    } else {
