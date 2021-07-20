@@ -1,6 +1,6 @@
 ---
 layout: raw
-title: Python IDE
+title: Python
 permalink: /python
 ---
 
