@@ -46,6 +46,12 @@ title:  ICC Hall of Fame
             <td> 5th place </td>
             <td>  Ian Madden, Scott </td>
         </tr>
+        <tr>
+            <td>Last Placers</td>
+            <td><a href="https://capturetheflag.withgoogle.com/">Google CTF 2021</a></td>
+            <td>Cameron Weng, Ajitesh Bhatti, Scott Chiang, Melody Yu, Agam Randhawa, Tom Tim, David Zhang, Kai Wang, Timothy Chen, and two other unnamed competitors</td>
+            <td>Tied for 231st place</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
