@@ -53,12 +53,6 @@ comments: false
             </div>
 
             <div class="pe">
-               <img src="{{ site.baseurl }}/assets/images/ian.jpeg" alt="rafeh">
-               <div class="p-name">Ian Madden</div>
-               <div class="p-des">IT Manager</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
               <div class="p-name">Nethum Sagara</div>
               <div class="p-des">PR Representive</div>
@@ -145,7 +139,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
               <div class="p-name">Timothy Chen</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Teaching Assistant, Website </div>
             </div>
 
             <div class="pe">
