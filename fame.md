@@ -94,7 +94,7 @@ title:  ICC Hall of Fame
     <tbody>
         <tr>
             <td>Melody Yu</td>
-            <td>Bronze Medal, Final, Group Rank Top 1 World Wide in Senior 5 Division</td>
+            <td>Bronze Medal, Final, Member of top 1 Group in Senior 5 Division</td>
         </tr>
         <!-- and so on... -->
     </tbody>
