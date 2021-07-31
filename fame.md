@@ -79,3 +79,23 @@ title:  ICC Hall of Fame
         <!-- and so on... -->
     </tbody>
 </table>
+
+
+## ACSL (American Computer Science League)
+
+<link rel="stylesheet" href="assets/css/table.css">
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Award</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Melody Yu</td>
+            <td>Bronze Medal, Final, Group Rank Top 1 World Wide in Senior 5 Division</td>
+        </tr>
+        <!-- and so on... -->
+    </tbody>
+</table>
