@@ -49,7 +49,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/cameron.jpeg" alt="rafeh">
               <div class="p-name">Cameron Weng</div>
-              <div class="p-des">Director of Graphic Design</div>
+              <div class="p-des">Director, Graphic Design</div>
             </div>
 
             <div class="pe">
@@ -69,7 +69,7 @@ comments: false
               <div class="p-name">Timothy Chen</div>
               <div class="p-des">IT Manager </div>
             </div>
-            
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
               <div class="p-name">Sophia Zhou</div>
