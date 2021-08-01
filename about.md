@@ -47,12 +47,6 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/cameron.jpeg" alt="rafeh">
-              <div class="p-name">Cameron Weng</div>
-              <div class="p-des">Director, Graphic Design</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
               <div class="p-name">Nethum Sagara</div>
               <div class="p-des">Director, Public Relations</div>
@@ -62,6 +56,12 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/kai.jpeg" alt="rafeh">
               <div class="p-name">Kai Wang</div>
               <div class="p-des">Director, Math Division</div>
+            </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/cameron.jpeg" alt="rafeh">
+              <div class="p-name">Cameron Weng</div>
+              <div class="p-des">Director, Graphic Design</div>
             </div>
 
             <div class="pe">
