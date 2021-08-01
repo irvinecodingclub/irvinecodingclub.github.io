@@ -1,13 +1,8 @@
 ---
 layout: page
-title: ICC Debate Tournament
+title: ICC 2021 Online Debate Tournament Results
 comments: false
 ---
-
-## ICC 2021 Online Debate Tournament Results
-
-![Tournament]({{ site.baseurl }}/assets/images/tournament.png)
-
 
   <iframe width="1080" height="600" src="https://www.youtube.com/embed/DzDjVOrWdbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
