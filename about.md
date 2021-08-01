@@ -37,7 +37,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="rafeh">
               <div class="p-name">Annette Lee</div>
-              <div class="p-des">Vice President of Marketing</div>
+              <div class="p-des">Vice President of Operations</div>
             </div>
 
             <div class="pe">
@@ -55,18 +55,24 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="rafeh">
               <div class="p-name">Nethum Sagara</div>
-              <div class="p-des">PR Representive</div>
-            </div>
-	    
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
-              <div class="p-name">Sophia Zhou</div>
-              <div class="p-des">Lecturer</div>
+              <div class="p-des">Director, Public Relations</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/kai.jpeg" alt="rafeh">
               <div class="p-name">Kai Wang</div>
+              <div class="p-des">Director, Math Division</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
+              <div class="p-name">Timothy Chen</div>
+              <div class="p-des">IT Manager </div>
+            </div>
+            
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="rafeh">
+              <div class="p-name">Sophia Zhou</div>
               <div class="p-des">Lecturer</div>
             </div>
 
@@ -111,7 +117,7 @@ comments: false
               <div class="p-name">Sarina Marzbani</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="rafeh">
               <div class="p-name">Allison Hung</div>
@@ -134,12 +140,6 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/sophialin.jpeg" alt="rafeh">
               <div class="p-name">Sophia Lin</div>
               <div class="p-des">Teaching Assistant</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="rafeh">
-              <div class="p-name">Timothy Chen</div>
-              <div class="p-des">Teaching Assistant, Website </div>
             </div>
 
             <div class="pe">
@@ -188,7 +188,7 @@ comments: false
 *"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
 
 In 2020, Irvine Coding Club (ICC) was founded as a school CS club (at Rancho SJ).
-ICC was created as a student run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in Californa covering topics beyond CS, including math, robotics, art, debate, writing and more. 
+ICC was created as a student run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in Californa covering topics beyond CS, including math, robotics, art, debate, writing and more.
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 <!-- The Timeline -->
@@ -295,7 +295,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
                     </button>
                 </div>
 		    <div class="modal-body">
-                    
+
 <center><div class="pe" style="
   width: unset;
   text-align: center;
@@ -311,7 +311,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
            </div>
       </div>
   </div>
- 
+
 <script>
     document.querySelectorAll('div.pe').forEach(div => {
 	div.onclick = () => {
@@ -349,7 +349,7 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
 	    document.getElementById('bio').style.display = 'block';
             working = false;
         }).catch(() => { working = false; });
-	
+
     }
     function closeBio() {
 	bioOpen = false;
