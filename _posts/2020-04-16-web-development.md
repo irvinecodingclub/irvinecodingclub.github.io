@@ -25,4 +25,4 @@ excerpt: "A course teaching you how to make a basic website."
 </table>
 <br>
 
-This is a course that is an intro to HTML, CSS, and some JavaScript that teaches how you can make a basic website. Students should have a repl.it account or create one to join the class.
+This is a course that is an intro to HTML, CSS, and some JavaScript that teaches how you can make a basic website. Students should have an account on <a href="https://replit.com">replit</a> or create one to join the class.
