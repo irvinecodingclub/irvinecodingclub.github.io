@@ -22,3 +22,7 @@ A collection of the instructional math videos posted free and online on Youtube 
 ##### Irvine Coding Club: 2015 AIME II Problem 12 by Kai Wang
 
 <iframe width="1080" height="600" src="https://www.youtube.com/embed/QIwnhq80ALo" title="2015 AIME II Problem 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Irvine Coding Club: 2010 AIME II Problem 5 by Kai Wang
+
+<iframe width="1080" height="600" src="https://www.youtube.com/embed/yYZdB-Uto_U" title="2010 AIME II Problem 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
