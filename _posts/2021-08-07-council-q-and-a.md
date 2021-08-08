@@ -2,7 +2,8 @@
 layout: post
 title:  "ICC Council Q&A"
 image: assets/images/icc_council_qA.png
-permalink: /councilqanda
+permalink: /council-q-and-a
+featured: true
 course: false
 comments: false
 excerpt: "Join us in our 2021 council Q&A!"
