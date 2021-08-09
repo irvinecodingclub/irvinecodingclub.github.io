@@ -225,7 +225,7 @@ ICC was created as a student run community service organization for CS enthusias
 				<span class="flag">PSVA Certifying Org</span>
 				<span class="time-wrapper"><span class="time">May, 2021</span></span>
 			</div>
-			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization,</div>
+			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization.</div>
 		</div>
 	</li>
 
