@@ -13,3 +13,11 @@ Join us to meet the ICC Council candidates! Attendance is encouraged because you
 
 Come meet the candidates on Sunday, August 8th, from 7 PM to 8PM PDT.
 
+Here is the recording of the council QnA: 
+Topic: Irvine Coding Club
+Start Time : Aug 8, 2021 07:10 PM
+
+Meeting Recording:
+https://csulb.zoom.us/rec/share/WBKC2qJQc5jeLYF8Vv0vTRBWb3QtrlhYXVH5bzOYHKLr2om02R8kGKsXjpxvdiVt.YRNH5pDpgxQxUtrT
+
+Access Passcode: C7Aq+kZ2
