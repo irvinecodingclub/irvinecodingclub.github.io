@@ -188,8 +188,7 @@ comments: false
 
 *"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
 
-In 2020, Irvine Coding Club (ICC) was founded as a school CS club (at Rancho SJ).
-ICC was created as a student run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in Californa covering topics beyond CS, including math, robotics, art, debate, writing and more.
+In 2020, Irvine Coding Club (ICC) was founded as a school CS club (at Rancho SJ). ICC was created as a student run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in Californa covering topics beyond CS, including math, robotics, art, debate, writing and more. In the future, the ICC plans to create more courses and lectures in order to further benefit the community, as well as hosting workshops and tournaments to inspire more students to take part in their academics while having fun.
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 <!-- The Timeline -->
