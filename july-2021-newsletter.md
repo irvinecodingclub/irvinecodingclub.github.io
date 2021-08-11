@@ -7,7 +7,6 @@ permalink: /newsletter/2021/july
 <style>
 body {
   margin: 0;
-  overflow: hidden;
 }
 
 iframe {
