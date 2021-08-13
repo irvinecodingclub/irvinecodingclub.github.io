@@ -1,4 +1,5 @@
 ---
+layout: raw
 title: Newsletter Archives
 permalink: /newsletter/archives
 ---
