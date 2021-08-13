@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join
+permalink: /join
 ---
 
 # Join the Irvine Coding Club
