@@ -18,6 +18,6 @@ Topic: Irvine Coding Club
 Start Time : Aug 8, 2021 07:10 PM
 
 Meeting Recording:
-https://csulb.zoom.us/rec/share/WBKC2qJQc5jeLYF8Vv0vTRBWb3QtrlhYXVH5bzOYHKLr2om02R8kGKsXjpxvdiVt.YRNH5pDpgxQxUtrT
+<a href="https://csulb.zoom.us/rec/share/WBKC2qJQc5jeLYF8Vv0vTRBWb3QtrlhYXVH5bzOYHKLr2om02R8kGKsXjpxvdiVt.YRNH5pDpgxQxUtrT">https://csulb.zoom.us/rec/share/WBKC2qJQc5jeLYF8Vv0vTRBWb3QtrlhYXVH5bzOYHKLr2om02R8kGKsXjpxvdiVt.YRNH5pDpgxQxUtrT</a>
 
 Access Passcode: C7Aq+kZ2
