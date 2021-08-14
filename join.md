@@ -6,6 +6,15 @@ permalink: /join
 
 # Join the Irvine Coding Club
 
+The Irvine Coding Club is currently accepting volunteering for 
+ - TAing for courses
+ - Creating new courses/workshops/tournaments
+ - Fundraisers (virtual and in-person)
+ - Upgrading the website/adding new features
+ - Anything else (legitimate) you can think of
+
+The ICC is a PVSA certifying organization which means you will be compensated with Volunteer Hours for your hard work. 
+
 ### Discord
 
 <div class="large text-muted">
