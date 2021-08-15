@@ -70,6 +70,18 @@ comments: false
               <div class="p-des">IT Director</div>
               <div style="position:absolute;display:inline;margin-top:-180px"><img style="width:initial;height:initial;box-shadow:initial" src="assets/images/motm-badge.png"></div>
             </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/davidz.png" alt="Person">
+              <div class="p-name">David Zhang</div>
+              <div class="p-des">Council</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/forrest.jpeg" alt="Person">
+              <div class="p-name">Forrest Zeng</div>
+              <div class="p-des">Council</div>
+            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="Person">
@@ -88,13 +100,6 @@ comments: false
               <div class="p-name">Zach Piedad</div>
               <div class="p-des">Lecturer</div>
             </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/forrest.jpeg" alt="Person">
-              <div class="p-name">Forrest Zeng</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nikki.png" alt="Person">
               <div class="p-name">Nikki Piedad</div>
@@ -123,12 +128,6 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="Person">
               <div class="p-name">Allison Hung</div>
               <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/davidz.png" alt="Person">
-              <div class="p-name">David Zhang</div>
-              <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
@@ -166,6 +165,12 @@ comments: false
               <div class="p-name">Jayden Peng</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/rohan.png" alt="Person">
+              <div class="p-name">Rohan Hablani</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/handersenl.png" alt="Person">
@@ -178,6 +183,7 @@ comments: false
               <div class="p-name">Shaurya</div>
               <div class="p-des">Competition</div>
             </div>
+	    
 
     </div>
   </div>
