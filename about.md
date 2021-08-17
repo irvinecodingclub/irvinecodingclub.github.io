@@ -100,9 +100,10 @@ comments: false
               <div class="p-name">Zach Piedad</div>
               <div class="p-des">Lecturer</div>
             </div>
+
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/nikki.png" alt="Person">
-              <div class="p-name">Nikki Piedad</div>
+              <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="Person">
+              <div class="p-name">Sarina Marzbani</div>
               <div class="p-des">Lecturer</div>
             </div>
 
@@ -111,19 +112,7 @@ comments: false
               <div class="p-name">Katelyn Gan</div>
               <div class="p-des">Lecturer</div>
             </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="Person">
-              <div class="p-name">Edward Lee</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="Person">
-              <div class="p-name">Sarina Marzbani</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
+	    
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="Person">
               <div class="p-name">Allison Hung</div>
@@ -147,6 +136,12 @@ comments: false
               <div class="p-name">Lucas Melville</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="Person">
+              <div class="p-name">Edward Lee</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/adrianaz.png" alt="Person">
@@ -163,6 +158,12 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
+              <div class="p-des">Teaching Assistant</div>
+            </div>
+	    
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/nikki.png" alt="Person">
+              <div class="p-name">Nikki Piedad</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 	    
