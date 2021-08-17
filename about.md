@@ -43,7 +43,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sopd.png" alt="Person">
               <div class="p-name">Sophia Dai</div>
-              <div class="p-des">Secretary</div>
+              <div class="p-des">Secretary, Treasurer</div>
             </div>
 
             <div class="pe">
