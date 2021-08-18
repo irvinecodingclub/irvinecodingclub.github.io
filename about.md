@@ -184,6 +184,12 @@ comments: false
               <div class="p-name">Shaurya</div>
               <div class="p-des">Competition</div>
             </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/anniec.png" alt="Person">
+              <div class="p-name">Annie Chien</div>
+              <div class="p-des">Lecturer</div>
+            </div>
 	    
 
     </div>
