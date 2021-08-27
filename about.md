@@ -294,7 +294,7 @@ Our members come from many different schools in southern California.
 
 If you are a 6th grade or above who wants to learn together with our club members,
 or if you want to share with our community by providing online courses,
-come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/discord).   
+come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/join).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
 
 
