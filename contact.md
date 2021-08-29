@@ -1,0 +1,114 @@
+---
+permalink: /contact
+layout: content
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="https://irvinecoding.club/assets/images/favicon.png">
+  <link rel="apple-touch-icon" href="https://irvinecoding.club/assets/images/favicon.png">
+  <link rel="apple-touch-startup-image" href="https://irvinecoding.club/assets/images/favicon.png">
+  <meta name="apple-mobile-web-app-title" content="Irvine Coding Club">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#e4d882">
+  <title>Contact | Irvine Coding Club</title>
+  <meta name="theme-color" content="#e4d882">
+  <meta property="og:title" content="Contact" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Serving Students in Orange County" />
+  <meta property="og:description" content="Serving Students in Orange County" />
+  <link rel="canonical" href="https://irvinecoding.club/contact.html" />
+  <meta property="og:url" content="https://irvinecoding.club/contact.html" />
+  <meta property="og:site_name" content="Irvine Coding Club" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="twitter:title" content="Contact" />
+
+  <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <style>
+    body {
+      font-family: Rubik, Roboto, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    input[type=text],
+    select,
+    textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+
+    button {
+      background-color: #d1c98b;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #d2c881;
+    }
+
+    .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+
+    textarea {
+      resize: vertical;
+    }
+
+    textarea, input[type=text] {
+      outline: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h3>Contact Form</h3>
+
+  <div class="container">
+    <form action="https://contact.irvinecoding.club/" method="POST" id="contact">
+      <label for="email">Email</label>
+      <input type="text" id="email" name="email" placeholder="Email address..." autofocus autocomplete="email">
+
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="subject" placeholder="Subject of your request..." autocomplete="off">
+
+      <label for="body">Body</label>
+      <textarea id="body" name="body" placeholder="Write something..." style="height:200px"></textarea>
+
+      <input name="token" type="hidden">
+    </form>
+
+    <button class="g-recaptcha" data-sitekey="6LemIS4cAAAAAJVhpvib8TsHtgGr2UjsujEpuert" data-callback="onSubmit" data-action="submit">Submit</button>
+
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+    <script>
+      function onSubmit(token) {
+        document.querySelector("[name=token]").value = token;
+        document.getElementById("contact").submit();
+      }
+    </script>
+  </div>
+
+</body>
+
+</html>
