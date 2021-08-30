@@ -4,7 +4,7 @@ title:  "ICC Council Q&A"
 image: assets/images/icc_council_qA.png
 image2: assets/images/icc_council_qA.png
 permalink: /council-q-and-a
-featured: true
+featured: false
 comments: false
 excerpt: "Join us in our 2021 council Q&A!"
 ---
@@ -13,7 +13,7 @@ Join us to meet the ICC Council candidates! Attendance is encouraged because you
 
 Come meet the candidates on Sunday, August 8th, from 7 PM to 8PM PDT.
 
-Here is the recording of the council QnA: 
+Here is the recording of the council QnA:
 Topic: Irvine Coding Club
 Start Time : Aug 8, 2021 07:10 PM
 
