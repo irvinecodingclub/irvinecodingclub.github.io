@@ -100,7 +100,7 @@ image: assets/images/favicon.png
 <section class="featured-posts">
 
     <div class="section-title">
-        <h2><span>NEWS</span></h2>
+        <h2><span>ANNOUCEMENT</span></h2>
     </div>
 
     <div class="row listfeaturedtag">
@@ -119,44 +119,39 @@ image: assets/images/favicon.png
 
 </section>
 
+
 <!-- Posts Index
 ================================================== -->
-{% if paginator.previous_page %}
-{% if paginator.previous_page > 0 %}
-<div id="jumptopageof"></div>
-{% endif %}
-{% endif %}
+
 
 <section class="recent-posts row">
 
+  <div class="col-md-8 main-loop">
+
+
+
+  </div>
+
     <div class="col-sm-8">
 
+      <div class="section-title">
+          <h2><span>NEWS LETTER</span></h2>
+      </div>
+
+        {% for post in site.posts%}
+          {% if post.newsletter == true %}
+          {% include newsbox.html %}
+          {% endif %}
+        {% endfor %}
+
+
         <div class="section-title">
-            <h2><span>COURSES</span></h2>
+            <h2><span>PRESENTATION</span></h2>
         </div>
 
-        <div class="masonrygrid row listrecent">
+        <div >
 
-            {% for post in paginator.posts %}
-
-            {% if post.course == true %}
-
-                {% include postbox.html %}
-
-            {% endif %}
-
-            {% endfor %}
-
-        </div>
-
-        <!-- Pagination -->
-        <div class="bottompagination">
-
-            <span class="navigation" role="navigation">
-
-                {% include pagination.html %}
-
-            </span>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         </div>
 
@@ -165,7 +160,7 @@ image: assets/images/favicon.png
         <div class="col-sm-4">
             {% include sidebar.html %}
         </div>
- 
+
 </section>
 
 <script>
