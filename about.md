@@ -226,7 +226,7 @@ In 2020, Irvine Coding Club (ICC) was founded as a school CS club (at Rancho SJ)
 				<span class="flag">Non-profit Organization</span>
 				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
 			</div>
-			<div class="desc">ICC became a non-profit orgnization in California.</div>
+			<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
 		</div>
 	</li>
 
