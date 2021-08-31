@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "ICC 2021 Activities Summery"
+title:  "ICC Council Elections Q&A"
 image: assets/images/icc_council_qA.png
 image2: assets/images/icc_council_qA.png
 permalink: /council-q-and-a
-featured: false
+featured: true
 comments: false
-excerpt: "ICC 2021 University Hill Presentation"
+excerpt: "ICC Council Elections Q&A"
 ---
 
 Join us to meet the ICC Council candidates! Attendance is encouraged because you will be voting on who will run the club. You will also be able to ask questions.
