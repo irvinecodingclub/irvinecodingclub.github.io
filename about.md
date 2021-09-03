@@ -159,13 +159,7 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
               <div class="p-des">Teaching Assistant</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/nikki.png" alt="Person">
-              <div class="p-name">Nikki Piedad</div>
-              <div class="p-des">Teaching Assistant</div>
-            </div>
+	    </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/rohan.png" alt="Person">
