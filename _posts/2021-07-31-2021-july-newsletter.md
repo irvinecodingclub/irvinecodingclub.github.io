@@ -33,6 +33,6 @@ excerpt: "Irvine Coding Club Newsletter, July, Edition 2. Summarizing our summer
 		adobeDCView.previewFile({
 			content:{location: {url: "/assets/newsletters/2021/july.pdf"}},
 			metaData: {fileName: "ICC Newsletter 2021 July"}
-		}, {embedMode: "IN_LINE"});
+		}, {embedMode: "LIGHT_BOX"});
 	});
 </script>
