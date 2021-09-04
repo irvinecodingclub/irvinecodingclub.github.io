@@ -13,10 +13,10 @@ excerpt: "Irvine Coding Club Newsletter, July, Edition 2. Summarizing our summer
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){
-		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>"});
+		var adobeDCView = new AdobeDC.View({clientId: "d71bb9fe8da7459394a12586123c8940"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://irvinecoding.club//assets/newsletters/2021/july.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
+			metaData:{fileName: july.pdf"}
 		}, {embedMode: "LIGHT_BOX"});
 	});
 </script>
