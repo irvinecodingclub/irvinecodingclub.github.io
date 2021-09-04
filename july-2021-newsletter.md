@@ -13,4 +13,4 @@ iframe {
   height: 100vh;
 }
 </style>
-<iframe src="{{ site.baseurl }}/newsletter/issue2" width="100%" frameborder="none"></iframe>
+<iframe src="{{ site.baseurl }}/assets/newsletters/2021/july.pdf#toolbar=0" width="100%" frameborder="none"></iframe>
