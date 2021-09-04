@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: raw
 title:  "ICC 2021 July News Letter"
 image: assets/images/2021julynewsletter.png
 image2: assets/images/2021julynewsletter.png
