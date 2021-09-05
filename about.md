@@ -68,7 +68,6 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="Person">
               <div class="p-name">Timothy Chen</div>
               <div class="p-des">IT Director</div>
-              <div style="position:absolute;display:inline;margin-top:-180px"><img style="width:initial;height:initial;box-shadow:initial" src="assets/images/motm-badge.png"></div>
             </div>
 
             <div class="pe">
@@ -123,6 +122,8 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="Person">
               <div class="p-name">Scott Chiang</div>
               <div class="p-des">Teaching Assistant</div>
+              <div style="position:absolute;display:inline;margin-top:-180px"><img style="width:initial;height:initial;box-shadow:initial" src="assets/images/motm-badge.png"></div>
+
             </div>
 
             <div class="pe">
