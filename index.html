@@ -170,10 +170,9 @@ image: assets/images/favicon.png
     
    
     
-<script src="https://stats.bruh22.repl.co/stat.js"></script>
-<!-- Script for getting Irvine Coding Club member count ->
-<--- View source code https://replit.com/@Bruh22/stats -->
-    
+<script>
+    fetch('https://stats.bruh22.repl.co/stats').then(response => response.json()).then(({ members }) => document.querySelector('#facts > div > div > div:nth-child(2) > div > a > div > div:nth-child(4) > div > div > span > span').innerHTML = members)
+    </script>
     
     
     
