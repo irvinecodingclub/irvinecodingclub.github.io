@@ -11,10 +11,6 @@ body {
 	padding: 0 0 1rem 0
 }
 
-a {
-	color: #6fd350
-}
-
 a,
 a:hover {
 	transition: all .2s
