@@ -102,6 +102,7 @@ function donateOpen () {
 function donateClose () {
   document.getElementById('donate').style.display = 'none';
 }
+    document.querySelector("#donate").onclick = (e) => e.target.id == "donate" ? donateClose() : null;
 </script>
 </body>
 
