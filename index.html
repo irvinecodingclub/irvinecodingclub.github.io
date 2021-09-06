@@ -80,7 +80,7 @@ image: assets/images/favicon.png
                         <div class="col-3">
                             <div class="single-counter counter-color-3 d-flex align-items-center justify-content-center">
                                 <div class="counter-items text-center">
-                                    <span class="count"><span class="counter">131</span></span>
+                                    <span class="count"><span class="counter" id="members">131</span></span>
                                     <p class="text">Members</p>
                                 </div>
                             </div> <!-- single counter -->
@@ -172,4 +172,5 @@ image: assets/images/favicon.png
 
 <script>
     fetch('https://my.irvinecoding.club/api/v1/public/hours').then(a => a.text()).then(hours => document.getElementById('hours').textContent = hours);
+    fetch('https://icccomputerbot.irvinecodingclub.repl.co/api/members').then(a => a.text()).then(members => document.getElementById('members').textContent = members);
 </script>
