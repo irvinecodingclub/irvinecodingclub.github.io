@@ -172,5 +172,5 @@ image: assets/images/favicon.png
 
 <script>
     fetch('https://my.irvinecoding.club/api/v1/public/hours').then(a => a.text()).then(hours => document.getElementById('hours').textContent = hours);
-    fetch('https://icccomputerbot.irvinecodingclub.repl.co/api/members').then(a => a.text()).then(members => document.getElementById('members').textContent = members);
+    fetch('https://iccapi.irvinecodingclub.repl.co/api/members%27).then(a => a.json()).then(data => document.getElementById('members').textContent = data.members);
 </script>
