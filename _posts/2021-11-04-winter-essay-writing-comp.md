@@ -18,5 +18,5 @@ Entries will be due on December 1st and the winner will be announced in late Dec
 Good luck to all our contestants!
 
 
-Please fill out this form to turn in your essay - https://tinyurl.com/ICC2021Writing.
+Please fill out this form to turn in your essay - <a href="https://tinyurl.com/ICC2021Writing">https://tinyurl.com/ICC2021Writing</a>.
 More information can be found on that URL. 
