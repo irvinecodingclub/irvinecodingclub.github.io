@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ICC 2021 July News Letter"
+title:  "ICC 2021 July Newsletter"
 image: assets/images/2021julynewsletter.png
 image2: assets/images/2021julynewsletter.png
 sitelink: /newsletter/2021/july
