@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ICC 2021 July Newsletter"
-image: assets/images/2021julynewsletter.png
-image2: assets/images/2021julynewsletter.png
+image:  assets/images/2021novnewsletter.png
+image2: assets/images/2021novnewsletter.png
 sitelink: /newsletter/2021/november
 newsletter: true
 comments: false
