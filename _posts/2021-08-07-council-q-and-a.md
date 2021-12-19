@@ -4,7 +4,7 @@ title:  "ICC Council Elections Q&A"
 image: assets/images/icc_council_qA.png
 image2: assets/images/icc_council_qA.png
 permalink: /council-q-and-a
-featured: true
+featured: false
 comments: false
 excerpt: "ICC Council Elections Q&A"
 ---
