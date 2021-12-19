@@ -1,7 +1,7 @@
 ---
 layout: raw
 title: November 2021 Newsletter
-permalink: /newsletter/2021/November
+permalink: /newsletter/2021/november
 ---
 
 <style>
