@@ -20,7 +20,7 @@ The ICC is a PVSA certifying organization which means you will be compensated wi
 <div class="large text-muted">
   <iframe src="https://discord.com/widget?id=800120401107746846&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
-You can click the connect button to join our Discord server! This is where the members of the ICC join.
+You can go to [this link](https://irvinecoding.club/discord) to join our Discord server! This is where the members of the ICC join.
 
 ### ICC Member Registration Form
 Please additionally fill out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) to apply for ICC membership.
