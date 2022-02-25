@@ -59,7 +59,7 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/cameron.jpeg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/snowflake.png" alt="Person">
               <div class="p-name">Cameron Weng</div>
               <div class="p-des">Director, Graphic Design</div>
             </div>
@@ -103,18 +103,6 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="Person">
               <div class="p-name">Sarina Marzbani</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/katelyngan.png" alt="Person">
-              <div class="p-name">Katelyn Gan</div>
-              <div class="p-des">Lecturer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/allison.jpg" alt="Person">
-              <div class="p-name">Allison Hung</div>
               <div class="p-des">Lecturer</div>
             </div>
 
