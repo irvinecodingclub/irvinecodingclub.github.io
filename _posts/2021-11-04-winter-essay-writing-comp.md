@@ -4,7 +4,7 @@ title:  "ICC Winter Essay Writing Competition"
 image: assets/images/winter-writing.png
 image2: assets/images/winter-writing.png
 permalink: /winter-writing
-featured: true
+featured: false
 comments: false
 excerpt: "The Irvine Coding Club is hosting a Winter Essay Writing Competition with the theme  "
 ---
