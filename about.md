@@ -3,14 +3,7 @@ layout: page
 title: About
 comments: false
 ---
-<style>
-    div.pe {
-	cursor: pointer;
-	overflow: auto;
-	height: min-content;
-        max-height: calc(100vh - 174px);
-    }
-</style>
+
 <div class="team-section">
   <div class="inner-width">
     <h2>Meet our team</h2>
@@ -91,7 +84,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="Person">
               <div class="p-name">Scott Chiang</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Lecturer</div>
             </div>
 	    
             <div class="pe">
@@ -103,7 +96,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/rohan.png" alt="Person">
               <div class="p-name">Rohan Hablani</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
 	    <div class="pe">
@@ -139,13 +132,19 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/lucasm.png" alt="Person">
               <div class="p-name">Lucas Melville</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/haydenp.png" alt="Person">
+              <div class="p-name">Hayden Park</div>
+              <div class="p-des">Lecturer</div>
+	    </div>
+	   
+            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
-              <div class="p-des">Teaching Assistant</div>
+              <div class="p-des">Lecturer</div>
 	    </div>
 	    
             <div class="pe">
