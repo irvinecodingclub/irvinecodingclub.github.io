@@ -5,37 +5,43 @@ comments: false
 ---
 ![](assets/images/volunteer.png)
 
-Irvine Coding Club (ICC) is a non profit organization run by students and serving K-12 students in Orange County.  
+# What is the Irvine Coding Club?
+
+Irvine Coding Club (ICC) is a non-profit organization run by students and serving K-12 students in Orange County.
+
 The Irvine Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
-### Ways to Join
-You can join ICC as a member, or volunteer and help with courses, school branches, and more.
+### How to Join
 
-#### Join as a Member
-You can join the Irvine Coding Club as a member by joining our <a href="{{ site.baseurl }}/join">Discord Server</a>, full of other ICC members and volunteers. When you join our Discord server, you can form teams for competitions or hackathons, or teach courses.
+Join our [Discord Server](https://irvinecoding.club/join) full of other ICC members and volunteers. Form teams for competitions and hackathons or teach courses!
 
-#### Apply to become a Teacher
-ICC teachers lead the online classes now and in the future, will give courses at our various branches. Teachers will also actively participate in writing class materials. Teachers will be appointed by the ICC Board and Advisors. Applications will open in July 2021. Exact information will be released soon.
 
-#### Apply as a Teaching Assistant
-Anyone is welcome to help our students in courses, answer student's problems, and help discussion sessions in breakout rooms. In the summer of 2021, you can join our <a href="{{ site.baseurl }}/join">Discord Server</a> to apply to be a Teacher's Assistant (TA) for any of the classes we offer.
+# Ways to contribute!
+
+#### Become a Teacher
+
+ICC teachers lead the online classes now and in the future, will give courses at our various branches. Teachers will also actively participate in writing class materials. Teachers can create courses out of any STEAM topic and get them approved or work with other teachers to further the material of existing classes.
+
+#### Become a Teacher Assistant
+
+Anyone is welcome to help our students in courses, answer students&#39; problems, and help with discussion sessions in breakout rooms. No experience with the subject is generally needed unless specifically stated, and long/short term opportunities exist. This is one of the best ways to get volunteer hours, get to know lecturers, and possibly learn some lecture material along the way.
+
+#### Become a Shelter Volunteer
+
+The Irvine Coding Club is proud to proclaim that we have partnered with at-risk and homeless shelters to provide our material to those who may be deprived of such an opportunity otherwise. No coding experience is needed, and managing students/troubleshooting with them is the largest part of the opportunity.
 
 #### Apply as a Branch Director
-If you are passionate for coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on Discord for more details. Branch directors will be appointed and reviewed by the ICC Board and Advisors.
 
---------------------------------------
+If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord](https://irvinecoding.club/join) for more details.
 
-#### Requirements  
-To become a teacher, you must meet the following requirements:
-* Current incoming student from 6th to 12th grade
-* Possess a passion for teaching, learning, and helping others!
+#### Just Hang Out!
 
-No coding experience is needed to become a member or volunteer! We're here to learn with the community, engaging in courses, learnathons, and hackathons.
+Cultivate a passion to code and talk to others interested in the same subject! Our ultimate goal is to instill a sense of enthusiasm among students for coding, and empower them to have one if they lack the means to do so already. For this reason, joining our [Discord server](https://irvinecoding.club/join) and discussing STEAM topics with fellow members is highly encouraged.
 
 
+# PVSA Awards
 
 ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> or message us on Discord.
-
 
 ![](assets/images/pvsa-logo.png)
 
@@ -74,6 +80,5 @@ ICC is open to all student volunteers, come to ICC and volunteer now. Your servi
       <td>250+ hours</td>
       <td>4,000+ hours</td>
     </tr>
-    <!-- and so on... -->
   </tbody>
 </table>
