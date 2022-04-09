@@ -16,6 +16,12 @@ Schedule:
 7:00-8:30pm PST - Compete in the Scratchathon!  
 8:30-8:40pm PST - Awards!  
 
-The top winners will be awarded prizes!
+The Scratch Hackathon will be held online at https://zoom.us/j/9201230035.
+
+Prizes:
+First Prize : 30$ Amazon Gift Cards
+Second Prize: 20$ Amazon Gift Cards
+Third Prize : 10$ Amazon Gift Cards
+
   
 Register here: [https://forms.gle/ztRmS24NCJWA2W3D7](https://forms.gle/ztRmS24NCJWA2W3D7)
