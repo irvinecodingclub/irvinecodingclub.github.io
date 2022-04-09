@@ -21,9 +21,9 @@ Schedule:
 8:30-8:40pm PST - Awards!  
 
 Prizes:
-* First Prize : 30$ Amazon Gift Card
-* Second Prize: 20$ Amazon Gift Card
-* Third Prize : 10$ Amazon Gift Card
+* First Prize : $30 Amazon Gift Card
+* Second Prize: $20 Amazon Gift Card
+* Third Prize : $10 Amazon Gift Card
 
   
 Register here: [https://forms.gle/ztRmS24NCJWA2W3D7](https://forms.gle/ztRmS24NCJWA2W3D7)
