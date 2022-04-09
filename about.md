@@ -72,7 +72,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/junchoi.png" alt="Person">
               <div class="p-name">Jun Choi</div>
-              <div class="p-des">Director, Shelter Education</div>
+              <div class="p-des">Branch Director, OCRM</div>
             </div>
 	    
             <div class="pe">
