@@ -13,7 +13,7 @@ Learn and compete in a scratch hackathon to get cool prizes! This scratchathon i
 The contest is open for all elementary and middle school students. 
 No prior programming experience is required!  
 
-The Scratch Hackathon will be held online at [https://zoom.us/j/9201230035](https://zoom.us/j/9201230035).  
+The Scratch Hackathon will be held online at [https://zoom.us/j/9201230035](https://zoom.us/j/9201230035) or meeting ID at 920 123 0035.
   
 Schedule:  
 6:00-7:00pm PST - Interactive Scratch Workshop (including lecture)   
