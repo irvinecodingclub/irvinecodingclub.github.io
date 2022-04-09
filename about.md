@@ -28,12 +28,6 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="Person">
-              <div class="p-name">Annette Lee</div>
-              <div class="p-des">Vice President of Operations</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="Person">
               <div class="p-name">Nethum Sagara</div>
               <div class="p-des">Director, Public Relations</div>
@@ -60,7 +54,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="Person">
               <div class="p-name">Timothy Chen</div>
-              <div class="p-des">IT Director</div>
+              <div class="p-des">Council</div>
             </div>
 
             <div class="pe">
@@ -75,6 +69,12 @@ comments: false
               <div class="p-des">Council</div>
             </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/junchoi.png" alt="Person">
+              <div class="p-name">Jun Choi</div>
+              <div class="p-des">Director, Shelter Education</div>
+            </div>
+	    
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarahchen.jpg" alt="Person">
               <div class="p-name">Sarah Chen</div>
@@ -105,6 +105,12 @@ comments: false
               <div class="p-des">Lecturer</div>
             </div>
 	   
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="Person">
+              <div class="p-name">Annette Lee</div>
+              <div class="p-des">Lecturer</div>
+            </div>
+	    
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="Person">
               <div class="p-name">Edward Lee</div>
