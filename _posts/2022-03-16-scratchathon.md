@@ -9,10 +9,13 @@ comments: false
 excerpt: "Create cool coding projects to compete in the FREE socal scratchathon!"
 ---
 
-Learn and compete in a scratch hackathon to get cool prizes! This contest is open for all elementary and middle school students. 
+Our first SoCal Scratchathon contest was held on April 10, 2022 from 6-8:30 pm PST. 
+It is a scratch programming contest open for all elementary and middle school students. 
+The theme of this hackathon is "weather".  
 
-This scratchathon is on April 10, 2022 from 6-8:30 pm PST. 
-There are total 90 students participated with 86 project submitted.
+The Scratchathon was a huge success! 
+There were 90 K-12 students from Orange County, LA County of Southern California participated.  
+We received a total of 86 projects from our participating students. 
 
 Schedule:  
 6:00-7:00pm PST - Interactive Scratch Workshop (including lecture)   
@@ -22,7 +25,7 @@ Schedule:
 Winners:
 
 - First Prize : Jason Shen,  Serria Vista Middle School 
-   - Project Showcase:[Store](https://scratch.mit.edu/projects/674225131)
+   - Project Showcase:[Storm](https://scratch.mit.edu/projects/674225131)
 - Second Prize: Michael Zhou, Turtle Rock Elementary School 
    - Project Showcase: [Lightning Day](https://scratch.mit.edu/projects/674233224/)
 - Third Prize : Angela Gong,  BRMS 
