@@ -6,7 +6,7 @@ image2: assets/images/scratchathon-banner.png
 permalink: /scratchathon
 comeptitions: true
 comments: false
-excerpt: "Create cool coding projects to compete in the FREE socal scratchathon!"
+excerpt: "The First Southern California Scratch Hackathon Event!"
 ---
 
 The first SoCal Scratchathon contest was held on April 10, 2022 from 6-8:30 pm PST.
