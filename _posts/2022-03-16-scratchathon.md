@@ -16,9 +16,10 @@ The theme of this hackathon is "weather".
 Our Scratchathon received sponsorship from [Coding Minds](https://codingmindsacademy.com/), an Irvine based coding academy. 
 Thank you [Coding Minds](https://codingmindsacademy.com/) for supporting our events.
 
-Our Scratchathon was a huge success! 
-There were 90 K-12 students from Orange County, LA County of Southern California participated.  
-We received a total of 86 projects from our participating students. 
+Our Scratchathon was a huge success! The majority of students came from Orange County, LA of Southern California participated.  
+In addition, we have many students came from East Coast and China attened this Hackathon. 
+
+There were 90 students in this scratch hackathon event and We received a total of 86 projects from our participating students. 
 
 Schedule:  
 6:00-7:00pm PST - Interactive Scratch Workshop (including lecture)   
