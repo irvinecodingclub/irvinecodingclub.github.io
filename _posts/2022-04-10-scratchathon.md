@@ -26,13 +26,13 @@ Schedule:
 7:00-8:30pm PST - Compete in the Scratchathon!  
 8:30-8:40pm PST - Awards!  
 
-Winners:
+Top 5 Winners:
 
 - First Prize $30 : Jason Shen,  Serria Vista Middle School
    - Project Showcase:[Storm](https://scratch.mit.edu/projects/674225131)
-- Second Prize: Michael Zhou, Turtle Rock Elementary School
+- Second Prize $20: Michael Zhou, Turtle Rock Elementary School
    - Project Showcase: [Lightning Day](https://scratch.mit.edu/projects/674233224/)
-- Third Prize $20: Angela Gong,  BRMS
+- Third Prize $10: Angela Gong,  BRMS
   - Project Showcase: [Rainbow Jumping](https://scratch.mit.edu/projects/674227001)
 - Third Prize $10: Yoyo Wang,  Hoover
   - Project Showcase: [Ocean Cafe Adventure](https://scratch.mit.edu/projects/638823463/)
