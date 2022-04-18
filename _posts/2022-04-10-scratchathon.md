@@ -6,7 +6,7 @@ image2: assets/images/scratchathon-banner.png
 permalink: /scratchathon
 comeptitions: true
 comments: false
-excerpt: "Southern California Scratch Hackathon 2022."
+excerpt: "2022 Southern California Scratch Hackathon Tournament"
 ---
 
 The first SoCal Scratchathon contest was held on April 10, 2022 from 6-8:30 pm PST.
