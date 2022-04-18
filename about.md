@@ -24,7 +24,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/pikachuwu.png" alt="Person">
               <div class="p-name">Claire Wen</div>
-              <div class="p-des">Vice President of Education</div>
+              <div class="p-des">Vice President of Operations</div>
             </div>
 
             <div class="pe">
