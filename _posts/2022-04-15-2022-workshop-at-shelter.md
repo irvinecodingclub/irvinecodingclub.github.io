@@ -6,5 +6,5 @@ image2: assets/images/shelter.png
 sitelink: /shelterworkshops
 workshopatshelter: true
 comments: false
-excerpt: "Come and volunteer in ICC workshops at shelters of Orange County "
+excerpt: "Come and volunteer in ICC workshops at Orange County Rescue Mission (OCRM)"
 ---
