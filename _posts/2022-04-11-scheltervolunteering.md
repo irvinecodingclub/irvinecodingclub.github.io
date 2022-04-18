@@ -1,34 +1,23 @@
 ---
 layout: post
 title:  "Workshops@Shelter"
-image: assets/images/scratchathon.png
-image2: assets/images/scratchathon-banner.png
+image: assets/images/shelter.png
+image2: assets/images/shelter.png
 permalink: /shelterworkshops
 shelterworkshops: true
 comments: false
-excerpt: "Create cool coding projects to compete in the FREE socal scratchathon!"
+excerpt: "Come and volunteer at ICC workshops in shelters of Orange County "
 ---
 
-SHELTER WORKSHOPS
-Sophia Dai, Melody Yu, Claire Wen
-On Friday, November 12th, the Irvine
-Coding Club hosted a class at the Orange
-County Rescue Mission (OCRM) on
-coding, Scratch, and Python. Volunteers
-taught the class that was dedicated for
-the underprivileged and homeless
-children of Orange County. In 2 hours, we
-taught the basics of Scratch and blocks
-with a slides presentation and a few small
-activities.
-This was not the first time the ICC had
-hosted classes, but it was the first time at a
-homeless shelter. It was also one of our
-first in-person activities post-pandemic,
-and we hope to continue adding more
-classes for more people. This was the start
-to one of ICCs larger goals to provide
-education on coding to everyone. We also
-taught at the OCRM again on December 10
-as well and opportunities to volunteer are
-still available.
+# SHELTER WORKSHOPS
+
+<iframe width="800" height="550" src="https://www.youtube.com/embed/HBdhM8CbAuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Since November, 2021, ICC had monthly coding classes across multiple Orange County Shelters including Orange County Rescue Mission (OCRM).
+Volunteers teach kids the basics of coding including Scratch, and Python that was dedicated for the underprivileged and homeless children of Orange County.
+
+The Workshops@Sheter program was created to fulfill ICCs larger goals to provide education on coding to everyone.
+
+Volunteers are welcome to come and volunteer in our Workshops at Shelter Program.

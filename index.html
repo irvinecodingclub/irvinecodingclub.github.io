@@ -87,6 +87,35 @@ image: assets/images/favicon.png
 
 <!--====== VIDEO COUNTER PART ENDS ======-->
 
+
+<section class="recent-posts row">
+
+  <div class="col-md-8 main-loop">
+
+
+  </div>
+
+    <div class="col-sm-8">
+
+      <div class="section-title">
+          <h2><span>WORKSHOPS@SHELTER</span></h2>
+      </div>
+
+        {% for post in site.posts%}
+          {% if post.workshopatshelter == true %}
+          {% include newsbox2.html %}
+          {% endif %}
+        {% endfor %}
+
+    </div>
+
+        <div class="col-sm-4">
+            {% include sidebar2.html %}
+        </div>
+
+</section>
+
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
