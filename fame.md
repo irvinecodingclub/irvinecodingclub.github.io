@@ -74,7 +74,7 @@ title:  ICC Hall of Fame
         </tr>
         <tr>
             <td>Kai Wang</td>
-            <td>Silver Qualifier</td>
+            <td>Gold Qualifier</td>
         </tr>
         <!-- and so on... -->
     </tbody>

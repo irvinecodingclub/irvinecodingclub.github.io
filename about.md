@@ -30,7 +30,7 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="Person">
               <div class="p-name">Nethum Sagara</div>
-              <div class="p-des">Director, Public Relations</div>
+              <div class="p-des">Vice President </div>
             </div>
 
             <div class="pe">
@@ -74,19 +74,19 @@ comments: false
               <div class="p-name">Jun Choi</div>
               <div class="p-des">Branch Director, OCRM</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarahchen.jpg" alt="Person">
               <div class="p-name">Sarah Chen</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="Person">
               <div class="p-name">Scott Chiang</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/anniec.png" alt="Person">
               <div class="p-name">Annie Chien</div>
@@ -104,19 +104,19 @@ comments: false
               <div class="p-name">Isabella Huang</div>
               <div class="p-des">Lecturer</div>
             </div>
-	   
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="Person">
               <div class="p-name">Annette Lee</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="Person">
               <div class="p-name">Edward Lee</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/handersenl.png" alt="Person">
               <div class="p-name">Handersen Lee</div>
@@ -128,7 +128,7 @@ comments: false
               <div class="p-name">Sophia Lin</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="Person">
               <div class="p-name">Sarina Marzbani</div>
@@ -146,13 +146,13 @@ comments: false
               <div class="p-name">Hayden Park</div>
               <div class="p-des">Lecturer</div>
 	    </div>
-	   
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
               <div class="p-des">Lecturer</div>
 	    </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/zach.jpeg" alt="Person">
               <div class="p-name">Zach Piedad</div>
@@ -170,7 +170,7 @@ comments: false
               <div class="p-name">Sophia Zhou</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/shaurya-.png" alt="Person">
               <div class="p-name">Shaurya</div>
