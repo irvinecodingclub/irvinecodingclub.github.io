@@ -177,6 +177,36 @@ comments: false
               <div class="p-des">Competition</div>
             </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Aaron Trinh.jpg" alt="Person">
+              <div class="p-name">Aaron Trinh</div>
+              <div class="p-des">Member</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Bryan Dinh.jpg" alt="Person">
+              <div class="p-name">Bryan Dinh</div>
+              <div class="p-des">Member</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Clark Enge.jpg" alt="Person">
+              <div class="p-name">Clark Enge</div>
+              <div class="p-des">Member</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Jason Trinh.jpg" alt="Person">
+              <div class="p-name">Jason Trinh</div>
+              <div class="p-des">Member</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Ryan Yun.jpg" alt="Person">
+              <div class="p-name">Ryan Yun</div>
+              <div class="p-des">Member</div>
+            </div>
+
     </div>
   </div>
 </div>
