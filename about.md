@@ -180,31 +180,31 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/Aaron Trinh.jpg" alt="Person">
               <div class="p-name">Aaron Trinh</div>
-              <div class="p-des">Member</div>
+              <div class="p-des">VPHS - Treasurer</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/Bryan Dinh.jpg" alt="Person">
               <div class="p-name">Bryan Dinh</div>
-              <div class="p-des">Member</div>
+              <div class="p-des">VPHS - Historian</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/Clark Enge.jpg" alt="Person">
               <div class="p-name">Clark Enge</div>
-              <div class="p-des">Member</div>
+              <div class="p-des">VPHS - President</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/Jason Trinh.jpg" alt="Person">
               <div class="p-name">Jason Trinh</div>
-              <div class="p-des">Member</div>
+              <div class="p-des">VPHS - Secretary</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/Ryan Yun.jpg" alt="Person">
               <div class="p-name">Ryan Yun</div>
-              <div class="p-des">Member</div>
+              <div class="p-des">VPHS - Vice President</div>
             </div>
 
     </div>
@@ -305,6 +305,7 @@ Our members come from many different schools in southern California.
 * Jeffrey Trail Middle School
 * Vista Verde (K8)
 * Beacon Park School (K8)
+* Villa Park High School
 * Many More!
 
 If you are a 6th grade or above who wants to learn together with our club members,
