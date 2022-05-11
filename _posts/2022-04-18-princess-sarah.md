@@ -9,11 +9,10 @@ comments: false
 excerpt: "Webinar featuring guest speaker Princess Sarah Culberson of Sierra Leone!"
 ---
 
-
 The Irvine Coding Club is hosting a seminar with the princess of Sierra Leone, Princess Sarah Culberson, speaking about her life experiences. Adopted and raised in the US, award winning actress, public speaker, and author Princess Sarah Culberson discovered that she was the princess of the Mende people in Sierra Leone. Now, she works to support education, public health, and women's rights, and shares her story with others.
 
 
-Registeration for the event!
+Registration for the event!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScfT1-NmZJmtpHWb1sBJuzmT3uVuvTxjnsGW1a1Td07bW3D3g/viewform?embedded=true" width="640" height="1062" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
