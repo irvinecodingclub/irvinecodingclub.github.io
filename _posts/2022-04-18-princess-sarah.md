@@ -4,7 +4,7 @@ title:  "ICC Guest Speaker: Princess Sarah Culberson"
 image: assets/images/princesssarah.jpg
 image2: assets/images/princesssarah.jpg
 permalink: /princesswebinar
-featured: true
+featured: false
 comments: false
 excerpt: "Webinar featuring guest speaker Princess Sarah Culberson of Sierra Leone!"
 ---

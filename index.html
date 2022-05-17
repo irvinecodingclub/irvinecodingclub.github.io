@@ -116,29 +116,6 @@ image: assets/images/favicon.png
 </section>
 
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>TOURNAMENTS</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.comeptitions == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
 
 <!-- Featured
 ================================================== -->
@@ -167,6 +144,29 @@ image: assets/images/favicon.png
 
 
 
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>TOURNAMENTS</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+    {% for post in site.posts %}
+
+        {% if post.comeptitions == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+</section>
 
 <!-- Posts Index
 ================================================== -->
