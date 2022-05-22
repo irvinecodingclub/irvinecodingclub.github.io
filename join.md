@@ -4,9 +4,9 @@ title: Join
 permalink: /join
 ---
 
-# Join the Irvine Coding Club
+# Join the Inspire Coding Club
 
-The Irvine Coding Club is currently accepting volunteering for 
+The Inspire Coding Club is currently accepting volunteering for 
  - TAing for courses
  - Creating new courses/workshops/tournaments
  - Fundraisers (virtual and in-person)

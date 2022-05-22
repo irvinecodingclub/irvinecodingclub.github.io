@@ -14,7 +14,7 @@ Join us to meet the ICC Council candidates! Attendance is encouraged because you
 Come meet the candidates on Sunday, August 8th, from 7 PM to 8PM PDT.
 
 Here is the recording of the council QnA:
-Topic: Irvine Coding Club
+Topic: Inspire Coding Club
 Start Time : Aug 8, 2021 07:10 PM
 
 Meeting Recording:

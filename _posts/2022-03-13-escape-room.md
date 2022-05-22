@@ -9,4 +9,4 @@ comments: false
 excerpt: "ICC's virtual escape room: answer questions about math and computer science to escape!"
 ---
 
-The Irvine Coding Club is proud to announce the virtual escape room on March 19, 2022 at 2-3 PM! Register for the event HERE: https://forms.gle/E3tuQ57YKFkP24E39  Good luck to all our contestants!
+The Inspire Coding Club is proud to announce the virtual escape room on March 19, 2022 at 2-3 PM! Register for the event HERE: https://forms.gle/E3tuQ57YKFkP24E39  Good luck to all our contestants!

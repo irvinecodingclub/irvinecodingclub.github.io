@@ -7,9 +7,9 @@ comments: false
 
 # What is the Inspire Coding Club?
 
-Irvine Coding Club (ICC) is a non-profit organization run by students and serving K-12 students in Orange County.
+Inspire Coding Club (ICC) is a non-profit organization run by students and serving K-12 students in Orange County.
 
-The Irvine Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
+The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
 ### How to Join
 
@@ -28,7 +28,7 @@ Anyone is welcome to help our students in courses, answer students&#39; problems
 
 #### Become a Shelter Volunteer
 
-The Irvine Coding Club is proud to proclaim that we have partnered with at-risk and homeless shelters to provide our material to those who may be deprived of such an opportunity otherwise. No coding experience is needed, and managing students/troubleshooting with them is the largest part of the opportunity.
+The Inspire Coding Club is proud to proclaim that we have partnered with at-risk and homeless shelters to provide our material to those who may be deprived of such an opportunity otherwise. No coding experience is needed, and managing students/troubleshooting with them is the largest part of the opportunity.
 
 #### Apply as a Branch Director
 

@@ -6,10 +6,10 @@ image2: assets/images/winter-writing.png
 permalink: /winter-writing
 featured: false
 comments: false
-excerpt: "The Irvine Coding Club is hosting a Winter Essay Writing Competition with the theme  "
+excerpt: "The Inspire Coding Club is hosting a Winter Essay Writing Competition with the theme  "
 ---
 
-The Irvine Coding Club is proud to announce our first essay writing competition. 
+The Inspire Coding Club is proud to announce our first essay writing competition. 
 Our winner will be featured in an article in our Winter newsletter as well as a spot in the Hall of Fame on the website.
 This season's competition prompt will revolve around STEM: If you were to invent something for your daily life, what would it be and why?
 

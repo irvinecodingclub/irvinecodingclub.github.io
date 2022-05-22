@@ -6,6 +6,6 @@ image2: assets/images/2021julynewsletter.png
 sitelink: /newsletter/2021/july
 newsletter: true
 comments: false
-excerpt: "Irvine Coding Club Newsletter, July, Edition 2. Our summer activities from July 2021!"
+excerpt: "Inspire Coding Club Newsletter, July, Edition 2. Our summer activities from July 2021!"
 ---
  
