@@ -12,7 +12,7 @@ comments: false
 
     {% for post in site.posts %}
 
-        {% if post.course == true and post.year == 2022 %}
+        {% if post.course == true %}
 
             {% include featuredbox.html %}
 
