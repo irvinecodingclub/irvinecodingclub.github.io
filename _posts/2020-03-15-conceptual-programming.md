@@ -7,6 +7,7 @@ permalink: /conceptprogramming
 course: true
 comments: false
 excerpt: "A small workshop teaching concepts of programming."
+year: 2021
 ---
 
 <table class="styled-table">
