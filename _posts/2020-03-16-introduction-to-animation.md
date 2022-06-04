@@ -6,6 +6,7 @@ image2: assets/images/animation3.png
 permalink: /animation
 excerpt: "A beginner course to introduce people to animation."
 course: true
+year: 2021
 ---
 
 A beginner course to introduce people to animation, how to animate, and its history.
