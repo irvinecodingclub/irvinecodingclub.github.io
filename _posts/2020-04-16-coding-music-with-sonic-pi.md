@@ -7,6 +7,7 @@ permalink: /codingmusic
 course: true
 comments: false
 excerpt: "Coding with a language that leads to music coming out."
+year: 2021
 ---
 
 Coding with a language that leads to music coming out.
