@@ -7,6 +7,7 @@ course: true
 permalink: /python101
 comments: false
 excerpt: "An introductory four week course for Python."
+year: 2022
 ---
 
 Python 1:  
