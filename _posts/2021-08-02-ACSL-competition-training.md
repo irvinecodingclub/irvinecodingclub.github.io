@@ -7,10 +7,11 @@ permalink: /acsl
 course: true
 comments: false
 excerpt: "Train and Preparing for 2021-2022 ACSL Competition."
+year: 2021
 ---
 
 [American Computer Science League (ACSL)](https://www.acsl.org/) organizes computer science and programming contests for K-12 students.
-The 2020-2021 school year will be our 43rd year of continuous operation. Last year, about 500 teams in the United States, Canada, Europe, and Asia participated.
+The 2020-2021 school year will be their 43rd year of continuous operation. Last year, about 500 teams in the United States, Canada, Europe, and Asia participated.
 
 
 
