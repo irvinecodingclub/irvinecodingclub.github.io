@@ -7,6 +7,7 @@ course: true
 permalink: /python102
 comments: false
 excerpt: "Challenge yourself with hands-on Python Projects."
+year: 2021
 ---
 
 
