@@ -6,6 +6,7 @@ image2: assets/images/arduino2.png
 permalink: /arduino
 excerpt: "A course designed to help you learn arduino."
 course: true
+year: 2021
 ---
 
 In this course, students will learn how to program an Arduino.
