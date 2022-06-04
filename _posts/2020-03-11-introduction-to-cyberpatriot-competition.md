@@ -6,6 +6,7 @@ image: assets/images/icc2.jpg
 image2: assets/images/cyberpatriot.jpg
 excerpt: "Teach problems in CyberPatriot competition."
 course: true
+year: 2021
 ---
 In this course we will teach problems in Cyberpatriot competition.
 
