@@ -6,6 +6,7 @@ image2: assets/images/debate3.png
 permalink: /congressdebate
 excerpt: "The basics of public speaking and congress debate."
 course: true
+year: 2021
 ---
 
 Learn about the basics of public speaking and debate, and delve into Congress debate.
