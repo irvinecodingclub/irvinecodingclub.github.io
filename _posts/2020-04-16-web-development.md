@@ -7,6 +7,7 @@ permalink: /webdev
 course: true
 comments: false
 excerpt: "A course teaching you how to make a basic website."
+year: 2021
 ---
 
 <table class="styled-table">
