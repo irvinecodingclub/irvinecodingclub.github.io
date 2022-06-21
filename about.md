@@ -281,7 +281,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 
       <!-- Item 6 -->
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="flag">7 Workshops Offered</span>
         <span class="time-wrapper"><span class="time">Fall, 2021</span></span>
@@ -292,7 +292,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 
       <!-- Item 7 -->
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="flag">Workshops@Shelter</span>
         <span class="time-wrapper"><span class="time">Oct, 2021</span></span>
@@ -303,9 +303,9 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 	
       <!-- Item 8 -->
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
-        <span class="flag">Southern California Scratchathon</span>
+        <span class="flag">SoCal Scratchathon</span>
         <span class="time-wrapper"><span class="time">Apr,10 2022</span></span>
       </div>
       <div class="desc">The first Southern Califonira Scratch Hackathon, over 90 students participated.</div>
@@ -315,7 +315,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 	
       <!-- Item 9 -->
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="flag">12 Courses Offered</span>
         <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
