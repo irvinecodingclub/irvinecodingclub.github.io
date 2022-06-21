@@ -263,7 +263,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 				<span class="flag">9 Courses Offered</span>
 				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
-			<div class="desc">ICC offered 9 free online courses to over 200 students in Summer 2021.</div>
+			<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
 		</div>
 	</li>
 
@@ -320,7 +320,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
         <span class="flag">12 Courses Offered</span>
         <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
       </div>
-      <div class="desc">ICC offered 12 free online courses to over 300 students in Summer 2022.</div>
+      <div class="desc">ICC offered 12 free online courses for K-12 students in Summer 2022.</div>
     </div>
   </li>
 
