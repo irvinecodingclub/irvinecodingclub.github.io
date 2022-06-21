@@ -256,32 +256,21 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 		</div>
 	</li>
 
-  	<!-- Item 4 -->
+    	<!-- Item 4 -->
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Member of Hack Club</span>
-				<span class="time-wrapper"><span class="time">May, 2021</span></span>
-			</div>
-			<div class="desc">ICC was accepted as a member of <a href="https://hackclub.com">Hack Club</a>.</div>
-		</div>
-	</li>
-
-    	<!-- Item 5 -->
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">9 Free Courses</span>
+				<span class="flag">9 Courses Offered</span>
 				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
 			</div>
-			<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
+			<div class="desc">ICC offered 9 free online courses to over 200 students in Summer 2021.</div>
 		</div>
 	</li>
 
 
-      	<!-- Item 6 -->
+      	<!-- Item 5 -->
   	<li>
-  		<div class="direction-l">
+  		<div class="direction-r">
   			<div class="flag-wrapper">
   				<span class="flag">First Donation</span>
   				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
@@ -290,30 +279,50 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
   		</div>
   	</li>
 
-      <!-- Item 7 -->
+      <!-- Item 6 -->
   <li>
     <div class="direction-r">
       <div class="flag-wrapper">
-        <span class="flag">7 Free Workshops</span>
+        <span class="flag">7 Workshops Offered</span>
         <span class="time-wrapper"><span class="time">Fall, 2021</span></span>
       </div>
-      <div class="desc">ICC offered 7 free online workshops for K-12 students in Fall 2021-2022.</div>
+      <div class="desc">ICC offered 7 free online workshops for K-12 students in Fall 2021.</div>
     </div>
   </li>
 
-
-      <!-- Item 8 -->
+      <!-- Item 7 -->
   <li>
     <div class="direction-l">
       <div class="flag-wrapper">
-        <span class="flag">12 Free Courses</span>
-        <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
+        <span class="flag">Workshops@Shelter</span>
+        <span class="time-wrapper"><span class="time">Oct, 2021</span></span>
       </div>
-      <div class="desc">ICC offered 12 free online courses for K-12 students in Summer 2022.</div>
+      <div class="desc">ICC launched workshops at Orange County Rescue Mission (OCRM)</div>
+    </div>
+  </li>
+	
+      <!-- Item 8 -->
+  <li>
+    <div class="direction-r">
+      <div class="flag-wrapper">
+        <span class="flag">Southern California Scratchathon</span>
+        <span class="time-wrapper"><span class="time">Apr,10 2022</span></span>
+      </div>
+      <div class="desc">The first Southern Califonira Scratch Hackathon, over 90 students participated.</div>
     </div>
   </li>
 
-
+	
+      <!-- Item 9 -->
+  <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="flag">12 Courses Offered</span>
+        <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
+      </div>
+      <div class="desc">ICC offered 12 free online courses to over 300 students in Summer 2022.</div>
+    </div>
+  </li>
 
 
 </ul>
