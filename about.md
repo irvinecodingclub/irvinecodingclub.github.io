@@ -4,6 +4,123 @@ title: About
 comments: false
 ---
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
+
+In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+
+<!-- The Timeline -->
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
+<ul class="timeline">
+
+	<!-- Item 1 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Established</span>
+				<span class="time-wrapper"><span class="time">2020</span></span>
+			</div>
+			<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
+		</div>
+	</li>
+
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Non-profit Organization</span>
+				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
+			</div>
+			<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">PSVA Certifying Org</span>
+				<span class="time-wrapper"><span class="time">May, 2021</span></span>
+			</div>
+			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization.</div>
+		</div>
+	</li>
+
+    	<!-- Item 4 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">9 Courses Offered</span>
+				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
+			</div>
+			<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
+		</div>
+	</li>
+
+
+      	<!-- Item 5 -->
+  	<li>
+  		<div class="direction-r">
+  			<div class="flag-wrapper">
+  				<span class="flag">First Donation</span>
+  				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
+  			</div>
+  			<div class="desc">This donation helped the ICC website support our Python/Turtle 3.0 IDE. Thank you so much to all our donators for your support!</div>
+  		</div>
+  	</li>
+
+      <!-- Item 6 -->
+  <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="flag">7 Workshops Offered</span>
+        <span class="time-wrapper"><span class="time">Fall, 2021</span></span>
+      </div>
+      <div class="desc">ICC offered 7 free online workshops for K-12 students in Fall 2021.</div>
+    </div>
+  </li>
+
+      <!-- Item 7 -->
+  <li>
+    <div class="direction-r">
+      <div class="flag-wrapper">
+        <span class="flag">Workshops@Shelter</span>
+        <span class="time-wrapper"><span class="time">Oct, 2021</span></span>
+      </div>
+      <div class="desc">ICC launched workshops at Orange County Rescue Mission (OCRM)</div>
+    </div>
+  </li>
+	
+      <!-- Item 8 -->
+  <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="flag">SoCal Scratchathon</span>
+        <span class="time-wrapper"><span class="time">Apr,10 2022</span></span>
+      </div>
+      <div class="desc">The first Southern Califonira Scratch Hackathon, over 90 students participated.</div>
+    </div>
+  </li>
+
+	
+      <!-- Item 9 -->
+  <li>
+    <div class="direction-r">
+      <div class="flag-wrapper">
+        <span class="flag">12 Courses Offered</span>
+        <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
+      </div>
+      <div class="desc">ICC offered 12 free online courses for K-12 students in Summer 2022.</div>
+    </div>
+  </li>
+
+
+</ul>
+
+
 <div class="team-section">
   <div class="inner-width">
     <h2>Meet our team</h2>
@@ -210,124 +327,6 @@ comments: false
     </div>
   </div>
 </div>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
-
-In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
-
-<!-- The Timeline -->
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
-<ul class="timeline">
-
-	<!-- Item 1 -->
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Established</span>
-				<span class="time-wrapper"><span class="time">2020</span></span>
-			</div>
-			<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
-		</div>
-	</li>
-
-	<!-- Item 2 -->
-	<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Non-profit Organization</span>
-				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
-			</div>
-			<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
-		</div>
-	</li>
-
-	<!-- Item 3 -->
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">PSVA Certifying Org</span>
-				<span class="time-wrapper"><span class="time">May, 2021</span></span>
-			</div>
-			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization.</div>
-		</div>
-	</li>
-
-    	<!-- Item 4 -->
-	<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">9 Courses Offered</span>
-				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
-			</div>
-			<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
-		</div>
-	</li>
-
-
-      	<!-- Item 5 -->
-  	<li>
-  		<div class="direction-r">
-  			<div class="flag-wrapper">
-  				<span class="flag">First Donation</span>
-  				<span class="time-wrapper"><span class="time">June 16, 2021</span></span>
-  			</div>
-  			<div class="desc">This donation helped the ICC website support our Python/Turtle 3.0 IDE. Thank you so much to all our donators for your support!</div>
-  		</div>
-  	</li>
-
-      <!-- Item 6 -->
-  <li>
-    <div class="direction-l">
-      <div class="flag-wrapper">
-        <span class="flag">7 Workshops Offered</span>
-        <span class="time-wrapper"><span class="time">Fall, 2021</span></span>
-      </div>
-      <div class="desc">ICC offered 7 free online workshops for K-12 students in Fall 2021.</div>
-    </div>
-  </li>
-
-      <!-- Item 7 -->
-  <li>
-    <div class="direction-r">
-      <div class="flag-wrapper">
-        <span class="flag">Workshops@Shelter</span>
-        <span class="time-wrapper"><span class="time">Oct, 2021</span></span>
-      </div>
-      <div class="desc">ICC launched workshops at Orange County Rescue Mission (OCRM)</div>
-    </div>
-  </li>
-	
-      <!-- Item 8 -->
-  <li>
-    <div class="direction-l">
-      <div class="flag-wrapper">
-        <span class="flag">SoCal Scratchathon</span>
-        <span class="time-wrapper"><span class="time">Apr,10 2022</span></span>
-      </div>
-      <div class="desc">The first Southern Califonira Scratch Hackathon, over 90 students participated.</div>
-    </div>
-  </li>
-
-	
-      <!-- Item 9 -->
-  <li>
-    <div class="direction-r">
-      <div class="flag-wrapper">
-        <span class="flag">12 Courses Offered</span>
-        <span class="time-wrapper"><span class="time">Summer, 2022</span></span>
-      </div>
-      <div class="desc">ICC offered 12 free online courses for K-12 students in Summer 2022.</div>
-    </div>
-  </li>
-
-
-</ul>
-
-
 
 Our members come from many different schools in southern California.
 
