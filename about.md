@@ -363,8 +363,8 @@ Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gm
         if (working == true) return;
 	working = true;
 	document.querySelector('#bio .modal-title').innerText = toTitleCase(name) + "'s Bio";
-	// document.querySelector('#bio iframe').src = 'https://my.irvinecoding.club/api/v1/bio/display?name=' + encodeURIComponent(name.toLowerCase().split(' ').join(''));
-	fetch('https://my.irvinecoding.club/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
+	// document.querySelector('#bio iframe').src = 'https://my.inspirecoding.org/api/v1/bio/display?name=' + encodeURIComponent(name.toLowerCase().split(' ').join(''));
+	fetch('https://my.inspirecoding.org/api/v1/bio?name=' + encodeURIComponent(name)).then(bio => bio.json()).then(bio => {
             console.log(bio);
             bioOpen = true;
 	    document.querySelector('#bio .p-name').innerText = name;

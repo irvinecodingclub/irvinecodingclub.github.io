@@ -13,7 +13,7 @@ The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.
 
 ### How to Join
 
-Join our [Discord Server](https://irvinecoding.club/join) full of other ICC members and volunteers. Form teams for competitions and hackathons or teach courses!
+Join our [Discord Server](https://inspirecoding.org/join) full of other ICC members and volunteers. Form teams for competitions and hackathons or teach courses!
 
 
 # Ways to contribute!
@@ -32,11 +32,11 @@ The Inspire Coding Club is proud to proclaim that we have partnered with at-risk
 
 #### Apply as a Branch Director
 
-If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord](https://irvinecoding.club/join) for more details.
+If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord](https://inspirecoding.org/join) for more details.
 
 #### Just Hang Out!
 
-Cultivate a passion to code and talk to others interested in the same subject! Our ultimate goal is to instill a sense of enthusiasm among students for coding, and empower them to have one if they lack the means to do so already. For this reason, joining our [Discord server](https://irvinecoding.club/join) and discussing STEAM topics with fellow members is highly encouraged.
+Cultivate a passion to code and talk to others interested in the same subject! Our ultimate goal is to instill a sense of enthusiasm among students for coding, and empower them to have one if they lack the means to do so already. For this reason, joining our [Discord server](https://inspirecoding.org/join) and discussing STEAM topics with fellow members is highly encouraged.
 
 
 # PVSA Awards

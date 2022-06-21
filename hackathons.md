@@ -25,7 +25,7 @@ Small projects can make big impacts to our world. ICC proudly presents to you th
             <td>Honorable Mentions</td>
         </tr>
         <tr>
-            <td><a href="https://geocases.irvinecoding.club">GeoCases</a></td>
+            <td><a href="https://geocases.inspirecoding.org">GeoCases</a></td>
             <td><a href="https://healthhacks.tech">health{hacks} hackfrom{home} 2021</a></td>
             <td>Ian Madden, Melody Yu, Agam Randhawa, Sophia Dai</td>
             <td>None</td>
