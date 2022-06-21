@@ -66,7 +66,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
   		<div class="direction-r">
   			<div class="flag-wrapper">
   				<span class="flag">Debate Tournament</span>
-  				<span class="time-wrapper"><span class="time">July 31, 2021</span></span>
+  				<span class="time-wrapper"><span class="time">July 2021</span></span>
   			</div>
   			<div class="desc">2021 ICC summer online Congress Debate Tournament.</div>
   		</div>
