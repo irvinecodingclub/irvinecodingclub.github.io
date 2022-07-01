@@ -201,7 +201,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="Person">
               <div class="p-name">Scott Chiang</div>
-              <div class="p-des">Lecturer</div>
+              <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
@@ -219,6 +219,12 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 	    <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/isabellahuang.png" alt="Person">
               <div class="p-name">Isabella Huang</div>
+              <div class="p-des">Lecturer</div>
+            </div>
+	    
+	    <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/karis.png" alt="Person">
+              <div class="p-name">Karis Kwon</div>
               <div class="p-des">Lecturer</div>
             </div>
 
