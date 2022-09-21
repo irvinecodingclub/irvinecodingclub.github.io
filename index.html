@@ -117,6 +117,32 @@ image: assets/images/favicon.png
 
 
 
+
+<section class="recent-posts row">
+
+  <div class="col-md-9 main-loop">
+
+
+  </div>
+
+    <div class="col-sm-9">
+
+      <div class="section-title">
+          <h2><span>CODING 4 SIERRA LEONE</span></h2>
+      </div>
+
+        {% for post in site.posts%}
+          {% if post.sierraleone == true %}
+          {% include newsbox2.html %}
+          {% endif %}
+        {% endfor %}
+
+    </div>
+
+
+</section>
+
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">

@@ -4,6 +4,7 @@ title:  "Workshops@Shelter"
 image: assets/images/shelter.png
 image2: assets/images/shelter.png
 permalink: /shelterworkshops
+sitelink: /shelterworkshops
 shelterworkshops: true
 comments: false
 excerpt: "Come and volunteer in ICC workshops at shelters of Orange County "
