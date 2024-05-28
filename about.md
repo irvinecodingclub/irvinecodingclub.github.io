@@ -70,6 +70,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
 
 <br><br>
 <!--====== VIDEO COUNTER PART ENDS ======-->
+
 <!-- The Timeline -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
 <ul class="timeline">

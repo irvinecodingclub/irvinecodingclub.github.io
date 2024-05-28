@@ -30,20 +30,33 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   display: grid;
   column-gap: 2vw;
   grid-template-columns: 15vw 15vw 15vw 15vw;
-  grid-template-rows: 15vw;
+  grid-template-rows: 10vw;
   justify-content: center; /* i figured out how to center a div */
 
   position: relative;
   margin-top: -3vh;
   z-index: 1;
 }
+.ad-dots {
+  position: absolute;
+  left: -35px;
+  bottom: -20px;
+  z-index: -1;
+  width: 15vw;
+  height: 10vw;
+  border-radius: 40px;
+}
 .ad-box {
+  position: relative;
   background: lightblue;
   border-radius: 20px;
   text-align: center;
   padding-top: 2vh;
   padding-left: 1vw;
   padding-right: 1vw;
+}
+.ad-text {
+  padding-top: 1vh;
 }
 
 /*===========================
