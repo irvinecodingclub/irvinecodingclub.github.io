@@ -4,64 +4,65 @@ title: About
 comments: false
 ---
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
+_"We are the movement of students building the classes we wish we could take."_, [hackclub.com](https://github.com/hackclub)
 
 In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
+
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 <!-- The Timeline -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
 <ul class="timeline">
 
-	<!-- Item 1 -->
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Established</span>
-				<span class="time-wrapper"><span class="time">2020</span></span>
-			</div>
-			<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
-		</div>
-	</li>
+    <!-- Item 1 -->
+    <li>
+    	<div class="direction-r">
+    		<div class="flag-wrapper">
+    			<span class="flag">Established</span>
+    			<span class="time-wrapper"><span class="time">2020</span></span>
+    		</div>
+    		<div class="desc">Started as a student club in Rancho S.J. Middle School.</div>
+    	</div>
+    </li>
 
-	<!-- Item 2 -->
-	<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Non-profit Organization</span>
-				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
-			</div>
-			<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
-		</div>
-	</li>
+    <!-- Item 2 -->
+    <li>
+    	<div class="direction-l">
+    		<div class="flag-wrapper">
+    			<span class="flag">Non-profit Organization</span>
+    			<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
+    		</div>
+    		<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
+    	</div>
+    </li>
 
-	<!-- Item 3 -->
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">PSVA Certifying Org</span>
-				<span class="time-wrapper"><span class="time">May, 2021</span></span>
-			</div>
-			<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization.</div>
-		</div>
-	</li>
+    <!-- Item 3 -->
+    <li>
+    	<div class="direction-r">
+    		<div class="flag-wrapper">
+    			<span class="flag">PSVA Certifying Org</span>
+    			<span class="time-wrapper"><span class="time">May, 2021</span></span>
+    		</div>
+    		<div class="desc">ICC achieved the Presidential Volunteer Service Award and became a Certifying Organization.</div>
+    	</div>
+    </li>
 
     	<!-- Item 4 -->
-	<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">9 Courses Offered</span>
-				<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
-			</div>
-			<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
-		</div>
-	</li>
+    <li>
+    	<div class="direction-l">
+    		<div class="flag-wrapper">
+    			<span class="flag">9 Courses Offered</span>
+    			<span class="time-wrapper"><span class="time">Summer, 2021</span></span>
+    		</div>
+    		<div class="desc">ICC offered 9 free online courses for K-12 students in Summer 2021.</div>
+    	</div>
+    </li>
 
 
       	<!-- Item 5 -->
+
   	<li>
   		<div class="direction-r">
   			<div class="flag-wrapper">
@@ -73,6 +74,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
   	</li>
 
       <!-- Item 6 -->
+
   <li>
     <div class="direction-l">
       <div class="flag-wrapper">
@@ -84,6 +86,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
   </li>
 
       <!-- Item 7 -->
+
   <li>
     <div class="direction-r">
       <div class="flag-wrapper">
@@ -105,8 +108,8 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
     </div>
   </li>
 
-	
       <!-- Item 9 -->
+
   <li>
     <div class="direction-r">
       <div class="flag-wrapper">
@@ -117,9 +120,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
     </div>
   </li>
 
-
 </ul>
-
 
 <div class="team-section">
   <div class="inner-width">
@@ -139,7 +140,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/pikachuwu.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/claireWen.png" alt="Person">
               <div class="p-name">Claire Wen</div>
               <div class="p-des">Vice President of Operations</div>
             </div>
@@ -163,7 +164,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/snowflake.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/cameronWeng.jpg" alt="Person">
               <div class="p-name">Cameron Weng</div>
               <div class="p-des">Director, Graphic Design</div>
             </div>
@@ -210,19 +211,19 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
               <div class="p-des">Lecturer</div>
             </div>
 
-	    <div class="pe">
+        <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/isabellahuang.png" alt="Person">
               <div class="p-name">Isabella Huang</div>
               <div class="p-des">Lecturer</div>
             </div>
-	    
-	    <div class="pe">
+
+        <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/jaydenkim.png" alt="Person">
               <div class="p-name">Jayden Kim</div>
               <div class="p-des">Lecturer</div>
             </div>
 
-	    <div class="pe">
+        <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/karis.png" alt="Person">
               <div class="p-name">Karis Kwon</div>
               <div class="p-des">Lecturer</div>
@@ -268,13 +269,13 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
               <img src="{{ site.baseurl }}/assets/images/haydenp.png" alt="Person">
               <div class="p-name">Hayden Park</div>
               <div class="p-des">Lecturer</div>
-	    </div>
+        </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
               <div class="p-des">Lecturer</div>
-	    </div>
+        </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/zach.jpeg" alt="Person">
@@ -331,27 +332,25 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
             </div>
 
     </div>
+
   </div>
 </div>
 
 Our members come from many different schools in southern California.
 
-* University High School
-* Troy High School
-* Sage Hill School
-* Rancho SJ Middle School
-* The Pegasus School
-* Jeffrey Trail Middle School
-* Vista Verde (K8)
-* Beacon Park School (K8)
-* Villa Park High School
-* Many More!
+- University High School
+- Troy High School
+- Sage Hill School
+- Rancho SJ Middle School
+- The Pegasus School
+- Jeffrey Trail Middle School
+- Vista Verde (K8)
+- Beacon Park School (K8)
+- Villa Park High School
+- Many More!
 
-If you are a 6th grade or above who wants to learn together with our club members,
-or if you want to share with our community by providing online courses,
-come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/join).   
+If you are a 6th grade or above who wants to learn together with our club members, or if you want to share with our community by providing online courses, come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/join).  
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
-
 
 <div class="modal" tabindex="-1" role="dialog" id="bio">
         <div class="modal-dialog" role="document">
