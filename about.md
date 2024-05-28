@@ -4,13 +4,72 @@ title: About
 comments: false
 ---
 
+<h3><i>"We are the movement of students building the classes we wish we could take."</i></h3>
+<h5><a href="https://github.com/hackclub">- hackclub.com</a></h5>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*"We are the movement of students building the classes we wish we could take."*, [hackclub.com](https://github.com/hackclub)
-
-In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
+In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho San Joaquin Middle School). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+
+<br>
+
+<!--====== VIDEO COUNTER PART START ======-->
+<link rel="stylesheet" href="/assets/css/video_counter.css">
+<section id="facts" class="video-counter pt-70">
+    <div class="container" style="margin-top: 20px">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="video-content mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                    <img class="dots" src="/assets/images/dots.svg" alt="dots">
+                    <div class="video-wrapper">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/2VUfZbbN8AU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div> <!-- video wrapper -->
+                </div> <!-- video content -->
+            </div>
+            <div class="col-lg-6">
+                <div class="counter-wrapper mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
+                    <div class="counter-content">
+                        <div class="section-title">
+                              <div class="line"></div>
+                              <h3 class="title">OUR MISSION</h3>
+                            <h3 class="title"><br/><span>Inspire, Learn, and Serve the Community</span></h3>
+                        </div> <!-- section title -->
+                    </div> <!-- counter content -->
+                    <a  href="/volunteer">
+                    <div class="row no-gutters">
+                        <div class="col-3">
+                            <div class="single-counter counter-color-1 d-flex align-items-center justify-content-center">
+                                <div class="counter-items text-center">
+                                  <span class="count"><span class="counter" id="hours">1827</span></span>
+                                      <p class="text">Volunteer Hours</p>
+                                </div>
+                            </div> <!-- single counter -->
+                        </div>
+                        <div class="col-3">
+                            <div class="single-counter counter-color-2 d-flex align-items-center justify-content-center">
+                                <div class="counter-items text-center">
+                                    <span class="count"><span class="counter">790</span></span>
+                                    <p class="text">Students Served</p>
+                                </div>
+                            </div> <!-- single counter -->
+                        </div>
+                        <div class="col-3">
+                            <div class="single-counter counter-color-3 d-flex align-items-center justify-content-center">
+                                <div class="counter-items text-center">
+                                    <span class="count"><span class="counter">39</span></span>
+                                    <p class="text">Volunteers</p>
+                                </div>
+                            </div> <!-- single counter -->
+                        </div>
+                      </div> <!-- row -->
+                    </a>
+                </div> <!-- counter wrapper -->
+            </div>
+        </div> <!-- row -->
+    </div> <!-- container -->
+</section>
+
+<br><br>
+<!--====== VIDEO COUNTER PART ENDS ======-->
 
 <!-- The Timeline -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/timeline.css">
@@ -99,7 +158,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
     <div class="direction-l">
       <div class="flag-wrapper">
         <span class="flag">SoCal Scratchathon</span>
-        <span class="time-wrapper"><span class="time">Apr,10 2022</span></span>
+        <span class="time-wrapper"><span class="time">Apr 10, 2022</span></span>
       </div>
       <div class="desc">The first Southern Califonira Scratch Hackathon, over 90 students participated.</div>
     </div>
@@ -213,6 +272,12 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho SJ
 	    <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/isabellahuang.png" alt="Person">
               <div class="p-name">Isabella Huang</div>
+              <div class="p-des">Lecturer</div>
+            </div>
+
+      <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/dominichuang.png" alt="Person">
+              <div class="p-name">Dominic Huang</div>
               <div class="p-des">Lecturer</div>
             </div>
 	    
@@ -351,7 +416,6 @@ If you are a 6th grade or above who wants to learn together with our club member
 or if you want to share with our community by providing online courses,
 come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/join).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.
-
 
 <div class="modal" tabindex="-1" role="dialog" id="bio">
         <div class="modal-dialog" role="document">
