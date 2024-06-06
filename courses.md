@@ -12,7 +12,7 @@ comments: false
 
     {% for post in site.posts %}
 
-        {% if post.course == true %}
+        {% if post.path contains 'course' and post.path contains '2024' %}
 
             {% include featuredbox.html %}
 

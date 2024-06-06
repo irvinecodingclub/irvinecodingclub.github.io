@@ -3,7 +3,7 @@ layout: post
 title:  "Python For Math Problems"
 image: assets/images/icc1.jpg
 image2: assets/images/euler_portrait.png
-course: false
+course: true
 comments: false
 excerpt: "Learn algorithms to solve math problems using Python.  "
 ---

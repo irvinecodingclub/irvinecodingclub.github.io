@@ -41,45 +41,46 @@
     <!-- Site Title
     ================================================== -->
 
-    <div class="mainheading" style="display:none;">
-        <h1 class="sitetitle">{{ site.name }}</h1>
-        <p class="lead">
-             {{ site.description }}
-        </p>
-    </div>
+      <div class="mainheading" style="display:none;">
+          <h1 class="sitetitle">{{ site.name }}</h1>
+          <p class="lead">
+              {{ site.description }}
+          </p>
+      </div>
 
 
     <!-- Content
     ================================================== -->
-    <div class="main-content">
-        {{ content }}
-    </div>
+      <div class="main-content">
+          {{ content }}
+      </div>
 
     </div><!-- /.container -->
 
-    <!-- Begin Footer
-    ================================================== -->
-    <footer class="footer">
-
-        <div class="container">
-
-            <div class="copyright">
-                <p class="pull-right">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-                </p>
-                <p class="pull-right"><a href="{{ site.baseurl }}/contact">Contact Us</a></p>
-                <div class="clearfix"></div>
-            </div>
-
-        </div>
-
-    </footer>
-  
-    <!-- End Footer
-    ================================================== -->
-
+    <div class="footer-spacer"></div>
 
 </div> <!-- /.site-content>
+
+<!-- Begin Footer
+    ================================================== -->
+<footer class="footer">
+
+  <div class="container">
+
+    <div class="copyright">
+      <p class="pull-right">
+        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+      </p>
+      <p class="pull-right"><a href="{{ site.baseurl }}/contact">Contact Us</a></p>
+      <div class="clearfix"></div>
+    </div>
+
+  </div>
+
+</footer>
+
+<!-- End Footer
+    ================================================== -->
 
 <!-- JavaScript
 ================================================== -->
