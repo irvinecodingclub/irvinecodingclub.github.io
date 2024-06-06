@@ -41,7 +41,7 @@ This course is best suited for 4th-6th grade students. See course prerequisites 
 
 This course runs for 5 weeks weekly, starting on Wednesday, June 12, and ending on Wednesday, July 10. Classes are held online from 4-5pm via Zoom.
 
-### Course Dates
+### Class Times
 
 - Wednesday, June 12, 4pm
 - Wednesday, June 19, 4pm

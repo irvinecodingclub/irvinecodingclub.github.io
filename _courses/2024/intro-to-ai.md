@@ -44,7 +44,7 @@ This course is best suited for 5th-10th grade students. It is targeted towards s
 
 This course runs for 5 weeks weekly, starting on Saturday, July 13, and ending on Saturday, August 10. Classes are held online from 9-10am via Zoom.
 
-### Course Dates
+### Class Times
 
 - Saturday, July 13, 9am
 - Saturday, July 20, 9am
