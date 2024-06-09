@@ -58,12 +58,18 @@ This course runs for 5 weeks weekly, starting on Saturday, July 13, and ending o
 
 In this lesson, we will briefly explain what AI actually is and will cover the basics of search alogorithms. Students will learn how to use AI to navigate mazes, as well as potential challenges the AI might face.
 
-### Lesson 2: Machine Learning
+### Lesson 2: Classification
 
-Machine learning is one of the most powerful ways to train an AI. Students will learn how to classify a given input into various labels through AI.
+Machine learning is one of the most powerful ways to train an AI. Students will learn how to classify given input into various labels through AI.
 
-### Lesson 3: Optimization
+### Lesson 3: Prediction
 
-Students will learn the importance of optimizing their AI models. Various methods on how to do so will be introduced as well as potential challenges which come with overfitting.
+Students will delve further into the realm of machine learning to tackle problems involving AI predictions. Students will also learn how to measure the effectiveness of their AI algorithms and how to mimimize loss.
 
-TBA
+### Lesson 4: Neural Networks
+
+This lesson introduces one of the most powerful algorithims in AI- the neural network. Students will be introduced to the structure of neural networks and learn how they are trained.
+
+### Lesson 5: Optimization
+
+Students will learn the importance of optimizing their AI algorithims and the potential challenges that may come with the risk of overfitting. They will be introduced to convolutional neural networks, a special type of neural network designed for image recognition.
