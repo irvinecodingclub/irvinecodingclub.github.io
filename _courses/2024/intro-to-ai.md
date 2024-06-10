@@ -2,8 +2,8 @@
 layout: course
 name: "Introduction To Artifical Intelligence"
 level: "Beginner-Intermediate"
-image: assets/images/icc1.jpg
-image2: assets/images/icc_logo2.png
+image: assets/images/thumbnails/intro-to-ai.png
+image2: assets/images/thumbnails/intro-to-ai.png
 start_date: "July 13"
 desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to grasp way!"
 ---
