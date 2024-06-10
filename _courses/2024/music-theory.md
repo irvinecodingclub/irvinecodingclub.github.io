@@ -18,7 +18,7 @@ desc: "An introductory course to music theory and composition."
     </thead>
     <tbody>
         <tr>
-            <td>Radin Khosraviani</td>
+            <td>Jayden Kim</td>
             <td>TBA</td>
         </tr>
     </tbody>
@@ -39,7 +39,14 @@ This course is best suited for 4th-8th grade students. See course prerequisites 
 
 # Course Dates
 
-TBA
+This course runs for 4 weeks weekly, starting on Tuesday, July 9, and ending on Tuesday, July 30. Classes are held online from 6-7pm via Zoom.
+
+### Class Times
+
+- Tuesday, July 9, 6pm
+- Tuesday, July 16, 6pm
+- Tuesday, July 23, 6pm
+- Tuesday, July 30, 6pm
 
 # Syllabus
 
