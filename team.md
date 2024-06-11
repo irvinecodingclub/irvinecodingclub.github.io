@@ -6,7 +6,7 @@ comments: false
 
 <div class="team-section">
   <div class="inner-width">
-    <h2>Meet our team</h2>
+    <h2>Meet our Board</h2>
     <div class="pers">
 
             <div class="pe">
@@ -64,10 +64,15 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/junchoi.png" alt="Person">
-              <div class="p-name">Jun Choi</div>
-              <div class="p-des">Branch Director, OCRM</div>
+              <img src="{{ site.baseurl }}/assets/images/dominichuang.png" alt="Person">
+              <div class="p-name">Dominic Huang</div>
+              <div class="p-des">Board</div>
             </div>
+        </div>
+    </div>
+    <div class="inner-width">
+      <h2>Our Members</h2>
+      <div class="pers">
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sarahchen.jpg" alt="Person">
@@ -91,12 +96,6 @@ comments: false
               <img src="{{ site.baseurl }}/assets/images/rohan.png" alt="Person">
               <div class="p-name">Rohan Hablani</div>
               <div class="p-des">Lecturer</div>
-            </div>
-
-      <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/dominichuang.png" alt="Person">
-              <div class="p-name">Dominic Huang</div>
-              <div class="p-des">Board</div>
             </div>
             
 	    <div class="pe">
