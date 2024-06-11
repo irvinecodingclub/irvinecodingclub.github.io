@@ -10,61 +10,61 @@ comments: false
     <div class="pers">
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/melodyimg.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/melodyimg.png" alt="Person">
               <div class="p-name">Melody Yu</div>
               <div class="p-des">President, Co-Founder</div>
             </div>
 
             <div class="pe">
-               <img src="{{ site.baseurl }}/assets/images/agtiger.png" alt="Person">
+               <img src="{{ site.baseurl }}/assets/images/members/agtiger.png" alt="Person">
               <div class="p-name">Agam Randhawa</div>
               <div class="p-des">President, Co-Founder</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/pikachuwu.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/pikachuwu.png" alt="Person">
               <div class="p-name">Claire Wen</div>
               <div class="p-des">Vice President of Operations</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/nethumsagara.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/nethumsagara.png" alt="Person">
               <div class="p-name">Nethum Sagara</div>
               <div class="p-des">Vice President </div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sopd.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/sopd.png" alt="Person">
               <div class="p-name">Sophia Dai</div>
               <div class="p-des">Secretary, Treasurer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/kai.jpeg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/kai.jpeg" alt="Person">
               <div class="p-name">Kai Wang</div>
               <div class="p-des">Director, Math Division</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/snowflake.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/snowflake.png" alt="Person">
               <div class="p-name">Cameron Weng</div>
               <div class="p-des">Director, Graphic Design</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/timothyc.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/timothyc.png" alt="Person">
               <div class="p-name">Timothy Chen</div>
               <div class="p-des">Board</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/davidz.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/davidz.png" alt="Person">
               <div class="p-name">David Zhang</div>
               <div class="p-des">Board</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/dominichuang.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/dominichuang.png" alt="Person">
               <div class="p-name">Dominic Huang</div>
               <div class="p-des">Board</div>
             </div>
@@ -73,141 +73,145 @@ comments: false
     <div class="inner-width">
       <h2>Our Members</h2>
       <div class="pers">
-
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sarahchen.jpg" alt="Person">
+               <img src="{{ site.baseurl }}/assets/images/members/junchoi.png" alt="Person">
+               <div class="p-name">Jun Choi</div>
+               <div class="p-des">Branch Director, OCRM</div>
+             </div>
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/members/sarahchen.jpg" alt="Person">
               <div class="p-name">Sarah Chen</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/scottc.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/scottc.png" alt="Person">
               <div class="p-name">Scott Chiang</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/anniec.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/anniec.png" alt="Person">
               <div class="p-name">Annie Chien</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/rohan.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/rohan.png" alt="Person">
               <div class="p-name">Rohan Hablani</div>
               <div class="p-des">Lecturer</div>
             </div>
             
 	    <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/isabellahuang.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/isabellahuang.png" alt="Person">
               <div class="p-name">Isabella Huang</div>
               <div class="p-des">Lecturer</div>
             </div>
 	    
 	    <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/jaydenkim.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/jaydenkim.png" alt="Person">
               <div class="p-name">Jayden Kim</div>
               <div class="p-des">Lecturer</div>
             </div>
 
 	    <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/karis.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/karis.png" alt="Person">
               <div class="p-name">Karis Kwon</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/annl.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/annl.jpg" alt="Person">
               <div class="p-name">Annette Lee</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/edwardlee.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/edwardlee.png" alt="Person">
               <div class="p-name">Edward Lee</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/handersenl.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/handersenl.png" alt="Person">
               <div class="p-name">Handersen Lee</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sophialin.jpeg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/sophialin.jpeg" alt="Person">
               <div class="p-name">Sophia Lin</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sarinamarzbani.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/sarinamarzbani.png" alt="Person">
               <div class="p-name">Sarina Marzbani</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/haydenp.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/haydenp.png" alt="Person">
               <div class="p-name">Hayden Park</div>
               <div class="p-des">Lecturer</div>
 	    </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/jaydenp.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/jaydenp.png" alt="Person">
               <div class="p-name">Jayden Peng</div>
               <div class="p-des">Lecturer</div>
 	    </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/zach.jpeg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/zach.jpeg" alt="Person">
               <div class="p-name">Zach Piedad</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/adrianaz.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/adrianaz.png" alt="Person">
               <div class="p-name">Adriana Zhou</div>
               <div class="p-des">Teaching Assistant</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sopz.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/sopz.png" alt="Person">
               <div class="p-name">Sophia Zhou</div>
               <div class="p-des">Lecturer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/shaurya-.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/shaurya.png" alt="Person">
               <div class="p-name">Shaurya</div>
               <div class="p-des">Competition</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Aaron Trinh.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/aarontrinh.jpg" alt="Person">
               <div class="p-name">Aaron Trinh</div>
               <div class="p-des">VPHS - Treasurer</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Bryan Dinh.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/bryandinh.jpg" alt="Person">
               <div class="p-name">Bryan Dinh</div>
               <div class="p-des">VPHS - Historian</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Clark Enge.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/clarkenge.jpg" alt="Person">
               <div class="p-name">Clark Enge</div>
               <div class="p-des">VPHS - President</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Jason Trinh.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/jasontrinh.jpg" alt="Person">
               <div class="p-name">Jason Trinh</div>
               <div class="p-des">VPHS - Secretary</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Ryan Yun.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/members/ryanyun.jpg" alt="Person">
               <div class="p-name">Ryan Yun</div>
               <div class="p-des">VPHS - Vice President</div>
             </div>

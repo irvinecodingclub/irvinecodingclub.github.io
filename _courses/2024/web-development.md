@@ -30,24 +30,19 @@ This course will teach students the fundamentals of frontend website development
 
 # Who Is This Course For?
 
-This course is best suited for 4th-6th grade students. See course prerequisites for more information.
+This course is best suited for 5th-8th grade students. See course prerequisites for more information.
 
 # Course Prerequisites
 
-- If your student is in a grade lower than 8th, then they should have a solid knowledge of Medieval European history and Ancient history
-  - This is usually taught in school around 7th grade
+- None!
 
 # Course Dates
 
-This course runs for 5 weeks weekly, starting on Wednesday, June 12, and ending on Wednesday, July 10. Classes are held online from 4-5pm via Zoom.
+TBA
 
 ### Class Times
 
-- Wednesday, June 12, 4pm
-- Wednesday, June 19, 4pm
-- Wednesday, June 26, 4pm
-- Wednesday, July 3, 4pm
-- Wednesday, July 10, 4pm
+TBA
 
 # Syllabus
 
