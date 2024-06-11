@@ -51,13 +51,59 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   background: lightblue;
   border-radius: 20px;
   text-align: center;
-  padding-top: 2vh;
+  padding-top: 1vw;
   padding-left: 1vw;
   padding-right: 1vw;
+
+  font-size: 0.9vw;
+  line-height: 1.35vw;
+}
+.ad-box > h3 {
+  font-size: 1.5vw;
 }
 .ad-text {
-  padding-top: 1vh;
+  padding-top: 1vw;
+  font-size: 1.25vw;
 }
+
+.advertisements-mobile {
+  visibility: hidden;
+  position: absolute;
+
+  display: grid;
+  column-gap: 0;
+  grid-template-columns: 50vw 50vw;
+  grid-template-rows: 20vw 20vw;
+
+  margin-left: -4vw;
+  margin-top: 2vh;
+}
+.ad-box-mobile {
+  background: lightblue;
+  outline-color: black;
+  outline-style: dashed;
+  text-align: center;
+  padding-top: 2vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  font-size: 2vw;
+}
+.ad-text-mobile {
+  font-size: 2.5vw;
+}
+.ad-box-mobile>h3 {
+  font-size: 4vw;
+}
+
+@media only screen and (max-width: 975px) { /* mobile support, remove boxes and add a section instead */
+  .advertisements-container {
+    visibility: hidden;
+    position: absolute;
+  }
+  .advertisements-mobile {
+    visibility: visible;
+    position: static;
+  }
 
 /*===========================
        10.SUBSCRIBE  css

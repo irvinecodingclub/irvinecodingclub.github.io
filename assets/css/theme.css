@@ -46,7 +46,10 @@ pre {
 .site-content {
 	padding-top: 0 rem;
 	margin-top: 0;
-	transition: all .4s
+	transition: all .4s;
+
+	min-height: 100%;
+	margin-bottom: -60px;
 }
 
 section {
@@ -203,6 +206,7 @@ section.recent-posts {
 .listfeaturedtag .thumbnail {
 	background-size: cover;
 	height: 100%;
+	width: 100%;
 	display: block;
 	background-position: 38% 22%!important;
 	background-origin: border-box!important;
@@ -437,10 +441,11 @@ span.post-read-more a:hover {
 .footer {
 	border-top: 1px solid rgba(0, 0, 0, .05)!important;
 	color: #999;
-	margin-top: 20px;
-	margin-bottom: 0;
 	background-color: #171e27;
-	padding: 0
+	height: 62px;
+}
+.footer-spacer {
+	height: 60px;
 }
 
 .footersocial i {

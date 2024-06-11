@@ -48,3 +48,8 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# collections
+collections:
+  courses:
+    output: true

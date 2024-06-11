@@ -11,7 +11,7 @@ Inspire Coding Club (ICC) is a 503(c) non-profit organization run by students, f
 
 ### How to Join
 
-Join our [Discord Server](https://inspirecoding.org/join) and verify to join! Form teams for competitions and hackathons or teach courses!
+Join our [Discord Server]({{ site.baseurl }}/join) and verify to join! Form teams for competitions and hackathons or teach courses!
 
 
 # Ways to contribute!
@@ -30,7 +30,7 @@ The Inspire Coding Club is proud to proclaim that we have partnered with at-risk
 
 #### Apply as a Branch Director
 
-If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord](https://inspirecoding.org/join) for more details.
+If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord]({{ site.baseurl }}/join) for more details.
 
 #### Just Hang Out!
 

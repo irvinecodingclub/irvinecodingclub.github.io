@@ -1,0 +1,59 @@
+---
+layout: default
+archive: false
+post_class: post-template
+---
+<link rel="stylesheet" href="/assets/css/table.css">
+<!-- Begin Article
+================================================== -->
+
+	<div class="row">
+
+		<div class="col-sm-8">
+			<div class="mainheading">
+
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.name }}</h1>
+
+        <h3 class="postlevel">Course Level: {{ page.level }}</h3>
+
+			</div>
+
+			<!-- Post Featured Image -->
+			{% if page.image2 %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image2 }}" alt="{{ page.name }}">{% else %}
+			{% endif %}
+			<!-- End Featured Image -->
+
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+                <div class="clearfix"></div>
+			</div>
+
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation mt-4 prevnextlinks">
+              {% if page.previous.url %}
+                <div class="col-md-6 rightborder pl-0">
+                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{ page.previous.name }}</a>
+                </div>
+              {% endif %}
+              {% if page.next.url %}
+                <div class="col-md-6 text-right pr-0">
+                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{ page.next.name }} &raquo;</a>
+                </div>
+              {% endif %}
+            </div>
+            <!-- End Prev/Next -->
+
+
+
+		</div>
+		<!-- End Post -->
+
+
+
+	</div>
+
+<!-- End Article
+================================================== -->
