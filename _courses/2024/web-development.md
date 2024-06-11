@@ -2,8 +2,8 @@
 layout: course
 name: "Introduction to Web Development"
 level: "Beginner"
-image: assets/images/icc1.jpg
-image2: assets/images/icc_logo2.png
+image: assets/images/thumbnails/web-development.png
+image2: assets/images/thumbnails/web-development.png
 start_date: "July 9"
 desc: "Learn frontend website development with HTML, CSS, and JavaScript!"
 ---
