@@ -180,6 +180,12 @@ comments: false
               <div class="p-des">Lecturer</div>
             </div>
 
+ 	   <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/members/melissa.jpg" alt="Person">
+              <div class="p-name">Melissa Yu</div>
+              <div class="p-des">Lecturer</div>
+            </div>
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/shaurya.png" alt="Person">
               <div class="p-name">Shaurya</div>
@@ -215,6 +221,9 @@ comments: false
               <div class="p-name">Ryan Yun</div>
               <div class="p-des">VPHS - Vice President</div>
             </div>
+
+
+
 
     </div>
   </div>
