@@ -1,28 +1,26 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="col-sm-6">
-<div class="card">
-    <div class="row">
-        <div class="col-md-5 wrapthumbnail">
-            <a href="{{ post.url | absolute_url }}">
-            <div class="thumbnail" style="background-image:url({{ site.baseurl }}/{{ post.image2 }});">
+    <div class="card" style="width:200%;">
+        <div class="row">
+            <div class="col-md-5 wrapthumbnail">
+                <a href="{{ post.url | absolute_url }}">
+                <div class="thumbnail" style="background-image:url({{ site.baseurl }}/{{ post.image2 }});width:4s0vh;height:20vh;">
+                </div>
+                </a>
             </div>
-            </a>
-        </div>
-        <div class="col-md-7">
-            <div class="card-block">
-                <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
-                <div class="metafooter">
-                    <div class="wrapfooter">
-                        <span class="post-date">{{ post.date | date_to_string }}</span>
-                        <span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
-                        <div class="clearfix"></div>
+            <div class="col-md-5" style="padding-left: 5vh;">
+                <div class="card-block">
+                    <h2 class="card-title" style="font-size:1.5vh;"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                    <h4 class="card-text" style="font-size:1vh;"">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+                    <div class="metafooter">
+                        <div class="wrapfooter">
+                            <span class="post-date">{{ post.date | date_to_string }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 <!-- end post -->

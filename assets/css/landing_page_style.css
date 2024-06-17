@@ -105,6 +105,9 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
     position: static;
   }
 
+  .carousel {
+    height:
+  }
 /*===========================
        10.SUBSCRIBE  css
 ===========================*/
@@ -184,3 +187,7 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
     .subscribe-form button:hover {
       color: #fff;
       background-position: right center; }
+
+
+
+      

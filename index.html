@@ -156,61 +156,6 @@ image: assets/images/favicon.png
 <br><br>
 <!--====== VIDEO COUNTER PART ENDS ======-->
 
-<section class="recent-posts row">
-
-  <div class="col-md-9 main-loop">
-
-
-  </div>
-
-    <div class="col-sm-9">
-
-      <div class="section-title">
-          <h2><span>WORKSHOPS@SHELTER</span></h2>
-      </div>
-
-        {% for post in site.posts%}
-          {% if post.workshopatshelter == true %}
-          {% include newsbox2.html %}
-          {% endif %}
-        {% endfor %}
-
-    </div>
-
-        <div class="col-sm-3">
-            {% include sidebar2.html %}
-        </div>
-
-</section>
-
-
-
-
-<section class="recent-posts row">
-
-  <div class="col-md-9 main-loop">
-
-
-  </div>
-
-    <div class="col-sm-9">
-
-      <div class="section-title">
-          <h2><span>CODING 4 SIERRA LEONE</span></h2>
-      </div>
-
-        {% for post in site.posts%}
-          {% if post.sierraleone == true %}
-          {% include newsbox2.html %}
-          {% endif %}
-        {% endfor %}
-
-    </div>
-
-
-</section>
-
-
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -218,99 +163,78 @@ image: assets/images/favicon.png
     <div class="section-title">
         <h2><span>EVENTS</span></h2>
     </div>
-
+    
     <div class="row listfeaturedtag">
+        
+        <div id="carouselExampleIndicators" class="carousel carousel-dark slide h-200">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-label="Slide 1" aria-current="true"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"
+                    class=""></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row" style="padding:0 7vw 0 7vw;">
+                            {% assign featuredCount = 0 %}
+                            {% for post in site.posts %}
+                                {% if post.featured == true %}
+                    
+                                    {% assign featuredCount = featuredCount | plus:1 %}
 
-    {% for post in site.posts %}
+                                    <div class="col">
+                        
+                                        {% include featuredbox.html %}
 
-        {% if post.featured == true %}
+                                    </div>
+                        
+                                    {% if featuredCount == 3 %}{% break %}{% endif %}
+                    
+                                {% endif %}
+                            {% endfor %}
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row" style="padding:0 7vw 0 7vw;">
+                        {% assign count = 0 %}
+                        {% for post in site.posts %}
+                        {% if post.featured == false %}
+            
+                        {% assign count = count | plus:1 %}
 
-            {% include featuredbox.html %}
+                        <div class="col">
+            
+                            {% include featuredbox.html %}
 
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
-
-
-
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>TOURNAMENTS</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.comeptitions == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Posts Index
-================================================== -->
-
-
-<section class="recent-posts row">
-
-  <div class="col-md-8 main-loop">
-
-
-
-  </div>
-
-    <div class="col-sm-8">
-
-      <div class="section-title">
-          <h2><span>NEWSLETTERS</span></h2>
-      </div>
-
-        {% for post in site.posts%}
-          {% if post.newsletter == true %}
-          {% include newsbox.html %}
-          {% endif %}
-        {% endfor %}
-
-
-        <div class="section-title">
-            <h2><span>PRESENTATION</span></h2>
+                        </div>
+            
+                        {% if count == 3 %}{% break %}{% endif %}
+            
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
-
-        <div class="col-lg-10">
-            <div class="video-content mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img class="dots" src="/assets/images/dots.svg" alt="dots">
-                <div class="video-wrapper">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wk-TLlNhrcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div> <!-- video wrapper -->
-            </div> <!-- video content -->
-        </div>
-
-
-    </div>
-
         <div class="col-sm-4">
-            {% include sidebar.html %}
+            {% include sidebar2.html %}
         </div>
+    </div>
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
 
 </section>
-
-
-
 
 <script>
     // fetch('https://my.inspirecoding.org/api/v1/public/hours').then(a => a.text()).then(hours => document.getElementById('hours').textContent = hours);

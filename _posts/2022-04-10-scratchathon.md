@@ -4,7 +4,7 @@ title:  "SoCal Scratchathon"
 image: assets/images/scratchathon.png
 image2: assets/images/scratchathon-banner.png
 permalink: /scratchathon
-comeptitions: true
+competitions: true
 comments: false
 excerpt: "2022 Southern California Scratch Hackathon Tournament"
 ---

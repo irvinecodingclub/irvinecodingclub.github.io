@@ -3,7 +3,7 @@ layout: post
 title:  "$2500 and 3rd Place in 2021 CyberCup Finals"
 image: assets/images/cyber1.png
 image2: assets/images/cybercup.png
-comeptitions: false
+competitions: false
 featured: true
 excerpt: "ICC Team Winning 3rd Place in CyberCup 2021 Final and $2500!"
 ---
