@@ -1,13 +1,17 @@
-
-<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation" style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-size: 1rem; font-weight: 400; line-height: 1.5; color: #292b2c; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; box-sizing: inherit; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; position: fixed; top: 0; right: 0; left: 0; z-index: 1030; background: #fff; transition: top .5s ease-in-out; padding: 1.5rem 1rem; box-shadow: 0 10px 40px 0 rgba(0, 0, 0, .05);'>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation" style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; -webkit-box-direction: normal; box-sizing: inherit; font-family: sans-serif; margin: 0; overflow: visible; text-transform: none; touch-action: manipulation; align-self: flex-start; padding: .25rem .75rem; font-size: 1.25rem; line-height: 1; background: 0 0; border: 1px solid transparent; border-radius: .25rem; position: absolute; right: 1rem; z-index: 9999; -webkit-appearance: button; color: rgba(0,0,0,.9); border-color: rgba(0,0,0,.1);'>
-    <span class="navbar-toggler-icon"></span>
+<nav class="navbar navbar-expand-md navbar-light bg-white fixed-top mediumnavigation"
+    style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-size: 1rem; font-weight: 400; line-height: 1.5; color: #292b2c; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; box-sizing: inherit; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; position: fixed; top: 0; right: 0; left: 0; z-index: 1030; background: #fff; transition: top .5s ease-in-out; padding: 1.5rem 1rem; box-shadow: 0 10px 40px 0 rgba(0, 0, 0, .05);'>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsWow"
+        aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation"
+        style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; -webkit-box-direction: normal; box-sizing: inherit; font-family: sans-serif; margin: 0; overflow: visible; text-transform: none; touch-action: manipulation; align-self: flex-start; padding: .25rem .75rem; font-size: 1.25rem; line-height: 1; background: 0 0; border: 1px solid transparent; border-radius: .25rem; position: absolute; right: 1rem; z-index: 9999; -webkit-appearance: button; color: rgba(0,0,0,.9); border-color: rgba(0,0,0,.1);'>
+        <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="container" style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-size: 1rem; font-weight: 400; line-height: 1.5; color: #292b2c; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; -webkit-box-direction: normal; box-sizing: inherit; position: relative; margin-left: auto; margin-right: auto; width: 96%; max-width: 100%; padding-right: 0; padding-left: 0;'>
+    <div class="container-fluid"
+        style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-size: 1rem; font-weight: 400; line-height: 1.5; color: #292b2c; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; -webkit-box-direction: normal; box-sizing: inherit; position: relative; margin-left: auto; margin-right: auto; width: 96%; max-width: 100%; padding-right: 0; padding-left: 0;'>
 
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="{{ site.baseurl }}/" style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; -webkit-box-direction: normal; box-sizing: inherit; background-color: transparent; text-decoration: none; touch-action: manipulation; transition: all .2s; display: inline-block; margin-right: 1rem; font-size: 1.25rem; line-height: inherit; white-space: nowrap; color: rgba(0,0,0,.9); font-weight: 500; padding: 0;'>
-          Inspire Coding Club
+        <a class="navbar-brand" href="{{ site.baseurl }}/"
+            style='-webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; -webkit-box-direction: normal; box-sizing: inherit; background-color: transparent; text-decoration: none; touch-action: manipulation; transition: all .2s; display: inline-block; margin-right: 1rem; font-size: 1.25rem; line-height: inherit; white-space: nowrap; color: rgba(0,0,0,.9); font-weight: 500; padding: 0;'>
+            Inspire Coding Club
         </a>
         <!-- End Logo -->
 
@@ -15,79 +19,103 @@
         <div class="collapse navbar-collapse" id="navbarsWow">
 
             <!-- Begin Menu -->
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ms-auto">
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAbout" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
                         About
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
-                        <!--                       <a class="dropdown-item" href="{{ site.baseurl }}/summer2022">Summer 2022 Courses</a> (not yet) -->
-                        <a class="dropdown-item" href="{{ site.baseurl }}/about">About Us</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/team">Our Team</a>
-                    </div>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownAbout"
+                        style="border: 1px solid #eceeef; font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/about">About Us</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/team">Our Team</a></li>
+                    </ul>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLearn" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
                         Learn
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
-                        <!--                       <a class="dropdown-item" href="{{ site.baseurl }}/summer2022">Summer 2022 Courses</a> (not yet) -->
-                        <a class="dropdown-item" href="{{ site.baseurl }}/courses">Course Catalog</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/calender">Course Calender</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/webinars">Webinars</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/mathvideos">Educational Math Videos</a>
-
-                    </div>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownLearn"
+                        style="border: 1px solid #eceeef; font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/courses">Course Catalog</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/calender">Course Calendar</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/webinars">Webinars</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/mathvideos">Educational Math Videos</a>
+                        </li>
+                    </ul>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        VOLUNTEER
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownVolunteer" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        Volunteer
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
-                        <a class="dropdown-item" href="{{ site.baseurl }}/volunteer">Volunteer Now</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/join">Join Us</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="https://forms.gle/MmooFoCMouxV656x7">Log Hours</a>
-                    </div>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownVolunteer"
+                        style="border: 1px solid #eceeef; font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/volunteer">Volunteer Now</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/join">Join Us</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="https://forms.gle/MmooFoCMouxV656x7">Log Hours</a></li>
+                    </ul>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownCompete" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
                         Compete
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
-                        <a class="dropdown-item" href="{{ site.baseurl }}/fame">Hall of Fame</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/hackathons">Hackathon Showcase</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/competition">Competitive Programming</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/usaco">USACO</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/cyberpatriot">CyberPatriot</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/acsl">ACSL</a>
-                    </div>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownCompete"
+                        style="border: 1px solid #eceeef; font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/fame">Hall of Fame</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/hackathons">Hackathon Showcase</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/competition">Competitive Programming</a>
+                        </li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/usaco">USACO</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/cyberpatriot">CyberPatriot</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/acsl">ACSL</a></li>
+                    </ul>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/newsletter/2021/november" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                       Newsletter
+                    <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/newsletter/2021/november"
+                        id="navbarDropdownNewsletter" role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        Newsletter
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
-                       <a class="dropdown-item" href="{{ site.baseurl }}/newsletter/2021/november">November 2021</a>
-                       <a class="dropdown-item" href="{{ site.baseurl }}/newsletter/2021/july">July 2021</a>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/newsletter/archives">Archives</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="{{ site.baseurl }}/subscribe"><b>Subscribe</b></a>
-                    </div>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownNewsletter"
+                        style="border: 1px solid #eceeef; font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/newsletter/2021/november">November
+                                2021</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/newsletter/2021/july">July 2021</a></li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/newsletter/archives">Archives</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="{{ site.baseurl }}/subscribe"><b>Subscribe</b></a></li>
+                    </ul>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link btn btn-secondary" href="javascript:donateOpen();">Donate</a>
+                    <a class="nav-link btn btn-secondary" href="javascript:donateOpen();"
+                        style="font-family: Rubik, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;">Donate</a>
                 </li>
 
             </ul>
@@ -96,27 +124,25 @@
 
         </div>
     </div>
-</header>
+</nav>
 
-
-    <div class="modal" tabindex="-1" role="dialog" id="donate" style="background-color: #33333377;">
-        <div class="modal-dialog" role="document" style="margin:50px auto;">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title"></h5>
-                    <button type="button" onclick="donateClose();" class="close" data-dismiss="modal" aria-label="Close" style="outline:0">
-                        <span aria-hidden="true">×</span>
-                    </button>
-                </div>
-                <div class="modal-body" style="padding: 0px;height: calc(100vh - 174px);">
-                    <iframe src="https://bank.hackclub.com/donations/start/irvine-coding-club" style="
-                      width: 100%;
-                      box-sizing: content-box;
-                      border: 0px;
-                      border-radius: 0px 0px .3rem .3rem;
-                      height: 100%;
-                    "></iframe>
-               </div>
-           </div>
-      </div>
-  </div>
+<div class="modal" tabindex="-1" role="dialog" id="donate" style="background-color: #33333377;">
+    <div class="modal-dialog" role="document" style="margin:50px auto;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" onclick="donateClose();" class="btn-close" data-bs-dismiss="modal"
+                    aria-label="Close" style="outline:0"></button>
+            </div>
+            <div class="modal-body" style="padding: 0px;height: calc(100vh - 174px);">
+                <iframe src="https://bank.hackclub.com/donations/start/irvine-coding-club" style="
+                  width: 100%;
+                  box-sizing: content-box;
+                  border: 0px;
+                  border-radius: 0px 0px .3rem .3rem;
+                  height: 100%;
+                "></iframe>
+            </div>
+        </div>
+    </div>
+</div>

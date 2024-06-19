@@ -134,7 +134,7 @@ section.recent-posts {
 	border-right: 1px solid #eee
 }
 
-.navbar-toggleable-md .navbar-nav .nav-link {
+.navbar-expand-md .navbar-nav .nav-link {
 	margin-left: 1rem;
 	font-weight: 500;
 	color: #333;
@@ -143,7 +143,7 @@ section.recent-posts {
 	font-size: .94em
 }
 
-.navbar-toggleable-md .navbar-nav .nav-link.highlight {
+.navbar-expand-md .navbar-nav .nav-link.highlight {
 	background: #6fd350;
 	color: #fff;
 	border-radius: 4px;
@@ -156,7 +156,7 @@ section.recent-posts {
 	z-index: 9999
 }
 
-.navbar-toggleable-md .navbar-nav .nav-link {
+.navbar-expand-md .navbar-nav .nav-link {
 	margin-left: 1rem;
 	font-weight: 500;
 	color: #333;
@@ -1121,7 +1121,7 @@ iframe {
 }
 
 @media (max-width:991px) {
-	.navbar-toggleable-md .navbar-nav .nav-link {
+	.navbar-expand-md .navbar-nav .nav-link {
 		margin-left: 0;
 		margin-top: 10px
 	}
