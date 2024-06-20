@@ -26,7 +26,7 @@ desc: "Learn the basics of public speaking and argumentation!"
 
 # Course Description
 
-In this course, students will learn the basics of public speaking and argumentation. Through this introduction to public forum debate, students will participate in speaking drills and practice rounds to become better debaters.
+In Introduction to Debate, students will explore the process of creating strong arguments and learn the speaking skills necessary in presenting their points. With the beginner-tailored Public Forum debate format, students will learn through experience: engaging in games, speaking drills, and practice debates with peers.
 
 # Who Is This Course For?
 
