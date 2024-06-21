@@ -64,11 +64,17 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
 .ad-text {
   padding-top: 0.75vw;
   font-size: 1.25vw;
-  text-decoration: none;
 }
 .ad-text > a {
   text-decoration: none;
 }
+.ad-text-mobile {
+  padding-top: 1vw;
+}
+.ad-text-mobile > a {
+  text-decoration: none;
+}
+
 .advertisements-mobile {
   visibility: hidden;
   position: absolute;
@@ -89,7 +95,7 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   padding-top: 2vw;
   padding-left: 2vw;
   padding-right: 2vw;
-  font-size: 2vw;
+  font-size: 1.9vw;
 }
 .ad-text-mobile {
   font-size: 2.5vw;
