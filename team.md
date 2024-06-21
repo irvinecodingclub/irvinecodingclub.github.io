@@ -66,13 +66,13 @@ comments: false
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/dominichuang.png" alt="Person">
               <div class="p-name">Dominic Huang</div>
-              <div class="p-des">Board</div>
+              <div class="p-des">Director, Operations</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/chenyuezhou.png" alt="Person">
               <div class="p-name">Chenyue Zhou</div>
-              <div class="p-des">Board</div>
+              <div class="p-des">Director, Operations</div>
             </div>
         </div>
     </div>
