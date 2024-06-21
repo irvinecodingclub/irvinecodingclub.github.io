@@ -2,8 +2,8 @@
 layout: course
 name: "Early American (US) History"
 level: "Beginner-Intermediate"
-image: assets/images/thumbnails/us-history.png
-image2: assets/images/thumbnails/us-history.png
+image: assets/images/thumbnails/course/us-history.png
+image2: assets/images/thumbnails/course/us-history.png
 start_date: "July 9"
 desc: "Learn early US History, from European colonization all the way to the Civil War!"
 ---

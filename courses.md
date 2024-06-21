@@ -10,6 +10,9 @@ comments: false
     
     <div class="row listfeaturedtag">
 
+        <div>
+            <h4>Enroll in ICC Courses <a href="{{ site.baseurl }}/enroll">here</a>!</h4>
+        </div>
         {% for course in site.courses %}
 
             {% if course.path contains '2024' %}

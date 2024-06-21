@@ -2,8 +2,8 @@
 layout: course
 name: "Introduction To Artifical Intelligence"
 level: "Beginner-Intermediate"
-image: assets/images/thumbnails/intro-to-ai.png
-image2: assets/images/thumbnails/intro-to-ai.png
+image: assets/images/thumbnails/course/intro-to-ai.png
+image2: assets/images/thumbnails/course/intro-to-ai.png
 start_date: "July 13"
 desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to grasp way!"
 ---

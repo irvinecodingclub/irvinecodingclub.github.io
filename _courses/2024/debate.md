@@ -2,8 +2,8 @@
 layout: course
 name: "Introduction to Debate"
 level: "Beginner"
-image: assets/images/thumbnails/debate.png
-image2: assets/images/thumbnails/debate.png
+image: assets/images/thumbnails/course/debate.png
+image2: assets/images/thumbnails/course/debate.png
 start_date: "August 11"
 desc: "Learn the basics of public speaking and argumentation!"
 ---

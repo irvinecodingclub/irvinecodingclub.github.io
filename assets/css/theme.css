@@ -44,7 +44,7 @@ pre {
 }
 
 .site-content {
-	padding-top: 0 rem;
+	padding-top: 80px; /* padding because of navbar */
 	margin-top: 0;
 	transition: all .4s;
 
@@ -568,6 +568,11 @@ blockquote {
 	display: block;
 	margin-bottom: 2rem;
 	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, .1)
+}
+
+.enroll-code {
+	display: block;
+	width: 50%;
 }
 
 .article-post iframe,

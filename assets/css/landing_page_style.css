@@ -109,6 +109,10 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   }
 }
 
+.contact-code {
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, .1);
+}
+
 .carousel-inner img {
   margin: auto;
 }

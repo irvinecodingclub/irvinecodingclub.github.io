@@ -2,8 +2,8 @@
 layout: course
 name: "Introduction to Python Programming"
 level: "Beginner"
-image: assets/images/thumbnails/intro-python.png
-image2: assets/images/thumbnails/intro-python.png
+image: assets/images/thumbnails/course/intro-python.png
+image2: assets/images/thumbnails/course/intro-python.png
 start_date: "July 9"
 desc: "Learn early US History, from European colonization all the way to the Civil War!"
 ---
