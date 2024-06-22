@@ -46,11 +46,11 @@ This course runs for 5 weeks weekly, starting on Saturday, July 13, and ending o
 
 ### Class Times
 
-- Saturday, July 13, 9am
-- Saturday, July 20, 9am
-- Saturday, July 27, 9am
-- Saturday, August 3, 9am
-- Saturday, August 10, 9am
+- Saturday, July 13, 9-10am
+- Saturday, July 20, 9-10am
+- Saturday, July 27, 9-10am
+- Saturday, August 3, 9-10am
+- Saturday, August 10, 9-10am
 
 # Syllabus
 

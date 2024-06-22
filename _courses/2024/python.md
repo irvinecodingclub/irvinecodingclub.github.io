@@ -42,14 +42,14 @@ This course runs twice a week for 4 weeks, starting on Wednesday, June 26, and e
 
 ### Class Times
 
-- Wednesday, June 26, 3:30pm
-- Friday, June 28, 3:30pm
-- Wednesday, July 3, 3:30pm
-- Friday, July 5, 3:30pm
-- Wednesday, July 10, 3:30pm
-- Friday, July 12, 3:30pm
-- Wednesday, July 17, 3:30pm
-- Friday, July 19, 3:30pm
+- Wednesday, June 26, 3:30-4:30pm
+- Friday, June 28, 3:30-4:30pm
+- Wednesday, July 3, 3:30-4:30pm
+- Friday, July 5, 3:30-4:30pm
+- Wednesday, July 10, 3:30-4:30pm
+- Friday, July 12, 3:30-4:30pm
+- Wednesday, July 17, 3:30-4:30pm
+- Friday, July 19, 3:30-4:30pm
 
 # Syllabus
 

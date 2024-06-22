@@ -43,10 +43,10 @@ This course runs for 4 weeks weekly, starting on Tuesday, July 9, and ending on 
 
 ### Class Times
 
-- Tuesday, July 9, 6pm
-- Tuesday, July 16, 6pm
-- Tuesday, July 23, 6pm
-- Tuesday, July 30, 6pm
+- Tuesday, July 9, 6-7pm
+- Tuesday, July 16, 6-7pm
+- Tuesday, July 23, 6-7pm
+- Tuesday, July 30, 6-7pm
 
 # Syllabus
 
