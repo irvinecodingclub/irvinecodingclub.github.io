@@ -28,7 +28,7 @@ desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to gras
 
 # Course Description
 
-Even with prior programming experience, it may seem daunting to branch out into the field of artificial intelligence. This course introduces and thoroughly explains these concepts in a completely beginner-friendly fashion without wasting time, via a programmatic pseudo-code approach. The course covers many applications of AI, from search algorithms, neural networks, and more!
+Even with prior programming experience, it may seem daunting to branch out into the field of artificial intelligence. This course introduces and thoroughly explains these concepts in a completely beginner-friendly fashion without wasting time, via both a visual and programmatic approach. The course covers many applications of AI, from search algorithms, neural networks, and more!
 
 # Who Is This Course For?
 
