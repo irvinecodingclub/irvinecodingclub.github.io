@@ -12,11 +12,13 @@ desc: "Learn the basics of public speaking and argumentation!"
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Isabella Huang</td>
+            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -26,7 +28,7 @@ desc: "Learn the basics of public speaking and argumentation!"
 
 In Introduction to Debate, students will explore the process of creating strong arguments and learn the speaking skills necessary in presenting their points. With the beginner-tailored Public Forum debate format, students will learn through experience: engaging in games, speaking drills, and practice debates with peers.
 
-# Who Is This Course For?
+### Who Is This Course For?
 
 This course is best suited for 3-8th grade students looking to get into public speaking and debate. See course prerequisites for more information.
 

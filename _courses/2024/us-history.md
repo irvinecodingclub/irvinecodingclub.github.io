@@ -12,11 +12,13 @@ desc: "Learn early US History, from European colonization all the way to the Civ
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Jayden Kim</td>
+            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -34,7 +36,7 @@ Students are expected to keep up with course material. US History is **informati
 
 This course is best suited for 5th-10th grade students. See course prerequisites for more information.
 
-# Course Prerequisites
+### Course Prerequisites
 
 - Notebook, pen/paper
 - Basic knowledge of US history

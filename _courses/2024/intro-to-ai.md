@@ -5,7 +5,7 @@ level: "Beginner-Intermediate"
 image: assets/images/thumbnails/course/intro-to-ai.png
 image2: assets/images/thumbnails/course/intro-to-ai.png
 start_date: "July 13"
-desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to grasp way!"
+desc: "Learn fundamental concepts of Artificial Intelligence, in an interactive and easy-to-grasp way!"
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -13,12 +13,14 @@ desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to gras
         <tr>
             <th>Instructor</th>
             <th>Teacher Assistant</th>
+            <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Dominic Huang</td>
             <td>Chenyue Zhou</td>
+            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -32,7 +34,7 @@ Even with prior programming experience, it may seem daunting to branch out into 
 
 This course is best suited for 5th-10th grade students. It is targeted towards students with at least beginner-level coding profieincy. See course prerequisites for more information.
 
-# Course Prerequisites
+### Course Prerequisites
 
 - Prior coding experience is **strongly recommended**, preferably in Python
   - You should be able to read Python code. Although you do not need to know Python to learn the concepts from this course, demonstrations will be done in Python, which will not be covered in this course

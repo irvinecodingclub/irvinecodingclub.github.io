@@ -13,11 +13,13 @@ desc: "An introductory course to music theory and composition."
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Jayden Kim</td>
+            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -31,7 +33,7 @@ An introductory course to music theory teaching how to read sheet music and the 
 
 This course is best suited for 4th-8th grade students. See course prerequisites for more information.
 
-# Course Prerequisites
+### Course Prerequisites
 
 - None!
 

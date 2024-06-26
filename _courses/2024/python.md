@@ -12,11 +12,13 @@ desc: "Learn one of the most commonly used programming languages, useful in all 
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Sophia Dai</td>
+            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -30,7 +32,7 @@ To many, programming can seem daunting and difficult at first. This course aims 
 
 This course is for anyone interested in Python and computer science, though recommended for students in grades 3-8. No prior coding experience or knowledge is needed! See course prerequisites for more information.
 
-# Course Prerequisites
+### Course Prerequisites
 
 - A working device, such as a computer
   - The course will be very hands-on, meaning that we will be coding in class a lot
