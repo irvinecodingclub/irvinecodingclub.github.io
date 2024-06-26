@@ -12,13 +12,11 @@ desc: "Learn the basics of public speaking and argumentation!"
     <thead>
         <tr>
             <th>Instructor</th>
-            <th>Zoom ID</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Isabella Huang</td>
-            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -41,7 +39,7 @@ This course is best suited for 3-8th grade students looking to get into public s
 
 This course runs for 5 weeks weekly and is held the week of August 11 and end on August 18.
 
-### Class Times
+### Class Times (PST)
 
 - Sunday, August 11, 5-7pm
 - Monday, August 12, 5-7pm

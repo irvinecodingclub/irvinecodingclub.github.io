@@ -12,13 +12,11 @@ desc: "Learn one of the most commonly used programming languages, useful in all 
     <thead>
         <tr>
             <th>Instructor</th>
-            <th>Zoom ID</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Sophia Dai</td>
-            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -41,7 +39,7 @@ This course is for anyone interested in Python and computer science, though reco
 
 This course runs twice a week for 4 weeks, starting on Wednesday, June 26, and ending on Friday, July 19. Classes are held online from 3:30-4:30pm via Zoom.
 
-### Class Times
+### Class Times (PST)
 
 - Wednesday, June 26, 3:30-4:30pm
 - Friday, June 28, 3:30-4:30pm

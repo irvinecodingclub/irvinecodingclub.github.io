@@ -13,14 +13,12 @@ desc: "Learn fundamental concepts of Artificial Intelligence, in an easy to gras
         <tr>
             <th>Instructor</th>
             <th>Teacher Assistant</th>
-            <th>Zoom ID</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Dominic Huang</td>
             <td>Chenyue Zhou</td>
-            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -38,13 +36,12 @@ This course is best suited for 5th-10th grade students. It is targeted towards s
 
 - Prior coding experience is **strongly recommended**, preferably in Python
   - You should be able to read Python code. Although you do not need to know Python to learn the concepts from this course, demonstrations will be done in Python, which will not be covered in this course
-- A Google account for Google Colaboratory
 
 # Course Dates
 
 This course runs for 5 weeks weekly, starting on Saturday, July 13, and ending on Saturday, August 10. Classes are held online from 9-10am via Zoom.
 
-### Class Times
+### Class Times (PST)
 
 - Saturday, July 13, 9-10am
 - Saturday, July 20, 9-10am

@@ -13,13 +13,11 @@ desc: "An introductory course to music theory and composition."
     <thead>
         <tr>
             <th>Instructor</th>
-            <th>Zoom ID</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Jayden Kim</td>
-            <td>TBA</td>
         </tr>
     </tbody>
 </table>
@@ -41,7 +39,7 @@ This course is best suited for 4th-8th grade students. See course prerequisites 
 
 This course runs for 4 weeks weekly, starting on Tuesday, July 9, and ending on Tuesday, July 30. Classes are held online from 6-7pm via Zoom.
 
-### Class Times
+### Class Times (PST)
 
 - Tuesday, July 9, 6-7pm
 - Tuesday, July 16, 6-7pm
