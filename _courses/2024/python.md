@@ -12,13 +12,15 @@ desc: "Learn one of the most commonly used programming languages, useful in all 
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Teacher Assistant</th>
             <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Sophia Dai</td>
-            <td>TBA</td>
+            <td>Agam Randhawa</td>
+            <td>ttvgd6l</td>
         </tr>
     </tbody>
 </table>

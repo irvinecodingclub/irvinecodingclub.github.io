@@ -12,12 +12,14 @@ desc: "Learn early US History, from European colonization all the way to the Civ
     <thead>
         <tr>
             <th>Instructor</th>
+            <th>Teacher Assistant</th>
             <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Jayden Kim</td>
+            <td>Cameron Weng</td>
             <td>TBA</td>
         </tr>
     </tbody>
@@ -54,4 +56,22 @@ This course runs for 4 weeks weekly, starting on Monday, July 8, and ending on M
 
 # Syllabus
 
-TBA
+### Lesson 1:
+
+This lesson will cover the origins of European exploration in the Americas, explaining the primary motivations for discovery and expansion as well as means of transportation and exploration.
+
+### Lesson 2:
+
+This lesson follows early American settlements and the development of technology and culture in the United States. We will cover the relationship between America, Europe, and Africa during the Trans-Atlantic Slave Trade, as well as compare and contrast the North American Settlements to the Spanish Settlements.
+
+### Lesson 3:
+
+Students will learn about the factors that led to the American Revolution, as well as how Americans won the war against Great Britain to claim independence.
+
+### Lesson 4:
+
+Students will learn about the events following the American Revolution, from the early struggles of governing a new nation to the crafting of the Constitution.
+
+### Lesson 5:
+
+This final lesson about the American Civil War covers its causes and effects, as well as the impact of African American activists towards the Emancipation Proclamation and the freeing of slaves. 
