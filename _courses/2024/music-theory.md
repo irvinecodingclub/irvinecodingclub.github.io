@@ -4,7 +4,7 @@ name: "Introduction to Music Theory"
 level: "Beginner"
 image: assets/images/thumbnails/course/music-theory.png
 image2: assets/images/thumbnails/course/music-theory.png
-start_date: "TBA"
+start_date: "July 9"
 desc: "An introductory course to music theory and composition."
 ---
 

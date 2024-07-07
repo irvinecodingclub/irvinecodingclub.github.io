@@ -4,7 +4,7 @@ name: "Early American (US) History"
 level: "Intermediate-Advanced"
 image: assets/images/thumbnails/course/us-history.png
 image2: assets/images/thumbnails/course/us-history.png
-start_date: "July 9"
+start_date: "July 8"
 desc: "Learn early US History, from European colonization all the way to the Civil War!"
 ---
 <link rel="stylesheet" href="assets/css/table.css">

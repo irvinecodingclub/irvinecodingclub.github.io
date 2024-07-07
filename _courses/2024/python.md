@@ -4,7 +4,7 @@ name: "Introduction to Python Programming"
 level: "Beginner + Intermediate"
 image: assets/images/thumbnails/course/intro-python.png
 image2: assets/images/thumbnails/course/intro-python.png
-start_date: "July 9"
+start_date: "June 26"
 desc: "Learn one of the most commonly used programming languages, useful in all levels!"
 ---
 <link rel="stylesheet" href="assets/css/table.css">
