@@ -1,6 +1,6 @@
 ---
 layout: course
-name: "Introduction To Artifical Intelligence"
+name: "Introduction To Artificial Intelligence"
 level: "Beginner-Intermediate"
 image: assets/images/thumbnails/course/intro-to-ai.png
 image2: assets/images/thumbnails/course/intro-to-ai.png
