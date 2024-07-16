@@ -20,7 +20,7 @@ desc: "Learn fundamental concepts of Artificial Intelligence, in an interactive 
         <tr>
             <td>Dominic Huang</td>
             <td>Chenyue Zhou</td>
-            <td>TBA</td>
+            <td>zoxemw4</td>
         </tr>
     </tbody>
 </table>

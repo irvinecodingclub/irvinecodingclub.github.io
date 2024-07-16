@@ -20,7 +20,7 @@ desc: "Learn early US History, from European colonization all the way to the Civ
         <tr>
             <td>Jayden Kim</td>
             <td>Cameron Weng</td>
-            <td>TBA</td>
+            <td>i3cmytr</td>
         </tr>
     </tbody>
 </table>
@@ -74,4 +74,4 @@ Students will learn about the events following the American Revolution, from the
 
 ### Lesson 5:
 
-This final lesson about the American Civil War covers its causes and effects, as well as the impact of African American activists towards the Emancipation Proclamation and the freeing of slaves. 
+This final lesson about the American Civil War covers its causes and effects, as well as the impact of African American activists towards the Emancipation Proclamation and the freeing of slaves.
