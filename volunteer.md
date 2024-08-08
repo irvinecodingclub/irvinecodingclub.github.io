@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Join / Volunteer
+title: About Volunteering
 comments: false
 ---
 ![](assets/images/volunteer.png)
 
-# What is the Inspire Coding Club?
+# Our Mission
 
-Inspire Coding Club (ICC) is a 503(c) non-profit organization run by students, for students. The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
+The Inspire Coding Club (ICC) is a 501(c)(3) non-profit organization run by students. It is a note to our past selves; our ultimate goal is to increase educational opportunities through the offering of classes of which we never had the opportunities to take. In this way, the ICC reflects upon its volunteers and their individual experiences as each course is led with strong passion through effective altruism. Although we started out with a primary focus on STEM, our catalogue has since branched out much further, having included topics such as animation, debate, music, and more!
+
+The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
 ### How to Join
 
@@ -16,34 +18,34 @@ Join our [Discord Server]({{ site.baseurl }}/join) and verify to join! Form team
 
 # Ways to contribute!
 
-#### Become a Teacher
+#### Become a Lecturer
 
-ICC teachers lead the online classes now and in the future, will give courses at our various branches. Teachers will also actively participate in writing class materials. Teachers can create courses out of any STEAM topic and get them approved or work with other teachers to further the material of existing classes.
+ICC lecturers lead our classes. Lecturers will also actively participate in writing class materials. Lecturers can create courses out of any approved topic or work with other lecturers to further the material of existing classes.
 
 #### Become a Teacher Assistant
 
-Anyone is welcome to help our students in courses, answer students&#39; problems, and help with discussion sessions in breakout rooms. No experience with the subject is generally needed unless specifically stated, and long/short term opportunities exist. This is one of the best ways to get volunteer hours, get to know lecturers, and possibly learn some lecture material along the way.
+Anyone is welcome to help our students in courses, answer students&#39; questions, and/or help with discussion sessions in breakout rooms. Little to no experience with the subject is generally required unless specifically stated and both long/short term opportunities exist. This is one of the best ways to get volunteer hours, get to know lecturers, and possibly learn some new material along the way!
 
-#### Become a Shelter Volunteer
+<!-- #### Become a Shelter Volunteer
 
-The Inspire Coding Club is proud to proclaim that we have partnered with at-risk and homeless shelters to provide our material to those who may be deprived of such an opportunity otherwise. No coding experience is needed, and managing students/troubleshooting with them is the largest part of the opportunity.
+The Inspire Coding Club is proud to proclaim that we have partnered with at-risk and homeless shelters to provide our material to those who may be deprived of such an opportunity otherwise. No coding experience is needed, and managing students/troubleshooting with them is the largest part of the opportunity. -->
 
 #### Apply as a Branch Director
 
-If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools), you are welcome (and encouraged) to apply to be an ICC branch director for your school (or your community). Message us on [Discord]({{ site.baseurl }}/join) for more details.
+If you are passionate about coordinating/teaching academic subjects to students at your school (or former schools) and are interested in doing so, you are welcome (and encouraged) to apply to be an [ICC branch]({{ site.baseurl }}/branches) director for your school (or your community). Message us on [Discord]({{ site.baseurl }}/join) for more details.
 
 #### Just Hang Out!
 
-Cultivate a passion to code and talk to others interested in the same subject! Our ultimate goal is to instill a sense of enthusiasm among students for coding, and empower them to have one if they lack the means to do so already. For this reason, joining our [Discord server](https://inspirecoding.org/join) and discussing STEAM topics with fellow members is highly encouraged.
+Cultivate your passions and talk to others with similar interests! Our ultimate goal is to instill a sense of enthusiasm among students and empower them to have one if they don't already.
 
 
 # PVSA Awards
 
-ICC is open to all student volunteers, come to ICC and volunteer now. Your service hours can be accumulated for winning a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/). To apply for a specific role, email <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> or message us on Discord.
+ICC is open to all student volunteers! Your service hours may accumulate into earning a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/).
 
 ![](assets/images/pvsa-logo.png)
 
-#### Hours Required to Earn Presidential Volunteer Service Awards By Age Group
+#### PVSA Required Hours
 
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -80,3 +82,7 @@ ICC is open to all student volunteers, come to ICC and volunteer now. Your servi
     </tr>
   </tbody>
 </table>
+
+# Ready to Join?
+
+Head over to [Join]({{ site.baseurl }}/join) to learn more!

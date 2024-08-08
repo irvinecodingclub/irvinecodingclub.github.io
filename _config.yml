@@ -53,3 +53,5 @@ highlighter: rouge
 collections:
   courses:
     output: true
+  branches:
+    output: true
