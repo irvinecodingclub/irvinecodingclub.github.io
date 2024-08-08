@@ -18,7 +18,7 @@ desc: "Learn the basics of public speaking and argumentation!"
     <tbody>
         <tr>
             <td>Isabella Huang</td>
-            <td>TBA</td>
+            <td>iurat2i</td>
         </tr>
     </tbody>
 </table>
