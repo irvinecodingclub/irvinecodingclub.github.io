@@ -5,10 +5,10 @@ permalink: /join
 ---
 
 The Inspire Coding Club is currently accepting volunteering for 
+ - Teaching courses
  - TAing for courses
- - Creating new courses/workshops/tournaments
- - Fundraisers (virtual and in-person)
- - Upgrading the website/adding new features
+ - Creating new courses
+ - Anything else your passion can lead you in!
 
 **Joining the ICC is simple: all you have to do is join the Discord server! Upon member verification, you will be considered a member of the ICC.**
 
@@ -21,7 +21,7 @@ Alternatively, join through the QR code below!
 <img class="enroll-code" src="{{ site.baseurl }}/assets/images/discord_code.png" alt="QR Code">
 
 #### Note: The member registration for the ICC (volunteers) is for students who are incoming 6th grade or above.
-If you are younger, you can still enroll in courses (and we recommend you do so!) but would advise against joining as a member until you're a bit older. We apologize for the inconvenience. However, if you still want to join, shoot us an email at <a href="mailto:theinspirecodingclub@gmail.com">theinspirecodingclub@gmail.com</a> and we'll get back to you!
+If you are younger, you can still enroll in courses (and we recommend you do so!) but would advise against joining as a member until you're a bit older. We apologize for the inconvenience- however, if you still want to join, shoot us an email at <a href="mailto:theinspirecodingclub@gmail.com">theinspirecodingclub@gmail.com</a> and we'll get back to you!
 
 <br />
 

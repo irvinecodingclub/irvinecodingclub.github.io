@@ -11,11 +11,6 @@ The Inspire Coding Club (ICC) is a 501(c)(3) non-profit organization run by stud
 
 The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
 
-### How to Join
-
-Join our [Discord Server]({{ site.baseurl }}/join) and verify to join! Form teams for competitions and hackathons or teach courses!
-
-
 # Ways to contribute!
 
 #### Become a Lecturer
@@ -37,7 +32,6 @@ If you are passionate about coordinating/teaching academic subjects to students 
 #### Just Hang Out!
 
 Cultivate your passions and talk to others with similar interests! Our ultimate goal is to instill a sense of enthusiasm among students and empower them to have one if they don't already.
-
 
 # PVSA Awards
 
