@@ -47,7 +47,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
                         <div class="col-3">
                             <div class="single-counter counter-color-2 d-flex align-items-center justify-content-center">
                                 <div class="counter-items text-center">
-                                    <span class="count"><span class="counter">790</span></span>
+                                    <span class="count"><span class="counter">800</span></span>
                                     <p class="text">Students Served</p>
                                 </div>
                             </div> <!-- single counter -->
@@ -55,7 +55,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
                         <div class="col-3">
                             <div class="single-counter counter-color-3 d-flex align-items-center justify-content-center">
                                 <div class="counter-items text-center">
-                                    <span class="count"><span class="counter">39</span></span>
+                                    <span class="count"><span class="counter">40</span></span>
                                     <p class="text">Volunteers</p>
                                 </div>
                             </div> <!-- single counter -->
@@ -152,7 +152,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
       <div class="desc">ICC launched workshops at Orange County Rescue Mission (OCRM)</div>
     </div>
   </li>
-	
+
       <!-- Item 8 -->
   <li>
     <div class="direction-l">
@@ -164,7 +164,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
     </div>
   </li>
 
-	
+
       <!-- Item 9 -->
   <li>
     <div class="direction-r">

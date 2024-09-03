@@ -131,7 +131,7 @@ image: assets/images/favicon.png
                                 <div
                                     class="single-counter counter-color-2 d-flex align-items-center justify-content-center">
                                     <div class="counter-items text-center">
-                                        <span class="count"><span class="counter">790</span></span>
+                                        <span class="count"><span class="counter">800</span></span>
                                         <p class="text">Students Served</p>
                                     </div>
                                 </div> <!-- single counter -->
@@ -140,7 +140,7 @@ image: assets/images/favicon.png
                                 <div
                                     class="single-counter counter-color-3 d-flex align-items-center justify-content-center">
                                     <div class="counter-items text-center">
-                                        <span class="count"><span class="counter">39</span></span>
+                                        <span class="count"><span class="counter">40</span></span>
                                         <p class="text">Volunteers</p>
                                     </div>
                                 </div> <!-- single counter -->
@@ -179,13 +179,13 @@ image: assets/images/favicon.png
             <h5>Join our Discord server!</h5>
         </div>
         <div class="col sidebar">
-        
+
             <div class="sidebar-section">
                 <h5><span>A PVSA Certifying Organization</span></h5>
                 <center><a href="/volunteer">
                         <img src="/assets/images/pvsa-logo.png" style="height:10vw;" alt="PVSA" /></a></center>
             </div>
-        
+
         </div>
     </div>
 </section>
@@ -199,9 +199,9 @@ image: assets/images/favicon.png
     <div class="section-title">
         <h2><span>NEWS</span></h2>
     </div>
-    
+
     <div class="row listfeaturedtag">
-        
+
         <div id="carouselExampleIndicators" class="carousel carousel-dark slide h-200">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
@@ -215,17 +215,17 @@ image: assets/images/favicon.png
                             {% assign featuredCount = 0 %}
                             {% for post in site.posts %}
                                 {% if post.featured == true %}
-                    
+
                                     {% assign featuredCount = featuredCount | plus:1 %}
 
                                     <div class="col">
-                        
+
                                         {% include featuredbox.html %}
 
                                     </div>
-                        
+
                                     {% if featuredCount == 2 %}{% break %}{% endif %}
-                    
+
                                 {% endif %}
                             {% endfor %}
                     </div>
@@ -235,17 +235,17 @@ image: assets/images/favicon.png
                         {% assign count = 0 %}
                         {% for post in site.posts %}
                         {% if post.featured == false %}
-            
+
                         {% assign count = count | plus:1 %}
 
                         <div class="col">
-            
+
                             {% include featuredbox.html %}
 
                         </div>
-            
+
                         {% if count == 2 %}{% break %}{% endif %}
-            
+
                         {% endif %}
                         {% endfor %}
                     </div>
