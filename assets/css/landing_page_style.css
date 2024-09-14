@@ -1,6 +1,14 @@
 /*==========================
-         CUSTOM CSS
+         VIDEO COUNTER
 ===========================*/
+.col-3 {
+  scale: .9;
+}
+
+.counter-wrapper .single-counter {
+  width: 140px;
+  padding: 12px;
+}
 a[href="/volunteer"] { /* remove annoying underlines for the volunteer counter buttons */
   text-decoration: none;
 }

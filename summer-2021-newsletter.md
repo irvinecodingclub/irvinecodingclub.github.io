@@ -1,5 +1,5 @@
 ---
-layout: raw
+layout: default
 title: Summer 2021 Newsletter - Edition 1
 permalink: /newsletter/2021/summer
 ---

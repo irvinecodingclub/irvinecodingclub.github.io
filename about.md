@@ -4,6 +4,40 @@ title: About
 comments: false
 ---
 
+<!-- VIDEO COUNTER CSS -->
+
+<style> 
+  .col-3 {
+        scale: .9;
+    }
+
+    .counter-wrapper .single-counter {
+        width: 140px;
+        padding: 12px;
+    }
+  a[href="/volunteer"] { /* remove annoying underlines for the volunteer counter buttons */
+  text-decoration: none;
+}
+
+div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
+  text-decoration: none;
+}
+
+.wrapintro { /* make the text have a little more contrast while keeping still and composed */
+  background: #fff6;
+  width: 700px;
+  border-radius: 20px;
+}
+
+.line {
+  background: -webkit-linear-gradient(#fe8464 0%, #fe6e9a 100%);
+  background: -o-linear-gradient(#fe8464 0%, #fe6e9a 100%);
+  background: linear-gradient(#fe8464 0%, #fe6e9a 100%);
+  width: 150px;
+  height: 5px;
+  margin-bottom: 10px !important; }
+</style>
+
 <h3><i>"We are the movement of students building the classes we wish we could take."</i></h3>
 <h5><a href="https://github.com/hackclub">- hackclub.com</a></h5>
 
@@ -93,7 +127,7 @@ In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho Sa
 				<span class="flag">Non-profit Organization</span>
 				<span class="time-wrapper"><span class="time">Apr, 2021</span></span>
 			</div>
-			<div class="desc">ICC became a 503(c)(3) non profit organization.</div>
+			<div class="desc">ICC became a 501(c)(3) non profit organization.</div>
 		</div>
 	</li>
 
@@ -191,7 +225,7 @@ Our members come from many different schools in southern California.
 * Villa Park High School
 * Many More!
 
-If you are a 6th grade or above who wants to learn together with our club members,
+If you are a 6th grader or above who wants to learn together with our club members,
 or if you want to share with our community by providing online courses,
 come and join ICC by filling out [this form](https://forms.gle/Ky4S6YLkkursGyZn6) and join our [Discord server]({{ site.baseurl }}/join).   
 Send an email to <a href="mailto:irvinecodingclub@gmail.com">irvinecodingclub@gmail.com</a> if you didn't get back from us.

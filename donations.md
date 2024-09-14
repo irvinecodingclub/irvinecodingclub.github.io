@@ -1,5 +1,5 @@
 ---
-layout: raw
+layout: default
 title: Donations
 permalink: /donations
 ---

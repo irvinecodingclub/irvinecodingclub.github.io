@@ -1,5 +1,5 @@
 ---
-layout: raw
+layout: default
 title: November 2021 Newsletter
 permalink: /newsletter/2021/november
 ---
