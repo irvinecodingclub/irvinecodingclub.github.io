@@ -4,7 +4,7 @@
 
 body {
 	font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
-	overflow-x: hidden
+	overflow-x: hidden;
 }
 
 .mainheading {
@@ -443,9 +443,11 @@ span.post-read-more a:hover {
 	color: #999;
 	background-color: #171e27;
 	height: 62px;
+	
 }
-.footer-spacer {
-	height: 60px;
+/* fix footer */
+.main-content{ 
+	min-height: calc(100vh - 106px);
 }
 
 .footersocial i {
