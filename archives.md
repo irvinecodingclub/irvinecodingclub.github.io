@@ -1,10 +1,12 @@
 ---
 title: Newsletter Archives
-permalink: /newsletter/archives
+layout: page
+permalink: /archives
 ---
 
-<h3>ICC Newsletter Archives</h3>
-<p>Storing historical ICC newsletters. Please <a href="https://forms.gle/YdUfsX5CLRmi2n436">subscribe</a>!</p>
+<p>Storing historical ICC newsletters. <a href="{{ site.baseurl }}/subscribe">Subscribe</a> to our mailing list to recieve newsletters!</p>
 
 <h4>2021</h4>
- - <a href="{{ site.baseurl }}/newsletter/2021/summer">Summer 2021</a>
+- <a href="{{ site.baseurl }}/newsletter/2021/summer">Summer 2021</a>
+- <a href="{{ site.baseurl }}/newsletter/2021/july">July 2021</a>
+- <a href="{{ site.baseurl }}/newsletter/2021/november">November 2021</a>
