@@ -443,11 +443,11 @@ span.post-read-more a:hover {
 	color: #999;
 	background-color: #171e27;
 	height: 62px;
-	
+	margin-top: 60px
 }
 /* fix footer */
 .main-content{ 
-	min-height: calc(100vh - 106px);
+	min-height: calc(100vh - 142px);
 }
 
 .footersocial i {
