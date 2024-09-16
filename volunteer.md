@@ -9,7 +9,7 @@ comments: false
 
 The Inspire Coding Club (ICC) is a 501(c)(3) non-profit organization run by students. It is a note to our past selves; our ultimate goal is to increase educational opportunities through the offering of classes of which we never had the opportunities to take. In this way, the ICC reflects upon its volunteers and their individual experiences as each course is led with strong passion through effective altruism. Although we started out with a primary focus on STEM, our catalogue has since branched out much further, having included topics such as animation, debate, music, and more!
 
-The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) Certifying Organization.
+The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) (PVSA) Certifying Organization.
 
 # Ways to contribute!
 
