@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "ICC is Now at University High School!"
-image: assets/images/thumbnails/post/uhs_interest_2024.jpg
-image2: assets/images/thumbnails/post/uhs_interest_2024.jpg
+image: assets/images/thumbnails/post/uhs_interest_2024.png
+image2: assets/images/thumbnails/post/uhs_interest_2024.png
 permalink: /uhs-interest2024
 featured: true
 comments: false
