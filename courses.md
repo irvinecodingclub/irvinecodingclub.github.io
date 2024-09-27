@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2024 Course Catalog
+title: Summer 2024 Course Catalog
 comments: false
 ---
 
