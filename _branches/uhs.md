@@ -12,7 +12,7 @@ image: assets/images/thumbnails/branch/uhs.png
 
 # Email List Signup
 
-This is the signup form for UHS ICC's specific email list! Sign up if you are a member of the club and/or are interested in receiving updates related to UHS ICC!
+This is the signup form for UHS ICC's specific email list! Sign up if you are a member of the club and/or are interested in receiving updates related to UHS ICC! **Note: Make sure to check your inbox for a confirmation email. Sometimes, it may be sent to spam.**
 
 <form action="https://postal.hackclub.com/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">Name</label><br/>
