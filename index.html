@@ -19,35 +19,37 @@ image: assets/images/favicon.png
 </section>
 
 <section class="advertisements-container">
-    <div class="ad-box">
+    <div class="ad-box ad-pink">
         <img class="ad-dots" src="/assets/images/dots.svg" alt="dots">
         <h3>Enroll Today</h3>
         Enroll in 8 unique courses in the summer of 2024
         <br><br>
-        <h5 class="ad-text"><a href="{{ site.baseurl }}/courses">View Course Catalog</a></h5>
+
+        <!-- it's named ㅋ because apparently if i name it something normal it won't render and i have no idea why -->
+        <h5 class="ad-ㅋ"><a href="{{ site.baseurl }}/courses">View Course Catalog</a></h5>
     </div>
-    <div class="ad-box">
+    <div class="ad-box ad-green">
         <img class="ad-dots" src="/assets/images/dots.svg" alt="dots">
         <h3>Mailing List</h3>
         Get notified about course listings, volunteering opportunities, and more!
         <br>
-        <h5 class="ad-text"><a href="{{ site.baseurl }}/subscribe">Subscribe Now</a></h5>
+        <h5 class="ad-ㅋ"><a href="{{ site.baseurl }}/subscribe">Subscribe Now</a></h5>
     </div>
-    <div class="ad-box">
+    <div class="ad-box ad-blue">
         <img class="ad-dots" src="/assets/images/dots.svg" alt="dots">
         <h3>Teach With Us</h3>
         <br>
         Interested in volunteering?
         <br><br>
-        <h5 class="ad-text"><a href="{{ site.baseurl }}/volunteer">Read More</a></h5>
+        <h5 class="ad-ㅋ"><a href="{{ site.baseurl }}/volunteer">Read More</a></h5>
     </div>
-    <div class="ad-box">
+    <div class="ad-box ad-purple">
         <img class="ad-dots" src="/assets/images/dots.svg" alt="dots">
         <h3>Donate</h3>
         <br>
         Support the ICC
         <br><br>
-        <h5 class="ad-text"><a href="javascript:donateOpen();">Donate Here</a></h5>
+        <h5 class="ad-ㅋ"><a href="javascript:donateOpen();">Donate Here</a></h5>
     </div>
 </section>
 
@@ -80,7 +82,81 @@ image: assets/images/favicon.png
 
 <br>
 
-<!-- PLACEHOLDER CONDENSED NEWS SECTION (probably like 1 strip of most recent stuff) -->
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>NEWS</span></h2>
+    </div>
+
+    <div class="row listfeaturedtag">
+
+        <div id="carouselExampleIndicators" class="carousel carousel-dark slide h-200">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-label="Slide 1" aria-current="true"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2" class=""></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row" style="padding:0 7vw 0 7vw;">
+                        {% assign featuredCount = 0 %}
+                        {% for post in site.posts %}
+                        {% if post.featured == true %}
+
+                        {% assign featuredCount = featuredCount | plus:1 %}
+
+                        <div class="col">
+
+                            {% include featuredbox.html %}
+
+                        </div>
+
+                        {% if featuredCount == 2 %}{% break %}{% endif %}
+
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row" style="padding:0 7vw 0 7vw;">
+                        {% assign count = 0 %}
+                        {% for post in site.posts %}
+                        {% if post.featured == false %}
+
+                        {% assign count = count | plus:1 %}
+
+                        <div class="col">
+
+                            {% include featuredbox.html %}
+
+                        </div>
+
+                        {% if count == 2 %}{% break %}{% endif %}
+
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+
+</section>
+
+<br><br>
 
 <!--====== VIDEO COUNTER PART START ======-->
 <link rel="stylesheet" href="/assets/css/video_counter.css">
@@ -144,6 +220,7 @@ image: assets/images/favicon.png
 </section>
 
 <br><br>
+
 <!--====== VIDEO COUNTER PART ENDS ======-->
 
 <section class="featured-posts">
@@ -178,86 +255,13 @@ image: assets/images/favicon.png
 
         </div>
     </div>
-</section>
 
-<br><br>
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>NEWS</span></h2>
-    </div>
-
-    <div class="row listfeaturedtag">
-
-        <div id="carouselExampleIndicators" class="carousel carousel-dark slide h-200">
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
-                    aria-label="Slide 1" aria-current="true"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"
-                    class=""></button>
-            </div>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="row" style="padding:0 7vw 0 7vw;">
-                            {% assign featuredCount = 0 %}
-                            {% for post in site.posts %}
-                                {% if post.featured == true %}
-
-                                    {% assign featuredCount = featuredCount | plus:1 %}
-
-                                    <div class="col">
-
-                                        {% include featuredbox.html %}
-
-                                    </div>
-
-                                    {% if featuredCount == 2 %}{% break %}{% endif %}
-
-                                {% endif %}
-                            {% endfor %}
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="row" style="padding:0 7vw 0 7vw;">
-                        {% assign count = 0 %}
-                        {% for post in site.posts %}
-                        {% if post.featured == false %}
-
-                        {% assign count = count | plus:1 %}
-
-                        <div class="col">
-
-                            {% include featuredbox.html %}
-
-                        </div>
-
-                        {% if count == 2 %}{% break %}{% endif %}
-
-                        {% endif %}
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-    </div>
     <div class="col-sm-4">
         {% include sidebar.html %}
     </div>
-
 </section>
+
+
 
 <script>
     // fetch('https://my.inspirecoding.org/api/v1/public/hours').then(a => a.text()).then(hours => document.getElementById('hours').textContent = hours);

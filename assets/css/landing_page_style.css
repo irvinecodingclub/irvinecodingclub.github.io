@@ -17,10 +17,35 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   text-decoration: none;
 }
 
+.intro {
+  background-image: url(/assets/images/frontpage/python.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 10rem 0;
+  z-index: 1;
+  height: 700px;
+  position: relative
+}
+.intro h1 {
+  font-weight: 700
+}
+
+.intro h2 {
+  margin-top: 23rem;
+  margin-bottom: 2rem;
+  line-height: 1.6
+}
+
 .wrapintro { /* make the text have a little more contrast while keeping still and composed */
-  background: #fff6;
+  background: rgba(255, 255, 255, 0.6);
   width: 700px;
   border-radius: 20px;
+  width: 700px;
+  padding: 3rem;
+  max-width: 90%;
+  margin: 0 auto;
+  text-align: center
 }
 
 .line {
@@ -42,7 +67,7 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   justify-content: center; /* i figured out how to center a div */
 
   position: relative;
-  margin-top: -3vh;
+  margin-top: -6vh;
   z-index: 1;
 }
 .ad-dots {
@@ -56,7 +81,6 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
 }
 .ad-box {
   position: relative;
-  background: lightblue;
   border-radius: 20px;
   text-align: center;
   padding-top: 1vw;
@@ -66,14 +90,26 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
   font-size: 0.9vw;
   line-height: 1.35vw;
 }
+.ad-pink {
+  background: #ffc6ff;
+}
+.ad-green {
+  background: #caffbf;
+}
+.ad-blue {
+  background: #a0c4ff;
+}
+.ad-purple {
+  background: #bdb2ff;
+}
 .ad-box > h3 {
   font-size: 1.5vw;
 }
-.ad-text {
+.ad-ㅋ {
   padding-top: 0.75vw;
   font-size: 1.25vw;
 }
-.ad-text > a {
+.ad-ㅋ > a {
   text-decoration: none;
 }
 .ad-text-mobile {
