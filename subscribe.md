@@ -4,7 +4,7 @@ layout: page
 permalink: /subscribe
 ---
 
-Submit the form below to be signed up for our email list! This is where all information regarding the Inspire Coding Club will be sent. In addition, you may receive occasional newsletters showcasing the recent acheivements of the organization. **Note: Make sure to check your inbox for a confirmation email. Sometimes, it may be sent to spam.**
+Submit the form below to be signed up for our email list! This is where all information regarding the Inspire Coding Club will be sent. In addition, you may receive occasional newsletters showcasing the recent acheivements of the organization.
 
 <form action="https://postal.hackclub.com/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">Name</label><br/>
