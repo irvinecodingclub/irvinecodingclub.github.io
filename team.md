@@ -10,69 +10,27 @@ comments: false
     <div class="pers">
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/melodyimg.png" alt="Person">
-              <div class="p-name">Melody Yu</div>
-              <div class="p-des">President, Co-Founder</div>
-            </div>
-
-            <div class="pe">
-               <img src="{{ site.baseurl }}/assets/images/members/agtiger.png" alt="Person">
-              <div class="p-name">Agam Randhawa</div>
-              <div class="p-des">President, Co-Founder</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/pikachuwu.png" alt="Person">
-              <div class="p-name">Claire Wen</div>
-              <div class="p-des">Vice President of Operations</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/nethumsagara.png" alt="Person">
-              <div class="p-name">Nethum Sagara</div>
-              <div class="p-des">Vice President </div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/sopd.png" alt="Person">
-              <div class="p-name">Sophia Dai</div>
-              <div class="p-des">Secretary, Treasurer</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/kai.jpeg" alt="Person">
-              <div class="p-name">Kai Wang</div>
-              <div class="p-des">Director, Math Division</div>
+              <img src="{{ site.baseurl }}/assets/images/members/dominichuang.png" alt="Person">
+              <div class="p-name">Dominic Huang</div>
+              <div class="p-des">President</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/snowflake.png" alt="Person">
               <div class="p-name">Cameron Weng</div>
-              <div class="p-des">Director, Graphic Design</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/timothyc.png" alt="Person">
-              <div class="p-name">Timothy Chen</div>
-              <div class="p-des">Board</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/davidz.png" alt="Person">
-              <div class="p-name">David Zhang</div>
-              <div class="p-des">Board</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/dominichuang.png" alt="Person">
-              <div class="p-name">Dominic Huang</div>
-              <div class="p-des">Director, Operations</div>
+              <div class="p-des">President</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/chenyuezhou.png" alt="Person">
               <div class="p-name">Chenyue Zhou</div>
-              <div class="p-des">Director, Operations</div>
+              <div class="p-des">Vice President</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/members/timothyc.png" alt="Person">
+              <div class="p-name">Timothy Chen</div>
+              <div class="p-des">Treasurer</div>
             </div>
         </div>
   </div>
