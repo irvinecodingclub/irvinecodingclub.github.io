@@ -17,7 +17,7 @@ desc: "Learn one of the most commonly used programming languages, useful in all 
     </thead>
     <tbody>
         <tr>
-            <td>Sophia Dai</td>
+            <td>Andrei Saramukov</td>
             <td>kon5osh</td>
         </tr>
     </tbody>
