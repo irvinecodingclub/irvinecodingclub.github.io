@@ -4,7 +4,7 @@ name: "Introduction To Artificial Intelligence"
 level: "Beginner-Intermediate"
 image: assets/images/thumbnails/course/intro-to-ai.png
 image2: assets/images/thumbnails/course/intro-to-ai.png
-start_date: "December 23"
+start_date: "June 16"
 desc: "Learn fundamental concepts of Artificial Intelligence, in an interactive and easy-to-grasp way!"
 ---
 <link rel="stylesheet" href="assets/css/table.css">
@@ -12,15 +12,13 @@ desc: "Learn fundamental concepts of Artificial Intelligence, in an interactive 
     <thead>
         <tr>
             <th>Instructor</th>
-            <th>Teacher Assistant</th>
             <th>Google Classroom</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Dominic Huang</td>
-            <td>Chenyue Zhou</td>
-            <td>texa2qu</td>
+            <td>6oo32sur</td>
         </tr>
     </tbody>
 </table>
@@ -37,19 +35,19 @@ This course is best suited for 5th-10th grade students. It is targeted towards s
 ### Course Prerequisites
 
 - Prior coding experience is **strongly recommended**, preferably in Python
-  - You should be able to read Python code. Although you do not necessarily need to know Python to learn the concepts from this course, demonstrations will be done in Python, which will not be covered in this course
+  - You should be able to read Python code. Although you do not need to know Python to learn the concepts from this course, demonstrations will be done in Python, which will not be covered in this course
 
 # Course Dates
 
-This course runs for 2 weeks, starting on Monday, December 23, and ending on Thursday, January 2. Classes are held online from 9-10am via Zoom.
+This course runs for 1 week, starting on Monday, July 16, and ending on Friday, June 20. Classes are held online from 9-10am via Zoom.
 
 ### Class Times (PST)
 
-- Monday, December 23, 9-10am
-- Thursday, December 26, 9-10am
-- Monday, December 30, 9-10am
-- Saturday, August 3, 9-10am
-- Saturday, August 10, 9-10am
+- Monday, June 16, 4-5pm
+- Tuesday, June 17, 4-5pm
+- Wednesday, June 18, 4-5pm
+- Thursday, June 19, 4-5pm
+- Friday, June 20, 4-5pm
 
 # Syllabus
 

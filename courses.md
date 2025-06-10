@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winter 2024 Course Catalog
+title: Summer 2025 Course Catalog
 comments: false
 ---
 
@@ -15,7 +15,7 @@ comments: false
         </div>
         {% for course in site.courses %}
 
-            {% if course.path contains '2024w' %}
+            {% if course.path contains '2025s' %}
             <!-- change the line above in order to update course catalog -->
                 
                 <!-- begin course -->
