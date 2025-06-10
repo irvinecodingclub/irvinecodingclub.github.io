@@ -14,7 +14,6 @@ Submit the form below to be signed up for our email list! This is where all info
       width: 20px;
       height: 20px;
     }
-
     .g-recaptcha {
     transform: scale(1);
     -webkit-transform: scale(1);
@@ -22,7 +21,6 @@ Submit the form below to be signed up for our email list! This is where all info
     -webkit-transform-origin: 0 0;
     height: ;
     }
-
     .sr-only {
       position: absolute;
       width: 1px;
@@ -33,7 +31,6 @@ Submit the form below to be signed up for our email list! This is where all info
       clip: rect(0,0,0,0);
       border: 0;
     }
-
     .ml-form-embedSubmitLoad:after {
       content: " ";
       display: block;
@@ -69,7 +66,6 @@ Submit the form below to be signed up for our email list! This is where all info
       }
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper {
         background-color: #f6f6f6;
-        
         border-width: 0px;
         border-color: transparent;
         border-radius: 4px;
@@ -148,11 +144,9 @@ Submit the form below to be signed up for our email list! This is where all info
         color: #000000;
         text-decoration: underline;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-block-form .ml-field-group {
         text-align: left!important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-block-form .ml-field-group label {
         margin-bottom: 5px;
         color: #333333;
@@ -216,17 +210,13 @@ Submit the form below to be signed up for our email list! This is where all info
         max-width: 100% !important;
       }
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-webkit-input-placeholder,
-      #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::-webkit-input-placeholder { color: #333333; }
-
+      #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::-webkit-input-placeholder { color:#333333; }
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input::-moz-placeholder,
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::-moz-placeholder { color: #333333; }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input:-ms-input-placeholder,
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input:-ms-input-placeholder { color: #333333; }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input:-moz-placeholder,
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input:-moz-placeholder { color: #333333; }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow textarea, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow textarea {
         background-color: #ffffff !important;
         color: #333333 !important;
@@ -245,12 +235,10 @@ Submit the form below to be signed up for our email list! This is where all info
         box-sizing: border-box !important;
         max-width: 100% !important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
           border-color: #cccccc!important;
           background-color: #ffffff!important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input.custom-control-input[type="checkbox"]{
         box-sizing: border-box;
         padding: 0;
@@ -261,40 +249,31 @@ Submit the form below to be signed up for our email list! This is where all info
         margin-left: -1.5rem;
         overflow: visible;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
         border-radius: 4px!important;
       }
-
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::after {
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::after {
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23fff'/%3e%3c/svg%3e");
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::before  {
           border-color: #000000!important;
           background-color: #000000!important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::after {
            top: 2px;
            box-sizing: border-box;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
            top: 0px!important;
            box-sizing: border-box!important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
         top: 0px!important;
            box-sizing: border-box!important;
       }
-
        #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after {
             top: 0px!important;
             box-sizing: border-box!important;
@@ -305,12 +284,10 @@ Submit the form below to be signed up for our email list! This is where all info
             height: 1rem;
             content: "";
        }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before {
         top: 0px!important;
         box-sizing: border-box!important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::before {
           position: absolute;
           top: 4px;
@@ -324,7 +301,6 @@ Submit the form below to be signed up for our email list! This is where all info
           border: #adb5bd solid 1px;
           border-radius: 50%;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::after {
           position: absolute;
           top: 2px!important;
@@ -334,7 +310,6 @@ Submit the form below to be signed up for our email list! This is where all info
           height: 1rem;
           content: "";
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
           position: absolute;
           top: 4px;
@@ -348,7 +323,6 @@ Submit the form below to be signed up for our email list! This is where all info
           border: #adb5bd solid 1px;
           border-radius: 50%;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after {
           position: absolute;
           top: 0px!important;
@@ -358,7 +332,6 @@ Submit the form below to be signed up for our email list! This is where all info
           height: 1rem;
           content: "";
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
           position: absolute;
           top: 0px!important;
@@ -368,21 +341,18 @@ Submit the form below to be signed up for our email list! This is where all info
           height: 1rem;
           content: "";
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-radio .custom-control-label::after {
           background: no-repeat 50%/50% 50%;
       }
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-checkbox .custom-control-label::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
           background: no-repeat 50%/50% 50%;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-control, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-control {
         position: relative;
         display: block;
         min-height: 1.5rem;
         padding-left: 1.5rem;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input {
           position: absolute;
           z-index: -1;
@@ -390,7 +360,6 @@ Submit the form below to be signed up for our email list! This is where all info
           box-sizing: border-box;
           padding: 0;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label {
           color: #000000;
           font-size: 12px!important;
@@ -402,7 +371,6 @@ Submit the form below to be signed up for our email list! This is where all info
           font-style: normal;
           font-weight: 700;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-select, #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-select {
         background-color: #ffffff !important;
         color: #333333 !important;
@@ -427,8 +395,6 @@ Submit the form below to be signed up for our email list! This is where all info
         -moz-appearance: none;
         appearance: none;
       }
-
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow {
         height: auto;
         width: 100%;
@@ -505,7 +471,6 @@ Submit the form below to be signed up for our email list! This is where all info
         display: block;
         min-height: 24px;
         padding-left: 24px;
-
       }
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label a {
         color: #000000;
@@ -565,26 +530,22 @@ Submit the form below to be signed up for our email list! This is where all info
       .ml-error input, .ml-error textarea, .ml-error select {
         border-color: red!important;
       }
-
       .ml-error .custom-checkbox-radio-list {
         border: 1px solid red !important;
         border-radius: 4px;
         padding: 10px;
       }
-
       .ml-error .label-description,
       .ml-error .label-description p,
       .ml-error .label-description p a,
       .ml-error label:first-child {
         color: #ff0000 !important;
       }
-
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow.ml-error .label-description p,
       #mlb2-27074468.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow.ml-error .label-description p:first-letter {
         color: #ff0000 !important;
       }
             @media only screen and (max-width: 400px){
-
         .ml-form-embedWrapper.embedDefault, .ml-form-embedWrapper.embedPopup { width: 100%!important; }
         .ml-form-formContent.horozintalForm { float: left!important; }
         .ml-form-formContent.horozintalForm .ml-form-horizontalRow { height: auto!important; width: 100%!important; float: left!important; }
@@ -592,7 +553,6 @@ Submit the form below to be signed up for our email list! This is where all info
         .ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal > div { padding-right: 0px!important; padding-bottom: 10px; }
         .ml-form-formContent.horozintalForm .ml-button-horizontal { width: 100%!important; }
         .ml-form-formContent.horozintalForm .ml-button-horizontal.labelsOn { padding-top: 0px!important; }
-
       }
     </style>
 
