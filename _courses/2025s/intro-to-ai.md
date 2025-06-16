@@ -30,7 +30,7 @@ Even with prior programming experience, it may seem daunting to branch out into 
 
 # Who Is This Course For?
 
-This course is best suited for 5th-10th grade students. It is targeted towards students with at least beginner-level coding profieincy. See course prerequisites for more information.
+This course is best suited for 5th-10th grade students. It is targeted towards students with at least beginner-level coding proficiency. See course prerequisites for more information.
 
 ### Course Prerequisites
 
