@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer 2025 Course Catalog
+title: Summer 2026 Course Catalog
 comments: false
 ---
 
@@ -11,11 +11,11 @@ comments: false
     <div class="row listfeaturedtag">
 
         <div>
-            <h4>Enroll in ICC Courses <a href="{{ site.baseurl }}/enroll">here</a>!</h4>
+            <h4>Forever <b>free</b> video courses!</h4>
         </div>
         {% for course in site.courses %}
 
-            {% if course.path contains '2025s' %}
+            {% if course.path contains '2026s' %}
             <!-- change the line above in order to update course catalog -->
                 
                 <!-- begin course -->
@@ -35,7 +35,6 @@ comments: false
                                 <div class="metafooter">
                                     <div class="wrapfooter">
                                         <span class="post-level">Course Level: {{ course.level }}</span>
-                                        <span class="post-date"> | Starts {{ course.start_date }}</span>
                                         <span class="post-read-more"><a href="{{ course.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
                                         <div class="clearfix"></div>
                                     </div>

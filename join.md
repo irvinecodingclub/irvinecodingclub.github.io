@@ -20,8 +20,8 @@ Alternatively, join through the QR code below!
 
 <img class="enroll-code" src="{{ site.baseurl }}/assets/images/discord_code.png" alt="QR Code">
 
-#### Note: The member registration for the ICC (volunteers) is for students who are incoming 6th grade or above.
-If you are younger, you can still enroll in courses (and we recommend you do so!) but would advise against joining as a member until you're a bit older. We apologize for the inconvenience- however, if you still want to join, shoot us an email at <a href="mailto:theinspirecodingclub@gmail.com">theinspirecodingclub@gmail.com</a> and we'll get back to you!
+#### Note: The member registration for the ICC (volunteers) is for students who are incoming 9th grade or above.
+If you are younger, you can still enroll in courses (and we recommend you do so!) but would advise against joining as a member until you're a bit older. We apologize for the inconvenience- however, if you still want to join, shoot us an email at <a href="mailto:theinspirecodingclub@gmail.com">theinspirecodingclub@gmail.com</a> and we can discuss things further!
 
 <br />
 

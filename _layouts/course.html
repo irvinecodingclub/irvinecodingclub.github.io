@@ -4,66 +4,101 @@ archive: false
 post_class: post-template
 ---
 <link rel="stylesheet" href="/assets/css/table.css">
-<!-- Begin Article
-================================================== -->
 
-	<div class="row">
+<div class="overview">
 
-		<div class="col-sm-8">
-			<div class="mainheading">
+  <div class="col-sm-8">
+    <div class="mainheading">
 
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.name }}</h1>
+      <!-- Post Title -->
+      <h1 class="posttitle">{{ page.name }}</h1>
+      <h3 class="postlevel">Course Level: {{ page.level }}</h3>
+    </div>
 
-        <h3 class="postlevel">Course Level: {{ page.level }}</h3>
+    <!-- Post Featured Image -->
+    {% if page.image2 %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image2 }}"
+      alt="{{ page.name }}">{% else %}
+    {% endif %}
+    <!-- End Featured Image -->
 
-			</div>
+    <!-- Post Content -->
+    <div class="article-post">
+      {{content}}
+      <div class="clearfix"></div>
+    </div>
 
-			<!-- Post Featured Image -->
-			{% if page.image2 %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image2 }}" alt="{{ page.name }}">{% else %}
-			{% endif %}
-			<!-- End Featured Image -->
+    <h1>Enroll</h1>
 
-			<!-- Post Content -->
-			<div class="article-post">
-				{{content}}
-                <div class="clearfix"></div>
-			</div>
-
-      <h1>Enroll</h1>
-
-      <div>
-        <!-- Enroll in all ICC classes through the QR code below!
+    <div>
+      <!-- Enroll in all ICC classes through the QR code below!
         <br>
         <img class="enroll-code" src="{{ site.baseurl }}/assets/images/enroll2024.png" alt="QR Code">
         <br> -->
-        <!-- Or, if that doesn't work, a -->
-        Access the signup form here: <a href="https://forms.gle/TZudS2v5Qk4Bw8rY9">https://forms.gle/TZudS2v5Qk4Bw8rY9</a>
-      </div>
+      <!-- Or, if that doesn't work, a -->
+      <button class="btn btn-primary btn-lg" onclick="changePage(1)">Start learning!</button>
+    </div>
 
-            <!-- Prev/Next -->
-            <div class="row PageNavigation mt-4 prevnextlinks">
-              {% if page.previous.url %}
-                <div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{ page.previous.name }}</a>
-                </div>
-              {% endif %}
-              {% if page.next.url %}
-                <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{ page.next.name }} &raquo;</a>
-                </div>
-              {% endif %}
-            </div>
-            <!-- End Prev/Next -->
+  </div>
+
+</div>
+<!-- End Post -->
+
+<div class="video-player" style="display:none">
+
+  <div class="col-sm-8">
+    <div class="mainheading">
+  
+      <!-- Post Title -->
+      <h1 class="posttitle" id="lessonnumber">{{ page.name }}: Lesson </h1>
+  
+    </div>
+
+    <div style="text-align: center;">
+      <iframe width="100%" height="100%" class="video" style="aspect-ratio: 16 / 9;margin-left:15vw;"></iframe>
+    </div>
+  </div>
+
+  <div class="row PageNavigation mt-4 prevnextlinks">
+    <div class="col-md-6 rightborder pl-0">
+      <a class="thepostlink" id="backlink" href="#">&laquo; Previous Lesson</a>
+    </div>
+    <div class="col-md-6 text-right pr-0">
+      <a class="thepostlink" id="forwardlink" href="#">Next Lesson &raquo;</a>
+    </div>
+  </div>
+</div>
+
+<script>
+
+  const videoLinks = {{ page.video-links | jsonify }};
+  let index = 0;
+  
+  function renderPage(pageNumber) {
+    if (pageNumber == 0) {
+      document.querySelector('.overview').style = "display:block";
+      document.querySelector('.video-player').style = "display:none";
+    } else {
+      document.querySelector('.overview').style = "display:none";
+      document.querySelector('.video-player').style = "display:block";
+      document.querySelector('.video').src = videoLinks[index-1];
+      document.getElementById("lessonnumber").textContent = "{{ page.name }}: Lesson " +index;
+
+      if (index >= videoLinks.length) { // this is the last lesson
+        document.getElementById('forwardlink').style = "display:none";
+      } else {
+        document.getElementById('forwardlink').style = "display:block";
+      }
+    }
+
+  }
+
+  function changePage(add) {
+    index += add;
+    renderPage(index);
+  }
+
+  document.getElementById('backlink').addEventListener("click", () => changePage(-1));
+  document.getElementById('forwardlink').addEventListener("click", () => changePage(1));
 
 
-
-		</div>
-		<!-- End Post -->
-
-
-
-	</div>
-
-<!-- End Article
-================================================== -->
+</script>

@@ -35,7 +35,7 @@ Cultivate your passions and talk to others with similar interests! Our ultimate 
 
 # PVSA Awards
 
-ICC is open to all student volunteers! Your service hours may accumulate into earning a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/).
+ICC is open to all student volunteers **9th-12th grade**! Your service hours may accumulate into earning a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/).
 
 ![](assets/images/pvsa-logo.png)
 
