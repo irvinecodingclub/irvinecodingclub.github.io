@@ -5,6 +5,7 @@ level: "Intermediate-Advanced"
 image: assets/images/thumbnails/course/us-history.png
 image2: assets/images/thumbnails/course/us-history.png
 desc: "Learn early US History, from European colonization all the way to the Civil War!"
+video-links: ["https://www.youtube.com/embed/5e2ynf8rMjo","https://www.youtube.com/embed/viohSCBHhf0"]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">

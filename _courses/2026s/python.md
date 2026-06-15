@@ -5,6 +5,7 @@ level: "Beginner + Intermediate"
 image: assets/images/thumbnails/course/intro-python.png
 image2: assets/images/thumbnails/course/intro-python.png
 desc: "Learn one of the most commonly used programming languages, useful in all levels!"
+video-links: ["https://www.youtube.com/embed/H4VJaKC7018","https://www.youtube.com/embed/YSfpKU0yfuU","https://www.youtube.com/embed/8v8uMGjMXvE","https://www.youtube.com/embed/BmQHNvWrJGY"]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">

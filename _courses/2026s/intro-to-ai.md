@@ -5,7 +5,7 @@ level: "Beginner-Intermediate"
 image: assets/images/thumbnails/course/intro-to-ai.png
 image2: assets/images/thumbnails/course/intro-to-ai.png
 desc: "Learn fundamental concepts of Artificial Intelligence, in an interactive and easy-to-grasp way!"
-video-links: ["https://www.youtube.com/embed/c88JOpJhNHY"]
+video-links: ["https://www.youtube.com/embed/SqIfqOqx7jk","https://www.youtube.com/embed/hmfv3zdINcI","https://www.youtube.com/embed/0aOeRaCZenE","https://www.youtube.com/embed/Xqmxex1kChU","https://www.youtube.com/embed/zncOvvNdnEU"]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
