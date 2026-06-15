@@ -16,12 +16,6 @@ comments: false
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/members/snowflake.png" alt="Person">
-              <div class="p-name">Cameron Weng</div>
-              <div class="p-des">President</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/members/chenyuezhou.png" alt="Person">
               <div class="p-name">Chenyue Zhou</div>
               <div class="p-des">Vice President</div>
