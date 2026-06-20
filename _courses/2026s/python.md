@@ -5,7 +5,16 @@ level: "Beginner + Intermediate"
 image: assets/images/thumbnails/course/intro-python.png
 image2: assets/images/thumbnails/course/intro-python.png
 desc: "Learn one of the most commonly used programming languages, useful in all levels!"
-video-links: ["https://www.youtube.com/embed/H4VJaKC7018","https://www.youtube.com/embed/YSfpKU0yfuU","https://www.youtube.com/embed/8v8uMGjMXvE","https://www.youtube.com/embed/BmQHNvWrJGY"]
+video-links: [
+    ["https://www.youtube.com/embed/H4VJaKC7018",'Link to slides: <a href="https://docs.google.com/presentation/d/1qWNx2mMnHBGHv9XtSdbPC_yrjHHaMDUnbT4TZZTVD-M/edit?usp=sharing">Lesson 1</a>'],
+    ["https://www.youtube.com/embed/YSfpKU0yfuU",'Link to slides: <a href="https://docs.google.com/presentation/d/1HdIO3azy_9tJms6y5sq-AWwsSprRECsuDaSIhTtpFxk/edit?usp=sharing">Lesson 2</a>'],
+    ["https://www.youtube.com/embed/8v8uMGjMXvE",'Link to slides: <a href="https://docs.google.com/presentation/d/1W4W0QtfyUfXOXnk-3ycbWpvRGU3-KH3ElI3hfh5WE4Y/edit?usp=sharing">Lesson 3</a>'],
+    ["https://www.youtube.com/embed/BmQHNvWrJGY",'Link to slides: <a href="https://docs.google.com/presentation/d/1PS7vGrzAL6LuwNR4kHHRuCyxNjmEzTHQQ4I7kb-W3-o/edit?usp=sharing">Lesson 4</a>'],
+    ["https://www.youtube.com/embed/D3EcbFAxXBA",'Link to slides: <a href="https://docs.google.com/presentation/d/1WSopgTe3FsjgyNXVFt6BEEpdH-58Q-Kb-q07OoBxn5E/edit?usp=sharing">Lesson 5</a>'],
+    ["https://www.youtube.com/embed/A4fVtXkj_7g",'Link to slides: <a href="https://docs.google.com/presentation/d/1ANCG43pJ7KyBnrQs9RGSw5qtz8S7Trchpy-pDme0s9k/edit?usp=sharing">Lesson 6</a>'],
+    ["https://www.youtube.com/embed/3oeUtiLu6Ks",'Link to slides: <a href="https://docs.google.com/presentation/d/1eOgRHLhvyGPTQnnj5U_KkArHpdmOQ7W6MJFVydtlAwo/edit?usp=sharing">Lesson 7</a>'],
+    ["https://www.youtube.com/embed/R4Plq5JQyMU",'Link to slides: <a href="https://docs.google.com/presentation/d/1tUAu8pkLKb0CEIzy7U3x7LrZCsyW7-z6tJXSDPfcw9I/edit?usp=sharing">Lesson 8</a>']
+]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -34,21 +43,6 @@ This course is for anyone interested in Python and computer science, though reco
 
 - A working device, such as a computer
   - The course will be very hands-on, meaning that we will be coding in class a lot
-
-# Course Dates
-
-This course runs twice a week for 4 weeks, starting on Tuesday, July 8, and ending on Thursday, July 10. Classes are held online from 3-4pm via Zoom.
-
-### Class Times (PST)
-
-- Tuesday, July 8, 3-4pm
-- Friday, July 10, 3-4pm
-- Tuesday, July 15, 3-4pm
-- Friday, July 17, 3-4pm
-- Tuesday, July 22, 3-4pm
-- Friday, July 24, 3-4pm
-- Tuesday, July 29, 3-4pm
-- Friday, July 31, 3-4pm
 
 # Syllabus
 

@@ -5,6 +5,12 @@ level: "Beginner"
 image: assets/images/thumbnails/course/debate.png
 image2: assets/images/thumbnails/course/debate.png
 desc: "Learn the basics of public speaking and argumentation!"
+video-links: [
+    ["https://www.youtube.com/embed/ivb2AGk7hEI",'In this lesson, learn the fundamentals of creating structured arguments and the basics of Public Forum Debate.<br><br>Access the slides here: <a href="https://docs.google.com/presentation/d/1Kv0n4eivIZrBaubNP5t8OCTs_ctUjPlAylEG15J62Y0/edit?usp=sharing">Lesson 1</a>'],
+    ["https://www.youtube.com/embed/myY-cq8qfp0",'This lesson covers the process of analyzing a resolution, constructing a case, and finding evidence: skills necessary for technical and well-researched debates!<br><br>Access the slides here: <a href="https://docs.google.com/presentation/d/1AsEGGl0Wk_sJUaYk8MbzFM5O4Egbw2TLJQfCJcBaYNw/edit?usp=sharing">Lesson 2</a>'],
+    ["https://www.youtube.com/embed/7IA_fg6HRBQ",'Refutations and the rebuttal speech are the main focus of today’s lesson. Learn how to properly engage with opposing positions, common rebuttal arguments, and crossfire strategies in this video.<br><br>Access the slides here: <a href="https://docs.google.com/presentation/d/1ndZ66Gyu-3b6vgUrkYXqlM7pag9vpKe0nAXPmd9VLEc/edit?usp=sharing">Lesson 3</a>'],
+    ["https://www.youtube.com/embed/BvjPzqFpPNY",'Crystallizing core arguments is key in the latter half of a Public Forum debate. Learn to identify strategic arguments to collapse on and how to articulate them effectively in the summary and final focus speeches.<br><br>Access the slides here: <a href="https://docs.google.com/presentation/d/19byD1TW0KUo3MKRayCKff6oSm1AI67yczs4wL_bljmA/edit?usp=sharing">Lesson 4</a>']
+]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -33,18 +39,6 @@ This course is best suited for 3-8th grade students looking to get into public s
 
 - Ability to do basic research
 - Non-school Google account with ability to access Google Classroom, Slides, Docs
-
-# Course Dates
-
-This course runs for a little over a week and is held the week of August 2, ending on August 11.
-
-### Class Times (PST)
-
-- Saturday, August 2, 10-12pm
-- Monday, August 4, 10-12pm
-- Thursday, August 7, 10-12pm
-- Saturday, August 9, 10-12pm
-- Monday, August 11, 10-12pm
 
 # Syllabus
 

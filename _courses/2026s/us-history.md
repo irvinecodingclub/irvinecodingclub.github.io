@@ -5,7 +5,12 @@ level: "Intermediate-Advanced"
 image: assets/images/thumbnails/course/us-history.png
 image2: assets/images/thumbnails/course/us-history.png
 desc: "Learn early US History, from European colonization all the way to the Civil War!"
-video-links: ["https://www.youtube.com/embed/5e2ynf8rMjo","https://www.youtube.com/embed/viohSCBHhf0"]
+video-links: [
+    ["https://www.youtube.com/embed/5e2ynf8rMjo",'Link to slides: <a href="https://docs.google.com/presentation/d/1L507HiyhP-hbAEa7EO5nAHqZNQWhDi71Ll5g8xaKM0E/edit?usp=sharing">Lesson 1</a>'],
+    ["https://www.youtube.com/embed/viohSCBHhf0",'Link to slides: <a href="https://docs.google.com/presentation/d/1HZqWzAt2SKxNTsf20x9s0TsQhIH8KuSY2oj89tz0AIk/edit?usp=sharing">Lesson 2</a>'],
+    ["https://www.youtube.com/embed/uzTt107oUGk",'Link to slides: <a href="https://docs.google.com/presentation/d/1bn-eRoOd11S9ftJGieuFPotHXE3VoiyICfJW5Qn2mAU/edit?usp=sharing">Lesson 3</a>'],
+    ["https://www.youtube.com/embed/qYYFoT-TxKU",'Link to slides: <a href="https://docs.google.com/presentation/d/1ympM4xoeglGBkjq80RZJjWUWBi6q4mYw9_EEI7_Bke8/edit?usp=sharing">Lesson 4</a>']
+]
 ---
 <link rel="stylesheet" href="assets/css/table.css">
 <table class="styled-table">
@@ -38,16 +43,6 @@ This course is best suited for 5th-10th grade students. See course prerequisites
 
 - Notebook, pen/paper
 - Basic knowledge of US history
-
-# Course Dates
-
-This course runs for 3 weeks weekly, starting on Saturday, June 28, and ending on Saturday, July 12. Classes are held online at 6pm via Zoom. Classes are about 1 and a half hours long (office hours are available before and after class if needed).
-
-### Class Times (PST)
-
-- Saturday, June 28, 3-4:30pm
-- Saturday, July 5, 3-4:30pm
-- Saturday, July 12, 3-4:30pm
 
 # Syllabus
 

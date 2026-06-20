@@ -6,10 +6,9 @@ post_class: post-template
 <link rel="stylesheet" href="/assets/css/table.css">
 
 <div class="overview">
-
   <div class="col-sm-8">
     <div class="mainheading">
-
+      <br>
       <!-- Post Title -->
       <h1 class="posttitle">{{ page.name }}</h1>
       <h3 class="postlevel">Course Level: {{ page.level }}</h3>
@@ -43,19 +42,19 @@ post_class: post-template
 </div>
 <!-- End Post -->
 
-<div class="video-player" style="display:none">
+<div class="video-player container" style="display:none">
 
-  <div class="col-sm-8">
-    <div class="mainheading">
-  
-      <!-- Post Title -->
-      <h1 class="posttitle" id="lessonnumber">{{ page.name }}: Lesson </h1>
-  
-    </div>
+  <div class="mainheading">
+    <br>
+    <!-- Post Title -->
+    <h1 class="posttitle" id="lessonnumber">{{ page.name }}: Lesson </h1>
 
-    <div style="text-align: center;">
-      <iframe width="100%" height="100%" class="video" style="aspect-ratio: 16 / 9;margin-left:15vw;"></iframe>
-    </div>
+  </div>
+
+  <div class="col-sm-8 mx-auto">
+    <iframe width="100%" height="100%" class="video" style="aspect-ratio: 16 / 9;"></iframe>
+    <br>
+    <div class="description"></div>
   </div>
 
   <div class="row PageNavigation mt-4 prevnextlinks">
@@ -80,7 +79,8 @@ post_class: post-template
     } else {
       document.querySelector('.overview').style = "display:none";
       document.querySelector('.video-player').style = "display:block";
-      document.querySelector('.video').src = videoLinks[index-1];
+      document.querySelector('.video').src = videoLinks[index-1][0];
+      document.querySelector('.description').innerHTML = videoLinks[index - 1][1];
       document.getElementById("lessonnumber").textContent = "{{ page.name }}: Lesson " +index;
 
       if (index >= videoLinks.length) { // this is the last lesson
