@@ -20,6 +20,12 @@ comments: false
               <div class="p-name">Chenyue Zhou</div>
               <div class="p-des">Vice President</div>
             </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/members/jaydenkim.png" alt="Person">
+              <div class="p-name">Jayden Kim</div>
+              <div class="p-des">Chief of Staff</div>
+            </div>
         </div>
   </div>
 </div>
