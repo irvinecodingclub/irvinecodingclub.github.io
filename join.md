@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Join the Inspire Coding Club!
+title: Join Inspire Academy!
 permalink: /join
 ---
 
-The Inspire Coding Club is currently accepting volunteering for 
+Inspire Academy is currently accepting volunteering for 
  - Teaching courses
  - TAing for courses
  - Creating new courses

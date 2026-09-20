@@ -7,15 +7,15 @@ comments: false
 
 # Our Mission
 
-The Inspire Coding Club (ICC) is a 501(c)(3) non-profit organization run by students. It is a note to our past selves; our ultimate goal is to increase educational opportunities through the offering of classes of which we never had the opportunities to take. In this way, the ICC reflects upon its volunteers and their individual experiences as each course is led with strong passion through effective altruism. Although we started out with a primary focus on STEM, our catalogue has since branched out much further, having included topics such as animation, debate, music, and more!
+The Inspire Academy is a 501(c)(3) non-profit organization run by students. It is a note to our past selves; our ultimate goal is to increase educational opportunities through the offering of classes of which we never had the opportunities to take. In this way, the ICC reflects upon its volunteers and their individual experiences as each course is led with strong passion through effective altruism. Although we started out with a primary focus on STEM, our catalogue has since branched out much further, having included topics such as animation, debate, music, and more!
 
-The Inspire Coding Club is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) (PVSA) Certifying Organization.
+Inspire Academy is a [Presidential Volunteer Service Award](https://www.presidentialserviceawards.gov/) (PVSA) Certifying Organization.
 
 # Ways to contribute!
 
 #### Become a Lecturer
 
-ICC lecturers lead our classes. Lecturers will also actively participate in writing class materials. Lecturers can create courses out of any approved topic or work with other lecturers to further the material of existing classes.
+Inspire Academy lecturers lead our classes. Lecturers will also actively participate in writing class materials. Lecturers can create courses out of any approved topic or work with other lecturers to further the material of existing classes.
 
 #### Become a Teacher Assistant
 

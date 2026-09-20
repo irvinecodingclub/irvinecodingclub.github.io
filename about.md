@@ -41,7 +41,7 @@ div#sidebarcont a { /* this one isn't as noticeable but it is annoying */
 <h3><i>"We are the movement of students building the classes we wish we could take."</i></h3>
 <h5><a href="https://github.com/hackclub">- hackclub.com</a></h5>
 
-In 2020, Inspire Coding Club (ICC) was founded as a school CS club (at Rancho San Joaquin Middle School). ICC was created as a student-run community service organization for CS enthusiasts. Soon, ICC grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the ICC plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
+In 2020, Inspire Academy was founded as a school CS club (at Rancho San Joaquin Middle School). Inspire Academy was created as a student-run community service organization for CS enthusiasts. Soon, it grew to a non-profit organization in California covering topics beyond CS, including math, robotics, art, debate, writing, and more. In the future, the Inspire Academy plans to create more courses and lectures to further benefit the community, as well as host workshops and tournaments to inspire more students to take part in their academics while having fun.
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
 
 <br>

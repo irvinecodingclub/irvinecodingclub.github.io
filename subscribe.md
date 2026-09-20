@@ -13,7 +13,7 @@ permalink: /subscribe
     ml('account', '1561581');
 </script>
 <!-- End MailerLite Universal -->
-Submit the form below to be signed up for our email list! This is where all information regarding the Inspire Coding Club will be sent. In addition, you may receive occasional newsletters showcasing the recent acheivements of the organization.
+Submit the form below to be signed up for our email list! This is where all information regarding Inspire Academy will be sent. In addition, you may receive occasional newsletters showcasing the recent acheivements of the organization.
 
 <div class="ml-embedded" data-form="okN6qd"></div>
 
